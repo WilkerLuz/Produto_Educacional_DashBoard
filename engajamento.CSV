@@ -1,0 +1,39 @@
+ID,USERID,NOME,EXPERIENCIA,TOTAL_CP,ENG_CP,TOTAL_ATIVIDADE_01,ENG_ATV_01,ENGAJAMENTO_01,TOTAL_ATIVIDADE_02,ENG_ATV_02,TOTAL_ATIVIDADE_03,ENG_ATV_03,ENGAJAMENTO_02,MEDIA_ENG
+aluno 01,63,Aluno 01,"Sim, já tive contato, mas não consigo programar sozinho sem ajuda.",0,0,10,100,50,10,100,0,0,50,50
+aluno 02,56,Aluno 02,"Sim, já tive contato, mas não consigo programar sozinho sem ajuda.","7,28",100,10,100,100,10,100,10,100,100,100
+aluno 03,41,Aluno 03,"Não, será o primeiro contato.","5,42",100,10,100,100,10,100,10,100,100,100
+aluno 04,25,Aluno 04,"Sim, já tive contato, mas não consigo programar sozinho sem ajuda.","3,13",100,5,100,100,10,100,9,100,100,100
+aluno 05,26,Aluno 05,"Sim, já fiz cursos, consigo realizar pequenos projetos, mas nada muito avançado.","7,70",100,"7,5",100,100,10,100,10,100,100,100
+aluno 06,20,Aluno 06,"Sim, já fiz cursos, consigo realizar pequenos projetos, mas nada muito avançado.","3,34",100,5,100,100,10,100,0,0,50,75
+aluno 07,43,Aluno 07,"Sim, já tive contato, mas não consigo programar sozinho sem ajuda.","3,34",100,"7,5",100,100,10,100,9,100,100,100
+aluno 08,65,Aluno 08,"Sim, já fiz cursos, consigo realizar pequenos projetos, mas nada muito avançado.",0,0,0,0,0,0,0,0,0,0,0
+aluno 09,40,Aluno 09,"Sim, já tive contato, mas não consigo programar sozinho sem ajuda.","0,83",100,10,100,100,0,0,0,0,0,50
+aluno 10,50,Aluno 10,"Sim, já tive contato, mas não consigo programar sozinho sem ajuda.","6,25",100,5,100,100,"8,75",100,4,100,100,100
+aluno 11,35,Aluno 11,"Sim, já tive contato, mas não consigo programar sozinho sem ajuda.","6,67",100,10,100,100,10,100,9,100,100,100
+aluno 12,36,Aluno 12,"Sim, já fiz cursos, consigo realizar pequenos projetos, mas nada muito avançado.","5,62",100,10,100,100,10,100,10,100,100,100
+aluno 13,34,Aluno 13,"Não, será o primeiro contato.","5,42",100,"2,5",100,100,10,100,10,100,100,100
+aluno 14,48,Aluno 14,"Não, será o primeiro contato.","7,29",100,"7,5",100,100,10,100,10,100,100,100
+aluno 15,53,Aluno 15,"Não, será o primeiro contato.","1,88",100,5,100,100,"8,75",100,0,0,50,75
+aluno 16,45,Aluno 16,"Não, será o primeiro contato.","1,68",100,0,0,50,0,0,0,0,0,25
+aluno 17,39,Aluno 17,"Sim, já fiz cursos, consigo realizar pequenos projetos, mas nada muito avançado.",0,0,5,100,50,10,100,10,100,100,75
+aluno 18,38,Aluno 18,"Sim, muita experiência mas não trabalho na área.","5,84",100,10,100,100,10,100,8,100,100,100
+aluno 19,54,Aluno 19,"Sim, já tive contato, mas não consigo programar sozinho sem ajuda.","4,80",100,"6,25",100,100,10,100,5,100,100,100
+aluno 20,30,Aluno 20,"Sim, já tive contato, mas não consigo programar sozinho sem ajuda.","4,38",100,5,100,100,10,100,8,100,100,100
+aluno 21,22,Aluno 21,"Sim, já tive contato, mas não consigo programar sozinho sem ajuda.","6,45",100,10,100,100,10,100,10,100,100,100
+aluno 22,49,Aluno 22,"Sim, já fiz cursos, consigo realizar pequenos projetos, mas nada muito avançado.","5,84",100,"7,5",100,100,10,100,9,100,100,100
+aluno 24,44,Aluno 24,"Sim, já tive contato, mas não consigo programar sozinho sem ajuda.","2,09",100,0,100,100,10,100,0,0,50,75
+aluno 25,46,Aluno 25,"Sim, já tive contato, mas não consigo programar sozinho sem ajuda.","1,46",100,10,100,100,10,100,9,100,100,100
+aluno 26,51,Aluno 26,"Não, será o primeiro contato.","4,38",100,5,100,100,"8,75",100,0,0,50,75
+aluno 27,57,Aluno 27,"Sim, muita experiência mas não trabalho na área.",0,0,5,100,50,10,100,10,100,100,75
+aluno 28,27,Aluno 28,"Não, será o primeiro contato.","4,60",100,5,100,100,"8,75",100,10,100,100,100
+aluno 29,60,Aluno 29,"Não, será o primeiro contato.",0,0,0,0,0,0,0,0,0,0,0
+aluno 30,21,Aluno 30,"Sim, já fiz cursos, consigo realizar pequenos projetos, mas nada muito avançado.","5,21",100,"6,25",100,100,10,100,10,100,100,100
+aluno 31,18,Aluno 31,"Sim, já tive contato, mas não consigo programar sozinho sem ajuda.","2,51",100,10,100,100,10,100,9,100,100,100
+aluno 32,23,Aluno 32,"Sim, já fiz cursos, consigo realizar pequenos projetos, mas nada muito avançado.","2,51",100,"7,5",100,100,10,100,9,100,100,100
+aluno 33,29,Aluno 33,"Sim, já tive contato, mas não consigo programar sozinho sem ajuda.","4,58",100,5,100,100,10,100,4,100,100,100
+aluno 34,31,Aluno 34,"Sim, já tive contato, mas não consigo programar sozinho sem ajuda.","2,08",100,"8,75",100,100,10,100,0,0,50,75
+aluno 35,37,Aluno 35,"Não, será o primeiro contato.","3,76",100,5,100,100,10,100,5,100,100,100
+aluno 36,47,Aluno 36,"Não, será o primeiro contato.","1,88",100,0,100,100,10,100,0,0,50,75
+aluno 37,42,Aluno 37,"Não, será o primeiro contato.","2,92",100,"7,5",100,100,10,100,10,100,100,100
+aluno 38,52,Aluno 38,"Não, será o primeiro contato.","5,83",100,10,100,100,10,100,0,0,50,75
+aluno 39,28,Aluno 39,"Sim, já fiz cursos, consigo realizar pequenos projetos, mas nada muito avançado.","3,96",100,10,100,100,10,100,9,100,100,100

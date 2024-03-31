@@ -1,0 +1,24 @@
+/* styles.css */
+
+.styled-table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid #ddd;
+}
+
+.styled-table th,
+.styled-table td {
+    padding: 8px;
+    text-align: center;
+}
+.styled-table th {
+    background-color: #f2f2f2;
+}
+
+.table-cell {
+    border-top: 1px solid #ddd;
+}
+
+.table-header {
+    font-weight: bold;
+}

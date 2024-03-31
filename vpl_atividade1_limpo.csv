@@ -1,0 +1,1136 @@
+USERID,VPL,ID_vpl,DATESSUBMITTED,COMMENTS,DATEGRADED,GRADE,DATA_ENVIO,DATA_AVALIACAO,NOTA,CONTAGEM,ID_alunos,FIRSTNAME,LASTNAME,NAME,NOME_ALUNO,ATRASO,ENTREGA_NO_PRAZO
+18,40,7953,1682186071,,1682186131,1.000.000,2023-04-22 17:54:31,2023-04-22 17:55:31,10.0,7,18,Pedro,Victor Soares da Silva Araújo,Questão 01,Pedro Victor Soares da Silva Araújo,True,False
+18,41,364,1681145789,,1681145794,1.000.000,2023-04-10 16:56:29,2023-04-10 16:56:34,10.0,3,18,Pedro,Victor Soares da Silva Araújo,Questão 02,Pedro Victor Soares da Silva Araújo,False,True
+18,42,406,1681146045,,1681146092,1.000.000,2023-04-10 17:00:45,2023-04-10 17:01:32,10.0,2,18,Pedro,Victor Soares da Silva Araújo,Questão 03,Pedro Victor Soares da Silva Araújo,False,True
+18,43,422,1681146245,,1681146290,1.000.000,2023-04-10 17:04:05,2023-04-10 17:04:50,10.0,1,18,Pedro,Victor Soares da Silva Araújo,Questão 04,Pedro Victor Soares da Silva Araújo,False,True
+18,44,457,1681146545,,1681146553,1.000.000,2023-04-10 17:09:05,2023-04-10 17:09:13,10.0,2,18,Pedro,Victor Soares da Silva Araújo,Questão 05,Pedro Victor Soares da Silva Araújo,False,True
+18,45,559,1681147133,,1681147154,1.000.000,2023-04-10 17:18:53,2023-04-10 17:19:14,10.0,4,18,Pedro,Victor Soares da Silva Araújo,Questão 06,Pedro Victor Soares da Silva Araújo,False,True
+18,46,839,1681148224,,1681148229,1.000.000,2023-04-10 17:37:04,2023-04-10 17:37:09,10.0,13,18,Pedro,Victor Soares da Silva Araújo,Questão 07,Pedro Victor Soares da Silva Araújo,False,True
+18,47,887,1681148405,,1681148424,1.000.000,2023-04-10 17:40:05,2023-04-10 17:40:24,10.0,1,18,Pedro,Victor Soares da Silva Araújo,Questão 08,Pedro Victor Soares da Silva Araújo,False,True
+18,48,966,1681148762,,1681148766,1.000.000,2023-04-10 17:46:02,2023-04-10 17:46:06,10.0,2,18,Pedro,Victor Soares da Silva Araújo,Questão 09,Pedro Victor Soares da Silva Araújo,False,True
+18,49,1094,1681149229,,1681149258,1.000.000,2023-04-10 17:53:49,2023-04-10 17:54:18,10.0,3,18,Pedro,Victor Soares da Silva Araújo,Questão 10,Pedro Victor Soares da Silva Araújo,False,True
+18,50,1144,1681149431,,1681149448,1.000.000,2023-04-10 17:57:11,2023-04-10 17:57:28,10.0,1,18,Pedro,Victor Soares da Silva Araújo,Questão 11,Pedro Victor Soares da Silva Araújo,False,True
+18,51,1899,1681259496,,1681259528,1.000.000,2023-04-12 00:31:36,2023-04-12 00:32:08,10.0,5,18,Pedro,Victor Soares da Silva Araújo,Questão 12,Pedro Victor Soares da Silva Araújo,False,True
+18,53,1909,1681259960,,1681259975,1.000.000,2023-04-12 00:39:20,2023-04-12 00:39:35,10.0,3,18,Pedro,Victor Soares da Silva Araújo,Questão 13,Pedro Victor Soares da Silva Araújo,False,True
+18,54,1921,1681260343,,1681260348,1.000.000,2023-04-12 00:45:43,2023-04-12 00:45:48,10.0,2,18,Pedro,Victor Soares da Silva Araújo,Questão 14,Pedro Victor Soares da Silva Araújo,False,True
+18,55,1931,1681260733,,1681260753,1.000.000,2023-04-12 00:52:13,2023-04-12 00:52:33,10.0,2,18,Pedro,Victor Soares da Silva Araújo,Questão 15,Pedro Victor Soares da Silva Araújo,False,True
+18,56,1938,1681260995,,1681261242,1.000.000,2023-04-12 00:56:35,2023-04-12 01:00:42,10.0,1,18,Pedro,Victor Soares da Silva Araújo,Questão 16,Pedro Victor Soares da Silva Araújo,False,True
+18,57,1957,1681261573,,1681261666,1.000.000,2023-04-12 01:06:13,2023-04-12 01:07:46,10.0,2,18,Pedro,Victor Soares da Silva Araújo,Questão 17,Pedro Victor Soares da Silva Araújo,False,True
+18,58,1967,1681262014,,1681262029,1.000.000,2023-04-12 01:13:34,2023-04-12 01:13:49,10.0,2,18,Pedro,Victor Soares da Silva Araújo,Questão 18,Pedro Victor Soares da Silva Araújo,False,True
+18,59,1983,1681262393,,1681262417,1.000.000,2023-04-12 01:19:53,2023-04-12 01:20:17,10.0,1,18,Pedro,Victor Soares da Silva Araújo,Questão 19,Pedro Victor Soares da Silva Araújo,False,True
+18,60,1999,1681262708,,1681262724,1.000.000,2023-04-12 01:25:08,2023-04-12 01:25:24,10.0,3,18,Pedro,Victor Soares da Silva Araújo,Questão 20,Pedro Victor Soares da Silva Araújo,False,True
+18,61,2015,1681263053,,1681263083,1.000.000,2023-04-12 01:30:53,2023-04-12 01:31:23,10.0,1,18,Pedro,Victor Soares da Silva Araújo,Questão 21,Pedro Victor Soares da Silva Araújo,False,True
+18,62,2283,1681269591,,1681269610,1.000.000,2023-04-12 03:19:51,2023-04-12 03:20:10,10.0,4,18,Pedro,Victor Soares da Silva Araújo,Questão 22,Pedro Victor Soares da Silva Araújo,False,True
+18,63,2460,1681304771,,1681304790,1.000.000,2023-04-12 13:06:11,2023-04-12 13:06:30,10.0,4,18,Pedro,Victor Soares da Silva Araújo,Questão 23,Pedro Victor Soares da Silva Araújo,False,True
+18,64,2467,1681304969,,1681304988,1.000.000,2023-04-12 13:09:29,2023-04-12 13:09:48,10.0,1,18,Pedro,Victor Soares da Silva Araújo,Questão 24,Pedro Victor Soares da Silva Araújo,False,True
+18,65,2483,1681305312,,1681305343,1.000.000,2023-04-12 13:15:12,2023-04-12 13:15:43,10.0,2,18,Pedro,Victor Soares da Silva Araújo,Questão 25,Pedro Victor Soares da Silva Araújo,False,True
+18,66,2495,1681305620,,1681305636,1.000.000,2023-04-12 13:20:20,2023-04-12 13:20:36,10.0,1,18,Pedro,Victor Soares da Silva Araújo,Questão 26,Pedro Victor Soares da Silva Araújo,False,True
+18,67,2507,1681306078,,1681306095,1.000.000,2023-04-12 13:27:58,2023-04-12 13:28:15,10.0,2,18,Pedro,Victor Soares da Silva Araújo,Questão 27,Pedro Victor Soares da Silva Araújo,False,True
+18,68,5615,1681645929,,1681645939,1.000.000,2023-04-16 11:52:09,2023-04-16 11:52:19,10.0,36,18,Pedro,Victor Soares da Silva Araújo,Questão DESAFIO!,Pedro Victor Soares da Silva Araújo,False,True
+20,40,866,1681148323,,1681148409,1.000.000,2023-04-10 17:38:43,2023-04-10 17:40:09,10.0,10,20,Crisfieldy,Aristodenes,Questão 01,Crisfieldy Aristodenes,False,True
+20,41,944,1681148619,,1681148653,1.000.000,2023-04-10 17:43:39,2023-04-10 17:44:13,10.0,1,20,Crisfieldy,Aristodenes,Questão 02,Crisfieldy Aristodenes,False,True
+20,42,1301,1681171035,,1681171349,1.000.000,2023-04-10 23:57:15,2023-04-11 00:02:29,10.0,11,20,Crisfieldy,Aristodenes,Questão 03,Crisfieldy Aristodenes,False,True
+20,43,1415,1681176920,,1681177365,1.000.000,2023-04-11 01:35:20,2023-04-11 01:42:45,10.0,16,20,Crisfieldy,Aristodenes,Questão 04,Crisfieldy Aristodenes,False,True
+20,44,3955,1681503264,,1681503314,1.000.000,2023-04-14 20:14:24,2023-04-14 20:15:14,10.0,4,20,Crisfieldy,Aristodenes,Questão 05,Crisfieldy Aristodenes,False,True
+20,45,4047,1681503792,,1681503809,1.000.000,2023-04-14 20:23:12,2023-04-14 20:23:29,10.0,5,20,Crisfieldy,Aristodenes,Questão 06,Crisfieldy Aristodenes,False,True
+20,46,4104,1681504159,,1681504183,1.000.000,2023-04-14 20:29:19,2023-04-14 20:29:43,10.0,3,20,Crisfieldy,Aristodenes,Questão 07,Crisfieldy Aristodenes,False,True
+20,47,4168,1681504441,,1681504444,1.000.000,2023-04-14 20:34:01,2023-04-14 20:34:04,10.0,3,20,Crisfieldy,Aristodenes,Questão 08,Crisfieldy Aristodenes,False,True
+20,48,4201,1681504654,,1681504674,1.000.000,2023-04-14 20:37:34,2023-04-14 20:37:54,10.0,2,20,Crisfieldy,Aristodenes,Questão 09,Crisfieldy Aristodenes,False,True
+20,49,4265,1681505027,,1681505038,1.000.000,2023-04-14 20:43:47,2023-04-14 20:43:58,10.0,4,20,Crisfieldy,Aristodenes,Questão 10,Crisfieldy Aristodenes,False,True
+20,50,4350,1681505574,,1681505577,1.000.000,2023-04-14 20:52:54,2023-04-14 20:52:57,10.0,2,20,Crisfieldy,Aristodenes,Questão 11,Crisfieldy Aristodenes,False,True
+20,51,4376,1681505771,,1681505775,1.000.000,2023-04-14 20:56:11,2023-04-14 20:56:15,10.0,1,20,Crisfieldy,Aristodenes,Questão 12,Crisfieldy Aristodenes,False,True
+20,53,4391,1681505980,,1681505983,1.000.000,2023-04-14 20:59:40,2023-04-14 20:59:43,10.0,1,20,Crisfieldy,Aristodenes,Questão 13,Crisfieldy Aristodenes,False,True
+20,54,4452,1681506383,,1681506387,1.000.000,2023-04-14 21:06:23,2023-04-14 21:06:27,10.0,2,20,Crisfieldy,Aristodenes,Questão 14,Crisfieldy Aristodenes,False,True
+20,55,4499,1681506774,,1681506780,1.000.000,2023-04-14 21:12:54,2023-04-14 21:13:00,10.0,2,20,Crisfieldy,Aristodenes,Questão 15,Crisfieldy Aristodenes,False,True
+20,56,6096,1681691092,,1681691130,1.000.000,2023-04-17 00:24:52,2023-04-17 00:25:30,10.0,5,20,Crisfieldy,Aristodenes,Questão 16,Crisfieldy Aristodenes,False,True
+20,57,6238,1681722968,,1681722975,1.000.000,2023-04-17 09:16:08,2023-04-17 09:16:15,10.0,2,20,Crisfieldy,Aristodenes,Questão 17,Crisfieldy Aristodenes,False,True
+20,58,6240,1681723954,,1681723958,1.000.000,2023-04-17 09:32:34,2023-04-17 09:32:38,10.0,2,20,Crisfieldy,Aristodenes,Questão 18,Crisfieldy Aristodenes,False,True
+20,59,6492,1681750382,,1681750407,1.000.000,2023-04-17 16:53:02,2023-04-17 16:53:27,10.0,4,20,Crisfieldy,Aristodenes,Questão 19,Crisfieldy Aristodenes,False,True
+20,60,6476,1681750166,,1681750431,1.000.000,2023-04-17 16:49:26,2023-04-17 16:53:51,10.0,1,20,Crisfieldy,Aristodenes,Questão 20,Crisfieldy Aristodenes,False,True
+20,61,6538,1681750860,,1681750864,1.000.000,2023-04-17 17:01:00,2023-04-17 17:01:04,10.0,2,20,Crisfieldy,Aristodenes,Questão 21,Crisfieldy Aristodenes,False,True
+20,62,6610,1681751493,,1681751498,1.000.000,2023-04-17 17:11:33,2023-04-17 17:11:38,10.0,3,20,Crisfieldy,Aristodenes,Questão 22,Crisfieldy Aristodenes,False,True
+20,63,6709,1681752348,,1681752351,1.000.000,2023-04-17 17:25:48,2023-04-17 17:25:51,10.0,7,20,Crisfieldy,Aristodenes,Questão 23,Crisfieldy Aristodenes,False,True
+20,64,6820,1681753797,,1681753800,1.000.000,2023-04-17 17:49:57,2023-04-17 17:50:00,10.0,9,20,Crisfieldy,Aristodenes,Questão 24,Crisfieldy Aristodenes,False,True
+20,65,6846,1681754272,,1681754283,1.000.000,2023-04-17 17:57:52,2023-04-17 17:58:03,10.0,2,20,Crisfieldy,Aristodenes,Questão 25,Crisfieldy Aristodenes,False,True
+20,66,6870,1681754875,,1681754879,1.000.000,2023-04-17 18:07:55,2023-04-17 18:07:59,10.0,4,20,Crisfieldy,Aristodenes,Questão 26,Crisfieldy Aristodenes,False,True
+20,67,7386,1681871248,,1681871265,1.000.000,2023-04-19 02:27:28,2023-04-19 02:27:45,10.0,6,20,Crisfieldy,Aristodenes,Questão 27,Crisfieldy Aristodenes,True,False
+20,68,7509,1681913466,,1681913476,1.000.000,2023-04-19 14:11:06,2023-04-19 14:11:16,10.0,13,20,Crisfieldy,Aristodenes,Questão DESAFIO!,Crisfieldy Aristodenes,True,False
+21,40,629,1681147431,,1681148091,1.000.000,2023-04-10 17:23:51,2023-04-10 17:34:51,10.0,1,21,Neudson,Gabriel,Questão 01,Neudson Gabriel,False,True
+21,41,949,1681148643,,1681149170,1.000.000,2023-04-10 17:44:03,2023-04-10 17:52:50,10.0,3,21,Neudson,Gabriel,Questão 02,Neudson Gabriel,False,True
+21,42,1227,1681149786,,1681149807,1.000.000,2023-04-10 18:03:06,2023-04-10 18:03:27,10.0,6,21,Neudson,Gabriel,Questão 03,Neudson Gabriel,False,True
+21,43,1498,1681184577,,1681184771,1.000.000,2023-04-11 03:42:57,2023-04-11 03:46:11,10.0,7,21,Neudson,Gabriel,Questão 04,Neudson Gabriel,False,True
+21,44,1508,1681185679,,1681185912,1.000.000,2023-04-11 04:01:19,2023-04-11 04:05:12,10.0,6,21,Neudson,Gabriel,Questão 05,Neudson Gabriel,False,True
+21,45,1519,1681188296,,1681188334,1.000.000,2023-04-11 04:44:56,2023-04-11 04:45:34,10.0,10,21,Neudson,Gabriel,Questão 06,Neudson Gabriel,False,True
+21,46,1874,1681256198,,1681256215,1.000.000,2023-04-11 23:36:38,2023-04-11 23:36:55,10.0,2,21,Neudson,Gabriel,Questão 07,Neudson Gabriel,False,True
+21,47,1879,1681256746,,1681256972,1.000.000,2023-04-11 23:45:46,2023-04-11 23:49:32,10.0,2,21,Neudson,Gabriel,Questão 08,Neudson Gabriel,False,True
+21,48,1960,1681261893,,1681262031,1.000.000,2023-04-12 01:11:33,2023-04-12 01:13:51,10.0,2,21,Neudson,Gabriel,Questão 09,Neudson Gabriel,False,True
+21,49,1989,1681262525,,1681262568,1.000.000,2023-04-12 01:22:05,2023-04-12 01:22:48,10.0,4,21,Neudson,Gabriel,Questão 10,Neudson Gabriel,False,True
+21,50,2042,1681263684,,1681263744,1.000.000,2023-04-12 01:41:24,2023-04-12 01:42:24,10.0,4,21,Neudson,Gabriel,Questão 11,Neudson Gabriel,False,True
+21,51,2745,1681346308,,1681346313,1.000.000,2023-04-13 00:38:28,2023-04-13 00:38:33,10.0,2,21,Neudson,Gabriel,Questão 12,Neudson Gabriel,False,True
+21,53,2753,1681346747,,1681346776,1.000.000,2023-04-13 00:45:47,2023-04-13 00:46:16,10.0,3,21,Neudson,Gabriel,Questão 13,Neudson Gabriel,False,True
+21,54,2783,1681348107,,1681348201,1.000.000,2023-04-13 01:08:27,2023-04-13 01:10:01,10.0,3,21,Neudson,Gabriel,Questão 14,Neudson Gabriel,False,True
+21,55,2818,1681349746,,1681349785,1.000.000,2023-04-13 01:35:46,2023-04-13 01:36:25,10.0,1,21,Neudson,Gabriel,Questão 15,Neudson Gabriel,False,True
+21,56,2838,1681350746,,1681350751,1.000.000,2023-04-13 01:52:26,2023-04-13 01:52:31,10.0,3,21,Neudson,Gabriel,Questão 16,Neudson Gabriel,False,True
+21,57,2849,1681351082,,1681351110,1.000.000,2023-04-13 01:58:02,2023-04-13 01:58:30,10.0,2,21,Neudson,Gabriel,Questão 17,Neudson Gabriel,False,True
+21,58,2865,1681351934,,1681351955,1.000.000,2023-04-13 02:12:14,2023-04-13 02:12:35,10.0,5,21,Neudson,Gabriel,Questão 18,Neudson Gabriel,False,True
+21,59,4048,1681503801,,1681503828,1.000.000,2023-04-14 20:23:21,2023-04-14 20:23:48,10.0,6,21,Neudson,Gabriel,Questão 19,Neudson Gabriel,False,True
+21,60,4123,1681504252,,1681504294,1.000.000,2023-04-14 20:30:52,2023-04-14 20:31:34,10.0,3,21,Neudson,Gabriel,Questão 20,Neudson Gabriel,False,True
+21,61,4257,1681504989,,1681504994,1.000.000,2023-04-14 20:43:09,2023-04-14 20:43:14,10.0,4,21,Neudson,Gabriel,Questão 21,Neudson Gabriel,False,True
+21,62,4382,1681505867,,1681505956,1.000.000,2023-04-14 20:57:47,2023-04-14 20:59:16,10.0,5,21,Neudson,Gabriel,Questão 22,Neudson Gabriel,False,True
+21,63,4508,1681506842,,1681506846,1.000.000,2023-04-14 21:14:02,2023-04-14 21:14:06,10.0,5,21,Neudson,Gabriel,Questão 23,Neudson Gabriel,False,True
+21,64,4623,1681521947,,1681521976,1.000.000,2023-04-15 01:25:47,2023-04-15 01:26:16,10.0,3,21,Neudson,Gabriel,Questão 24,Neudson Gabriel,False,True
+21,65,4633,1681522617,,1681522621,1.000.000,2023-04-15 01:36:57,2023-04-15 01:37:01,10.0,6,21,Neudson,Gabriel,Questão 25,Neudson Gabriel,False,True
+21,66,4658,1681524147,,1681524188,1.000.000,2023-04-15 02:02:27,2023-04-15 02:03:08,10.0,12,21,Neudson,Gabriel,Questão 26,Neudson Gabriel,False,True
+21,67,4680,1681525805,,1681525811,1.000.000,2023-04-15 02:30:05,2023-04-15 02:30:11,10.0,12,21,Neudson,Gabriel,Questão 27,Neudson Gabriel,False,True
+21,68,4742,1681530814,,1681530831,1.000.000,2023-04-15 03:53:34,2023-04-15 03:53:51,10.0,33,21,Neudson,Gabriel,Questão DESAFIO!,Neudson Gabriel,False,True
+22,40,392,1681145964,,1681146008,1.000.000,2023-04-10 16:59:24,2023-04-10 17:00:08,10.0,7,22,José Cássios,Costa Torres,Questão 01,José Cássios Costa Torres,False,True
+22,41,506,1681146801,,1681146830,1.000.000,2023-04-10 17:13:21,2023-04-10 17:13:50,10.0,9,22,José Cássios,Costa Torres,Questão 02,José Cássios Costa Torres,False,True
+22,42,613,1681147390,,1681147531,1.000.000,2023-04-10 17:23:10,2023-04-10 17:25:31,10.0,1,22,José Cássios,Costa Torres,Questão 03,José Cássios Costa Torres,False,True
+22,43,811,1681148112,,1681148208,1.000.000,2023-04-10 17:35:12,2023-04-10 17:36:48,10.0,2,22,José Cássios,Costa Torres,Questão 04,José Cássios Costa Torres,False,True
+22,44,931,1681148563,,1681148585,1.000.000,2023-04-10 17:42:43,2023-04-10 17:43:05,10.0,2,22,José Cássios,Costa Torres,Questão 05,José Cássios Costa Torres,False,True
+22,45,1052,1681149097,,1681149113,1.000.000,2023-04-10 17:51:37,2023-04-10 17:51:53,10.0,2,22,José Cássios,Costa Torres,Questão 06,José Cássios Costa Torres,False,True
+22,46,1226,1681149770,,1681149785,1.000.000,2023-04-10 18:02:50,2023-04-10 18:03:05,10.0,4,22,José Cássios,Costa Torres,Questão 07,José Cássios Costa Torres,False,True
+22,47,3731,1681474302,,1681474360,1.000.000,2023-04-14 12:11:42,2023-04-14 12:12:40,10.0,1,22,José Cássios,Costa Torres,Questão 08,José Cássios Costa Torres,False,True
+22,48,3736,1681474863,,1681474879,1.000.000,2023-04-14 12:21:03,2023-04-14 12:21:19,10.0,3,22,José Cássios,Costa Torres,Questão 09,José Cássios Costa Torres,False,True
+22,49,3738,1681475080,,1681475099,1.000.000,2023-04-14 12:24:40,2023-04-14 12:24:59,10.0,2,22,José Cássios,Costa Torres,Questão 10,José Cássios Costa Torres,False,True
+22,50,3742,1681475247,,1681475264,1.000.000,2023-04-14 12:27:27,2023-04-14 12:27:44,10.0,1,22,José Cássios,Costa Torres,Questão 11,José Cássios Costa Torres,False,True
+22,51,3748,1681476114,,1681476131,1.000.000,2023-04-14 12:41:54,2023-04-14 12:42:11,10.0,2,22,José Cássios,Costa Torres,Questão 12,José Cássios Costa Torres,False,True
+22,53,3757,1681476301,,1681476321,1.000.000,2023-04-14 12:45:01,2023-04-14 12:45:21,10.0,1,22,José Cássios,Costa Torres,Questão 13,José Cássios Costa Torres,False,True
+22,54,3760,1681476501,,1681476556,1.000.000,2023-04-14 12:48:21,2023-04-14 12:49:16,10.0,1,22,José Cássios,Costa Torres,Questão 14,José Cássios Costa Torres,False,True
+22,55,3768,1681477022,,1681477042,1.000.000,2023-04-14 12:57:02,2023-04-14 12:57:22,10.0,4,22,José Cássios,Costa Torres,Questão 15,José Cássios Costa Torres,False,True
+22,56,3774,1681477465,,1681477487,1.000.000,2023-04-14 13:04:25,2023-04-14 13:04:47,10.0,1,22,José Cássios,Costa Torres,Questão 16,José Cássios Costa Torres,False,True
+22,57,3777,1681477667,,1681477688,1.000.000,2023-04-14 13:07:47,2023-04-14 13:08:08,10.0,2,22,José Cássios,Costa Torres,Questão 17,José Cássios Costa Torres,False,True
+22,58,3779,1681477839,,1681477856,1.000.000,2023-04-14 13:10:39,2023-04-14 13:10:56,10.0,2,22,José Cássios,Costa Torres,Questão 18,José Cássios Costa Torres,False,True
+22,59,3787,1681478090,,1681478113,1.000.000,2023-04-14 13:14:50,2023-04-14 13:15:13,10.0,1,22,José Cássios,Costa Torres,Questão 19,José Cássios Costa Torres,False,True
+22,60,3793,1681478265,,1681478283,1.000.000,2023-04-14 13:17:45,2023-04-14 13:18:03,10.0,1,22,José Cássios,Costa Torres,Questão 20,José Cássios Costa Torres,False,True
+22,61,3808,1681478515,,1681478681,1.000.000,2023-04-14 13:21:55,2023-04-14 13:24:41,10.0,2,22,José Cássios,Costa Torres,Questão 21,José Cássios Costa Torres,False,True
+22,62,3830,1681478950,,1681478965,1.000.000,2023-04-14 13:29:10,2023-04-14 13:29:25,10.0,1,22,José Cássios,Costa Torres,Questão 22,José Cássios Costa Torres,False,True
+22,63,3853,1681479452,,1681479468,1.000.000,2023-04-14 13:37:32,2023-04-14 13:37:48,10.0,3,22,José Cássios,Costa Torres,Questão 23,José Cássios Costa Torres,False,True
+22,64,3863,1681479698,,1681479712,1.000.000,2023-04-14 13:41:38,2023-04-14 13:41:52,10.0,1,22,José Cássios,Costa Torres,Questão 24,José Cássios Costa Torres,False,True
+22,65,3872,1681480367,,1681480384,1.000.000,2023-04-14 13:52:47,2023-04-14 13:53:04,10.0,4,22,José Cássios,Costa Torres,Questão 25,José Cássios Costa Torres,False,True
+22,66,3873,1681480674,,1681480691,1.000.000,2023-04-14 13:57:54,2023-04-14 13:58:11,10.0,1,22,José Cássios,Costa Torres,Questão 26,José Cássios Costa Torres,False,True
+22,67,3875,1681480997,,1681481013,1.000.000,2023-04-14 14:03:17,2023-04-14 14:03:33,10.0,1,22,José Cássios,Costa Torres,Questão 27,José Cássios Costa Torres,False,True
+22,68,4053,1681503808,,1681503828,1.000.000,2023-04-14 20:23:28,2023-04-14 20:23:48,10.0,7,22,José Cássios,Costa Torres,Questão DESAFIO!,José Cássios Costa Torres,False,True
+23,40,411,1681146125,,1681146188,1.000.000,2023-04-10 17:02:05,2023-04-10 17:03:08,10.0,5,23,Raislan,Ítalo,Questão 01,Raislan Ítalo,False,True
+23,41,485,1681146691,,1681146807,1.000.000,2023-04-10 17:11:31,2023-04-10 17:13:27,10.0,4,23,Raislan,Ítalo,Questão 02,Raislan Ítalo,False,True
+23,42,675,1681147575,,1681147853,1.000.000,2023-04-10 17:26:15,2023-04-10 17:30:53,10.0,3,23,Raislan,Ítalo,Questão 03,Raislan Ítalo,False,True
+23,43,1028,1681148994,,1681149083,1.000.000,2023-04-10 17:49:54,2023-04-10 17:51:23,10.0,11,23,Raislan,Ítalo,Questão 04,Raislan Ítalo,False,True
+23,44,1769,1681241735,,1681241779,1.000.000,2023-04-11 19:35:35,2023-04-11 19:36:19,10.0,6,23,Raislan,Ítalo,Questão 05,Raislan Ítalo,False,True
+23,45,1833,1681243104,,1681243165,1.000.000,2023-04-11 19:58:24,2023-04-11 19:59:25,10.0,12,23,Raislan,Ítalo,Questão 06,Raislan Ítalo,False,True
+23,46,1844,1681243577,,1681243719,1.000.000,2023-04-11 20:06:17,2023-04-11 20:08:39,10.0,3,23,Raislan,Ítalo,Questão 07,Raislan Ítalo,False,True
+23,47,2061,1681264824,,1681264907,1.000.000,2023-04-12 02:00:24,2023-04-12 02:01:47,10.0,2,23,Raislan,Ítalo,Questão 08,Raislan Ítalo,False,True
+23,48,2081,1681265227,,1681265263,1.000.000,2023-04-12 02:07:07,2023-04-12 02:07:43,10.0,2,23,Raislan,Ítalo,Questão 09,Raislan Ítalo,False,True
+23,49,2092,1681265476,,1681265510,1.000.000,2023-04-12 02:11:16,2023-04-12 02:11:50,10.0,2,23,Raislan,Ítalo,Questão 10,Raislan Ítalo,False,True
+23,50,3458,1681430348,,1681430435,1.000.000,2023-04-13 23:59:08,2023-04-14 00:00:35,10.0,2,23,Raislan,Ítalo,Questão 11,Raislan Ítalo,False,True
+23,51,2114,1681266074,,1681266110,1.000.000,2023-04-12 02:21:14,2023-04-12 02:21:50,10.0,2,23,Raislan,Ítalo,Questão 12,Raislan Ítalo,False,True
+23,53,2128,1681266304,,1681266357,1.000.000,2023-04-12 02:25:04,2023-04-12 02:25:57,10.0,2,23,Raislan,Ítalo,Questão 13,Raislan Ítalo,False,True
+23,54,2153,1681266675,,1681266679,1.000.000,2023-04-12 02:31:15,2023-04-12 02:31:19,10.0,4,23,Raislan,Ítalo,Questão 14,Raislan Ítalo,False,True
+23,55,2220,1681267653,,1681267676,1.000.000,2023-04-12 02:47:33,2023-04-12 02:47:56,10.0,9,23,Raislan,Ítalo,Questão 15,Raislan Ítalo,False,True
+23,56,2256,1681268900,,1681268928,1.000.000,2023-04-12 03:08:20,2023-04-12 03:08:48,10.0,8,23,Raislan,Ítalo,Questão 16,Raislan Ítalo,False,True
+23,57,3164,1681417017,,1681417091,1.000.000,2023-04-13 20:16:57,2023-04-13 20:18:11,10.0,1,23,Raislan,Ítalo,Questão 17,Raislan Ítalo,False,True
+23,58,3172,1681417403,,1681417453,1.000.000,2023-04-13 20:23:23,2023-04-13 20:24:13,10.0,2,23,Raislan,Ítalo,Questão 18,Raislan Ítalo,False,True
+23,59,3227,1681418551,,1681418631,1.000.000,2023-04-13 20:42:31,2023-04-13 20:43:51,10.0,9,23,Raislan,Ítalo,Questão 19,Raislan Ítalo,False,True
+23,60,3260,1681419212,,1681419259,1.000.000,2023-04-13 20:53:32,2023-04-13 20:54:19,10.0,2,23,Raislan,Ítalo,Questão 20,Raislan Ítalo,False,True
+23,61,3283,1681419806,,1681419819,1.000.000,2023-04-13 21:03:26,2023-04-13 21:03:39,10.0,6,23,Raislan,Ítalo,Questão 21,Raislan Ítalo,False,True
+23,62,3302,1681420256,,1681420315,1.000.000,2023-04-13 21:10:56,2023-04-13 21:11:55,10.0,2,23,Raislan,Ítalo,Questão 22,Raislan Ítalo,False,True
+23,63,3433,1681429372,,1681429481,1.000.000,2023-04-13 23:42:52,2023-04-13 23:44:41,10.0,12,23,Raislan,Ítalo,Questão 23,Raislan Ítalo,False,True
+23,64,3446,1681429756,,1681429798,1.000.000,2023-04-13 23:49:16,2023-04-13 23:49:58,10.0,3,23,Raislan,Ítalo,Questão 24,Raislan Ítalo,False,True
+23,65,3498,1681431764,,1681431812,1.000.000,2023-04-14 00:22:44,2023-04-14 00:23:32,10.0,6,23,Raislan,Ítalo,Questão 25,Raislan Ítalo,False,True
+23,66,3504,1681432131,,1681432153,1.000.000,2023-04-14 00:28:51,2023-04-14 00:29:13,10.0,1,23,Raislan,Ítalo,Questão 26,Raislan Ítalo,False,True
+23,67,3520,1681432603,,1681432629,1.000.000,2023-04-14 00:36:43,2023-04-14 00:37:09,10.0,4,23,Raislan,Ítalo,Questão 27,Raislan Ítalo,False,True
+23,68,3691,1681437993,,1681438008,1.000.000,2023-04-14 02:06:33,2023-04-14 02:06:48,10.0,60,23,Raislan,Ítalo,Questão DESAFIO!,Raislan Ítalo,False,True
+24,40,344,1681145619,,1681145679,1.000.000,2023-04-10 16:53:39,2023-04-10 16:54:39,10.0,3,24,Eduardo,Sousa Nunes,Questão 01,Eduardo Sousa Nunes,False,True
+24,41,430,1681146309,,1681146326,1.000.000,2023-04-10 17:05:09,2023-04-10 17:05:26,10.0,3,24,Eduardo,Sousa Nunes,Questão 02,Eduardo Sousa Nunes,False,True
+24,42,500,1681146765,,1681146802,1.000.000,2023-04-10 17:12:45,2023-04-10 17:13:22,10.0,2,24,Eduardo,Sousa Nunes,Questão 03,Eduardo Sousa Nunes,False,True
+24,43,597,1681147300,,1681147328,1.000.000,2023-04-10 17:21:40,2023-04-10 17:22:08,10.0,2,24,Eduardo,Sousa Nunes,Questão 04,Eduardo Sousa Nunes,False,True
+24,44,795,1681148049,,1681148065,1.000.000,2023-04-10 17:34:09,2023-04-10 17:34:25,10.0,5,24,Eduardo,Sousa Nunes,Questão 05,Eduardo Sousa Nunes,False,True
+24,45,957,1681148692,,1681148711,1.000.000,2023-04-10 17:44:52,2023-04-10 17:45:11,10.0,3,24,Eduardo,Sousa Nunes,Questão 06,Eduardo Sousa Nunes,False,True
+24,46,1091,1681149218,,1681149241,1.000.000,2023-04-10 17:53:38,2023-04-10 17:54:01,10.0,4,24,Eduardo,Sousa Nunes,Questão 07,Eduardo Sousa Nunes,False,True
+24,47,1140,1681149412,,1681149438,1.000.000,2023-04-10 17:56:52,2023-04-10 17:57:18,10.0,2,24,Eduardo,Sousa Nunes,Questão 08,Eduardo Sousa Nunes,False,True
+24,48,1192,1681149600,,1681149605,1.000.000,2023-04-10 18:00:00,2023-04-10 18:00:05,10.0,2,24,Eduardo,Sousa Nunes,Questão 09,Eduardo Sousa Nunes,False,True
+24,49,1743,1681241296,,1681241311,1.000.000,2023-04-11 19:28:16,2023-04-11 19:28:31,10.0,15,24,Eduardo,Sousa Nunes,Questão 10,Eduardo Sousa Nunes,False,True
+24,50,1772,1681241769,,1681241791,1.000.000,2023-04-11 19:36:09,2023-04-11 19:36:31,10.0,4,24,Eduardo,Sousa Nunes,Questão 11,Eduardo Sousa Nunes,False,True
+24,51,2734,1681344342,,1681344420,1.000.000,2023-04-13 00:05:42,2023-04-13 00:07:00,10.0,1,24,Eduardo,Sousa Nunes,Questão 12,Eduardo Sousa Nunes,False,True
+24,53,2815,1681349674,,1681349699,1.000.000,2023-04-13 01:34:34,2023-04-13 01:34:59,10.0,2,24,Eduardo,Sousa Nunes,Questão 13,Eduardo Sousa Nunes,False,True
+24,54,3950,1681503246,,1681503252,1.000.000,2023-04-14 20:14:06,2023-04-14 20:14:12,10.0,6,24,Eduardo,Sousa Nunes,Questão 14,Eduardo Sousa Nunes,False,True
+24,55,4074,1681503979,,1681503998,1.000.000,2023-04-14 20:26:19,2023-04-14 20:26:38,10.0,6,24,Eduardo,Sousa Nunes,Questão 15,Eduardo Sousa Nunes,False,True
+24,56,4165,1681504426,,1681504459,1.000.000,2023-04-14 20:33:46,2023-04-14 20:34:19,10.0,2,24,Eduardo,Sousa Nunes,Questão 16,Eduardo Sousa Nunes,False,True
+24,57,4227,1681504847,,1681504867,1.000.000,2023-04-14 20:40:47,2023-04-14 20:41:07,10.0,2,24,Eduardo,Sousa Nunes,Questão 17,Eduardo Sousa Nunes,False,True
+24,58,4352,1681505576,,1681505599,1.000.000,2023-04-14 20:52:56,2023-04-14 20:53:19,10.0,7,24,Eduardo,Sousa Nunes,Questão 18,Eduardo Sousa Nunes,False,True
+24,59,4403,1681506070,,1681506091,1.000.000,2023-04-14 21:01:10,2023-04-14 21:01:31,10.0,2,24,Eduardo,Sousa Nunes,Questão 19,Eduardo Sousa Nunes,False,True
+24,60,4467,1681506459,,1681506536,1.000.000,2023-04-14 21:07:39,2023-04-14 21:08:56,10.0,2,24,Eduardo,Sousa Nunes,Questão 20,Eduardo Sousa Nunes,False,True
+24,61,4915,1681573063,,1681573088,1.000.000,2023-04-15 15:37:43,2023-04-15 15:38:08,10.0,6,24,Eduardo,Sousa Nunes,Questão 21,Eduardo Sousa Nunes,False,True
+24,62,4918,1681573627,,1681573665,1.000.000,2023-04-15 15:47:07,2023-04-15 15:47:45,10.0,1,24,Eduardo,Sousa Nunes,Questão 22,Eduardo Sousa Nunes,False,True
+24,63,4935,1681574269,,1681574302,1.000.000,2023-04-15 15:57:49,2023-04-15 15:58:22,10.0,3,24,Eduardo,Sousa Nunes,Questão 23,Eduardo Sousa Nunes,False,True
+24,64,5021,1681583808,,1681583833,1.000.000,2023-04-15 18:36:48,2023-04-15 18:37:13,10.0,1,24,Eduardo,Sousa Nunes,Questão 24,Eduardo Sousa Nunes,False,True
+24,65,5032,1681584515,,1681584536,1.000.000,2023-04-15 18:48:35,2023-04-15 18:48:56,10.0,2,24,Eduardo,Sousa Nunes,Questão 25,Eduardo Sousa Nunes,False,True
+24,66,5039,1681585182,,1681585199,1.000.000,2023-04-15 18:59:42,2023-04-15 18:59:59,10.0,4,24,Eduardo,Sousa Nunes,Questão 26,Eduardo Sousa Nunes,False,True
+24,67,5044,1681585736,,1681585751,1.000.000,2023-04-15 19:08:56,2023-04-15 19:09:11,10.0,3,24,Eduardo,Sousa Nunes,Questão 27,Eduardo Sousa Nunes,False,True
+24,68,5086,1681588584,,1681588602,1.000.000,2023-04-15 19:56:24,2023-04-15 19:56:42,10.0,25,24,Eduardo,Sousa Nunes,Questão DESAFIO!,Eduardo Sousa Nunes,False,True
+25,40,450,1681146499,,1695857399,1.000.000,2023-04-10 17:08:19,2023-09-27 23:29:59,10.0,2,25,Ávila,Araújo,Questão 01,Ávila Araújo,False,True
+25,41,1041,1681149049,,1681149180,1.000.000,2023-04-10 17:50:49,2023-04-10 17:53:00,10.0,12,25,Ávila,Araújo,Questão 02,Ávila Araújo,False,True
+25,42,1573,1681216432,,1681216488,1.000.000,2023-04-11 12:33:52,2023-04-11 12:34:48,10.0,6,25,Ávila,Araújo,Questão 03,Ávila Araújo,False,True
+25,43,2364,1681299841,,1681299865,1.000.000,2023-04-12 11:44:01,2023-04-12 11:44:25,10.0,65,25,Ávila,Araújo,Questão 04,Ávila Araújo,False,True
+25,44,2691,1681341199,,1681341216,1.000.000,2023-04-12 23:13:19,2023-04-12 23:13:36,10.0,25,25,Ávila,Araújo,Questão 05,Ávila Araújo,False,True
+25,45,2698,1681341740,,1681341760,1.000.000,2023-04-12 23:22:20,2023-04-12 23:22:40,10.0,3,25,Ávila,Araújo,Questão 06,Ávila Araújo,False,True
+25,46,2708,1681342748,,1681342794,1.000.000,2023-04-12 23:39:08,2023-04-12 23:39:54,10.0,7,25,Ávila,Araújo,Questão 07,Ávila Araújo,False,True
+25,47,2713,1681343106,,1681343141,1.000.000,2023-04-12 23:45:06,2023-04-12 23:45:41,10.0,1,25,Ávila,Araújo,Questão 08,Ávila Araújo,False,True
+25,48,2719,1681343528,,1681343559,1.000.000,2023-04-12 23:52:08,2023-04-12 23:52:39,10.0,2,25,Ávila,Araújo,Questão 09,Ávila Araújo,False,True
+25,49,2731,1681343972,,1681344006,1.000.000,2023-04-12 23:59:32,2023-04-13 00:00:06,10.0,1,25,Ávila,Araújo,Questão 10,Ávila Araújo,False,True
+25,50,2735,1681344398,,1681344425,1.000.000,2023-04-13 00:06:38,2023-04-13 00:07:05,10.0,1,25,Ávila,Araújo,Questão 11,Ávila Araújo,False,True
+25,51,2736,1681344738,,1681344770,1.000.000,2023-04-13 00:12:18,2023-04-13 00:12:50,10.0,1,25,Ávila,Araújo,Questão 12,Ávila Araújo,False,True
+25,53,2738,1681345120,,1681345166,1.000.000,2023-04-13 00:18:40,2023-04-13 00:19:26,10.0,1,25,Ávila,Araújo,Questão 13,Ávila Araújo,False,True
+25,54,2741,1681345609,,1681345658,1.000.000,2023-04-13 00:26:49,2023-04-13 00:27:38,10.0,2,25,Ávila,Araújo,Questão 14,Ávila Araújo,False,True
+25,55,2789,1681348236,,1681348265,1.000.000,2023-04-13 01:10:36,2023-04-13 01:11:05,10.0,22,25,Ávila,Araújo,Questão 15,Ávila Araújo,False,True
+25,56,2819,1681349752,,1681349910,1.000.000,2023-04-13 01:35:52,2023-04-13 01:38:30,10.0,11,25,Ávila,Araújo,Questão 16,Ávila Araújo,False,True
+25,57,2831,1681350406,,1681350433,1.000.000,2023-04-13 01:46:46,2023-04-13 01:47:13,10.0,4,25,Ávila,Araújo,Questão 17,Ávila Araújo,False,True
+25,58,2862,1681351717,,1681351749,1.000.000,2023-04-13 02:08:37,2023-04-13 02:09:09,10.0,14,25,Ávila,Araújo,Questão 18,Ávila Araújo,False,True
+25,59,3426,1681429059,,1681429080,1.000.000,2023-04-13 23:37:39,2023-04-13 23:38:00,10.0,20,25,Ávila,Araújo,Questão 19,Ávila Araújo,False,True
+25,60,3436,1681429501,,1681429522,1.000.000,2023-04-13 23:45:01,2023-04-13 23:45:22,10.0,2,25,Ávila,Araújo,Questão 20,Ávila Araújo,False,True
+25,61,3479,1681431212,,1681431232,1.000.000,2023-04-14 00:13:32,2023-04-14 00:13:52,10.0,16,25,Ávila,Araújo,Questão 21,Ávila Araújo,False,True
+25,62,3503,1681431933,,1681431960,1.000.000,2023-04-14 00:25:33,2023-04-14 00:26:00,10.0,3,25,Ávila,Araújo,Questão 22,Ávila Araújo,False,True
+25,63,3536,1681433426,,1681433448,1.000.000,2023-04-14 00:50:26,2023-04-14 00:50:48,10.0,9,25,Ávila,Araújo,Questão 23,Ávila Araújo,False,True
+25,64,3558,1681434264,,1681434283,1.000.000,2023-04-14 01:04:24,2023-04-14 01:04:43,10.0,3,25,Ávila,Araújo,Questão 24,Ávila Araújo,False,True
+25,65,3824,1681478822,,1681478862,1.000.000,2023-04-14 13:27:02,2023-04-14 13:27:42,10.0,18,25,Ávila,Araújo,Questão 25,Ávila Araújo,False,True
+25,66,3909,1681502860,,1681502881,1.000.000,2023-04-14 20:07:40,2023-04-14 20:08:01,10.0,13,25,Ávila,Araújo,Questão 26,Ávila Araújo,False,True
+25,67,4067,1681503936,,1681503984,1.000.000,2023-04-14 20:25:36,2023-04-14 20:26:24,10.0,6,25,Ávila,Araújo,Questão 27,Ávila Araújo,False,True
+25,68,6608,1681751465,,1681751488,1.000.000,2023-04-17 17:11:05,2023-04-17 17:11:28,10.0,4,25,Ávila,Araújo,Questão DESAFIO!,Ávila Araújo,False,True
+26,40,251,1681144426,,1681144453,1.000.000,2023-04-10 16:33:46,2023-04-10 16:34:13,10.0,6,26,Carlos Eduardo,Lima Coutinho,Questão 01,Carlos Eduardo Lima Coutinho,False,True
+26,41,270,1681144798,,1681146543,1.000.000,2023-04-10 16:39:58,2023-04-10 17:09:03,10.0,4,26,Carlos Eduardo,Lima Coutinho,Questão 02,Carlos Eduardo Lima Coutinho,False,True
+26,42,289,1681145047,,1681145069,1.000.000,2023-04-10 16:44:07,2023-04-10 16:44:29,10.0,2,26,Carlos Eduardo,Lima Coutinho,Questão 03,Carlos Eduardo Lima Coutinho,False,True
+26,43,343,1681145616,,1681145632,1.000.000,2023-04-10 16:53:36,2023-04-10 16:53:52,10.0,8,26,Carlos Eduardo,Lima Coutinho,Questão 04,Carlos Eduardo Lima Coutinho,False,True
+26,44,385,1681145930,,1681145951,1.000.000,2023-04-10 16:58:50,2023-04-10 16:59:11,10.0,2,26,Carlos Eduardo,Lima Coutinho,Questão 05,Carlos Eduardo Lima Coutinho,False,True
+26,45,418,1681146211,,1681146235,1.000.000,2023-04-10 17:03:31,2023-04-10 17:03:55,10.0,1,26,Carlos Eduardo,Lima Coutinho,Questão 06,Carlos Eduardo Lima Coutinho,False,True
+26,46,449,1681146491,,1681146505,1.000.000,2023-04-10 17:08:11,2023-04-10 17:08:25,10.0,3,26,Carlos Eduardo,Lima Coutinho,Questão 07,Carlos Eduardo Lima Coutinho,False,True
+26,47,482,1681146679,,1681146691,1.000.000,2023-04-10 17:11:19,2023-04-10 17:11:31,10.0,1,26,Carlos Eduardo,Lima Coutinho,Questão 08,Carlos Eduardo Lima Coutinho,False,True
+26,48,511,1681146821,,1681146833,1.000.000,2023-04-10 17:13:41,2023-04-10 17:13:53,10.0,1,26,Carlos Eduardo,Lima Coutinho,Questão 09,Carlos Eduardo Lima Coutinho,False,True
+26,49,546,1681147035,,1681147050,1.000.000,2023-04-10 17:17:15,2023-04-10 17:17:30,10.0,2,26,Carlos Eduardo,Lima Coutinho,Questão 10,Carlos Eduardo Lima Coutinho,False,True
+26,50,560,1681147143,,1681147157,1.000.000,2023-04-10 17:19:03,2023-04-10 17:19:17,10.0,1,26,Carlos Eduardo,Lima Coutinho,Questão 11,Carlos Eduardo Lima Coutinho,False,True
+26,51,602,1681147328,,1681147345,1.000.000,2023-04-10 17:22:08,2023-04-10 17:22:25,10.0,2,26,Carlos Eduardo,Lima Coutinho,Questão 12,Carlos Eduardo Lima Coutinho,False,True
+26,53,633,1681147448,,1681147468,1.000.000,2023-04-10 17:24:08,2023-04-10 17:24:28,10.0,1,26,Carlos Eduardo,Lima Coutinho,Questão 13,Carlos Eduardo Lima Coutinho,False,True
+26,54,736,1681147777,,1681147794,1.000.000,2023-04-10 17:29:37,2023-04-10 17:29:54,10.0,1,26,Carlos Eduardo,Lima Coutinho,Questão 14,Carlos Eduardo Lima Coutinho,False,True
+26,55,779,1681148009,,1681148025,1.000.000,2023-04-10 17:33:29,2023-04-10 17:33:45,10.0,1,26,Carlos Eduardo,Lima Coutinho,Questão 15,Carlos Eduardo Lima Coutinho,False,True
+26,56,1611,1681224703,,1681224708,1.000.000,2023-04-11 14:51:43,2023-04-11 14:51:48,10.0,8,26,Carlos Eduardo,Lima Coutinho,Questão 16,Carlos Eduardo Lima Coutinho,False,True
+26,57,981,1681148820,,1681148843,1.000.000,2023-04-10 17:47:00,2023-04-10 17:47:23,10.0,2,26,Carlos Eduardo,Lima Coutinho,Questão 17,Carlos Eduardo Lima Coutinho,False,True
+26,58,1031,1681149007,,1681149021,1.000.000,2023-04-10 17:50:07,2023-04-10 17:50:21,10.0,1,26,Carlos Eduardo,Lima Coutinho,Questão 18,Carlos Eduardo Lima Coutinho,False,True
+26,59,1137,1681149394,,1681149405,1.000.000,2023-04-10 17:56:34,2023-04-10 17:56:45,10.0,4,26,Carlos Eduardo,Lima Coutinho,Questão 19,Carlos Eduardo Lima Coutinho,False,True
+26,60,1208,1681149654,,1681149672,1.000.000,2023-04-10 18:00:54,2023-04-10 18:01:12,10.0,2,26,Carlos Eduardo,Lima Coutinho,Questão 20,Carlos Eduardo Lima Coutinho,False,True
+26,61,1614,1681224994,,1681224998,1.000.000,2023-04-11 14:56:34,2023-04-11 14:56:38,10.0,3,26,Carlos Eduardo,Lima Coutinho,Questão 21,Carlos Eduardo Lima Coutinho,False,True
+26,62,2392,1681301915,,1681301933,1.000.000,2023-04-12 12:18:35,2023-04-12 12:18:53,10.0,4,26,Carlos Eduardo,Lima Coutinho,Questão 22,Carlos Eduardo Lima Coutinho,False,True
+26,63,2396,1681302133,,1681302183,1.000.000,2023-04-12 12:22:13,2023-04-12 12:23:03,10.0,1,26,Carlos Eduardo,Lima Coutinho,Questão 23,Carlos Eduardo Lima Coutinho,False,True
+26,64,2403,1681302384,,1681302409,1.000.000,2023-04-12 12:26:24,2023-04-12 12:26:49,10.0,1,26,Carlos Eduardo,Lima Coutinho,Questão 24,Carlos Eduardo Lima Coutinho,False,True
+26,65,2414,1681303129,,1681303158,1.000.000,2023-04-12 12:38:49,2023-04-12 12:39:18,10.0,3,26,Carlos Eduardo,Lima Coutinho,Questão 25,Carlos Eduardo Lima Coutinho,False,True
+26,66,2424,1681303402,,1681303417,1.000.000,2023-04-12 12:43:22,2023-04-12 12:43:37,10.0,2,26,Carlos Eduardo,Lima Coutinho,Questão 26,Carlos Eduardo Lima Coutinho,False,True
+26,67,2435,1681303599,,1681303615,1.000.000,2023-04-12 12:46:39,2023-04-12 12:46:55,10.0,1,26,Carlos Eduardo,Lima Coutinho,Questão 27,Carlos Eduardo Lima Coutinho,False,True
+26,68,3135,1681398713,,1681398741,1.000.000,2023-04-13 15:11:53,2023-04-13 15:12:21,10.0,9,26,Carlos Eduardo,Lima Coutinho,Questão DESAFIO!,Carlos Eduardo Lima Coutinho,False,True
+27,40,587,1681147270,,1681147304,1.000.000,2023-04-10 17:21:10,2023-04-10 17:21:44,10.0,7,27,Luis Felipe,Assunção Pereira,Questão 01,Luis Felipe Assunção Pereira,False,True
+27,41,831,1681148196,,1681148220,1.000.000,2023-04-10 17:36:36,2023-04-10 17:37:00,10.0,4,27,Luis Felipe,Assunção Pereira,Questão 02,Luis Felipe Assunção Pereira,False,True
+27,42,1229,1681149830,,1681149850,1.000.000,2023-04-10 18:03:50,2023-04-10 18:04:10,10.0,7,27,Luis Felipe,Assunção Pereira,Questão 03,Luis Felipe Assunção Pereira,False,True
+27,43,1639,1681233246,,1681233297,1.000.000,2023-04-11 17:14:06,2023-04-11 17:14:57,10.0,4,27,Luis Felipe,Assunção Pereira,Questão 04,Luis Felipe Assunção Pereira,False,True
+27,44,1645,1681234078,,1681234094,1.000.000,2023-04-11 17:27:58,2023-04-11 17:28:14,10.0,6,27,Luis Felipe,Assunção Pereira,Questão 05,Luis Felipe Assunção Pereira,False,True
+27,45,1658,1681235522,,1681235535,1.000.000,2023-04-11 17:52:02,2023-04-11 17:52:15,10.0,11,27,Luis Felipe,Assunção Pereira,Questão 06,Luis Felipe Assunção Pereira,False,True
+27,46,1662,1681236160,,1681236202,1.000.000,2023-04-11 18:02:40,2023-04-11 18:03:22,10.0,4,27,Luis Felipe,Assunção Pereira,Questão 07,Luis Felipe Assunção Pereira,False,True
+27,47,1667,1681236716,,1681236741,1.000.000,2023-04-11 18:11:56,2023-04-11 18:12:21,10.0,5,27,Luis Felipe,Assunção Pereira,Questão 08,Luis Felipe Assunção Pereira,False,True
+27,48,1672,1681237273,,1681237286,1.000.000,2023-04-11 18:21:13,2023-04-11 18:21:26,10.0,4,27,Luis Felipe,Assunção Pereira,Questão 09,Luis Felipe Assunção Pereira,False,True
+27,49,1674,1681237553,,1681237579,0,2023-04-11 18:25:53,2023-04-11 18:26:19,0.0,2,27,Luis Felipe,Assunção Pereira,Questão 10,Luis Felipe Assunção Pereira,False,True
+27,50,2402,1681302228,,1681302247,1.000.000,2023-04-12 12:23:48,2023-04-12 12:24:07,10.0,4,27,Luis Felipe,Assunção Pereira,Questão 11,Luis Felipe Assunção Pereira,False,True
+27,51,2409,1681302892,,1681302896,1.000.000,2023-04-12 12:34:52,2023-04-12 12:34:56,10.0,5,27,Luis Felipe,Assunção Pereira,Questão 12,Luis Felipe Assunção Pereira,False,True
+27,53,2416,1681303200,,1681303264,1.000.000,2023-04-12 12:40:00,2023-04-12 12:41:04,10.0,3,27,Luis Felipe,Assunção Pereira,Questão 13,Luis Felipe Assunção Pereira,False,True
+27,54,2426,1681303464,,1681303507,1.000.000,2023-04-12 12:44:24,2023-04-12 12:45:07,10.0,2,27,Luis Felipe,Assunção Pereira,Questão 14,Luis Felipe Assunção Pereira,False,True
+27,55,2446,1681304000,,1681304009,1.000.000,2023-04-12 12:53:20,2023-04-12 12:53:29,10.0,2,27,Luis Felipe,Assunção Pereira,Questão 15,Luis Felipe Assunção Pereira,False,True
+27,56,2456,1681304380,,1681304427,1.000.000,2023-04-12 12:59:40,2023-04-12 13:00:27,10.0,1,27,Luis Felipe,Assunção Pereira,Questão 16,Luis Felipe Assunção Pereira,False,True
+27,57,2493,1681305504,,1681305540,1.000.000,2023-04-12 13:18:24,2023-04-12 13:19:00,10.0,4,27,Luis Felipe,Assunção Pereira,Questão 17,Luis Felipe Assunção Pereira,False,True
+27,58,3004,1681390761,,1681390774,1.000.000,2023-04-13 12:59:21,2023-04-13 12:59:34,10.0,6,27,Luis Felipe,Assunção Pereira,Questão 18,Luis Felipe Assunção Pereira,False,True
+27,59,3006,1681391240,,1681391272,1.000.000,2023-04-13 13:07:20,2023-04-13 13:07:52,10.0,1,27,Luis Felipe,Assunção Pereira,Questão 19,Luis Felipe Assunção Pereira,False,True
+27,60,3011,1681391813,,1681391922,1.000.000,2023-04-13 13:16:53,2023-04-13 13:18:42,10.0,4,27,Luis Felipe,Assunção Pereira,Questão 20,Luis Felipe Assunção Pereira,False,True
+27,61,3016,1681392430,,1681392449,1.000.000,2023-04-13 13:27:10,2023-04-13 13:27:29,10.0,2,27,Luis Felipe,Assunção Pereira,Questão 21,Luis Felipe Assunção Pereira,False,True
+27,62,3023,1681393169,,1681393187,1.000.000,2023-04-13 13:39:29,2023-04-13 13:39:47,10.0,1,27,Luis Felipe,Assunção Pereira,Questão 22,Luis Felipe Assunção Pereira,False,True
+27,63,3027,1681393578,,1681393660,1.000.000,2023-04-13 13:46:18,2023-04-13 13:47:40,10.0,1,27,Luis Felipe,Assunção Pereira,Questão 23,Luis Felipe Assunção Pereira,False,True
+27,64,3030,1681393952,,1681393967,1.000.000,2023-04-13 13:52:32,2023-04-13 13:52:47,10.0,1,27,Luis Felipe,Assunção Pereira,Questão 24,Luis Felipe Assunção Pereira,False,True
+27,65,3043,1681394408,,1681394425,1.000.000,2023-04-13 14:00:08,2023-04-13 14:00:25,10.0,3,27,Luis Felipe,Assunção Pereira,Questão 25,Luis Felipe Assunção Pereira,False,True
+27,66,3061,1681394823,,1681394844,1.000.000,2023-04-13 14:07:03,2023-04-13 14:07:24,10.0,2,27,Luis Felipe,Assunção Pereira,Questão 26,Luis Felipe Assunção Pereira,False,True
+27,67,3079,1681395359,,1681395379,1.000.000,2023-04-13 14:15:59,2023-04-13 14:16:19,10.0,2,27,Luis Felipe,Assunção Pereira,Questão 27,Luis Felipe Assunção Pereira,False,True
+28,40,528,1681146923,,1681146994,1.000.000,2023-04-10 17:15:23,2023-04-10 17:16:34,10.0,5,28,Ycaro Yan,Lourenço Santos,Questão 01,Ycaro Yan Lourenço Santos,False,True
+28,41,827,1681148167,,1681148181,1.000.000,2023-04-10 17:36:07,2023-04-10 17:36:21,10.0,4,28,Ycaro Yan,Lourenço Santos,Questão 02,Ycaro Yan Lourenço Santos,False,True
+28,42,1700,1681240250,,1681240278,1.000.000,2023-04-11 19:10:50,2023-04-11 19:11:18,10.0,24,28,Ycaro Yan,Lourenço Santos,Questão 03,Ycaro Yan Lourenço Santos,False,True
+28,43,1766,1681241684,,1681241702,1.000.000,2023-04-11 19:34:44,2023-04-11 19:35:02,10.0,9,28,Ycaro Yan,Lourenço Santos,Questão 04,Ycaro Yan Lourenço Santos,False,True
+28,44,3104,1681396742,,1681396790,1.000.000,2023-04-13 14:39:02,2023-04-13 14:39:50,10.0,43,28,Ycaro Yan,Lourenço Santos,Questão 05,Ycaro Yan Lourenço Santos,False,True
+28,45,3157,1681416083,,1681416097,1.000.000,2023-04-13 20:01:23,2023-04-13 20:01:37,10.0,9,28,Ycaro Yan,Lourenço Santos,Questão 06,Ycaro Yan Lourenço Santos,False,True
+28,46,3239,1681418795,,1681418813,1.000.000,2023-04-13 20:46:35,2023-04-13 20:46:53,10.0,25,28,Ycaro Yan,Lourenço Santos,Questão 07,Ycaro Yan Lourenço Santos,False,True
+28,47,3261,1681419228,,1681419249,1.000.000,2023-04-13 20:53:48,2023-04-13 20:54:09,10.0,3,28,Ycaro Yan,Lourenço Santos,Questão 08,Ycaro Yan Lourenço Santos,False,True
+28,48,3273,1681419560,,1681419572,1.000.000,2023-04-13 20:59:20,2023-04-13 20:59:32,10.0,2,28,Ycaro Yan,Lourenço Santos,Questão 09,Ycaro Yan Lourenço Santos,False,True
+28,49,3289,1681419968,,1681419989,1.000.000,2023-04-13 21:06:08,2023-04-13 21:06:29,10.0,2,28,Ycaro Yan,Lourenço Santos,Questão 10,Ycaro Yan Lourenço Santos,False,True
+28,50,3303,1681420283,,1681420303,1.000.000,2023-04-13 21:11:23,2023-04-13 21:11:43,10.0,1,28,Ycaro Yan,Lourenço Santos,Questão 11,Ycaro Yan Lourenço Santos,False,True
+28,51,3321,1681420938,,1681420953,1.000.000,2023-04-13 21:22:18,2023-04-13 21:22:33,10.0,4,28,Ycaro Yan,Lourenço Santos,Questão 12,Ycaro Yan Lourenço Santos,False,True
+28,53,3325,1681421204,,1681421224,1.000.000,2023-04-13 21:26:44,2023-04-13 21:27:04,10.0,2,28,Ycaro Yan,Lourenço Santos,Questão 13,Ycaro Yan Lourenço Santos,False,True
+28,54,3525,1681432791,,1681432819,1.000.000,2023-04-14 00:39:51,2023-04-14 00:40:19,10.0,3,28,Ycaro Yan,Lourenço Santos,Questão 14,Ycaro Yan Lourenço Santos,False,True
+28,55,3613,1681435239,,1681435244,1.000.000,2023-04-14 01:20:39,2023-04-14 01:20:44,10.0,14,28,Ycaro Yan,Lourenço Santos,Questão 15,Ycaro Yan Lourenço Santos,False,True
+28,56,3929,1681503041,,1681503115,1.000.000,2023-04-14 20:10:41,2023-04-14 20:11:55,10.0,2,28,Ycaro Yan,Lourenço Santos,Questão 16,Ycaro Yan Lourenço Santos,False,True
+28,57,4002,1681503618,,1681503626,1.000.000,2023-04-14 20:20:18,2023-04-14 20:20:26,10.0,5,28,Ycaro Yan,Lourenço Santos,Questão 17,Ycaro Yan Lourenço Santos,False,True
+28,58,5161,1681594190,,1681594293,1.000.000,2023-04-15 21:29:50,2023-04-15 21:31:33,10.0,33,28,Ycaro Yan,Lourenço Santos,Questão 18,Ycaro Yan Lourenço Santos,False,True
+28,59,5319,1681604689,,1681604722,1.000.000,2023-04-16 00:24:49,2023-04-16 00:25:22,10.0,26,28,Ycaro Yan,Lourenço Santos,Questão 19,Ycaro Yan Lourenço Santos,False,True
+28,60,5347,1681605339,,1681605436,1.000.000,2023-04-16 00:35:39,2023-04-16 00:37:16,10.0,3,28,Ycaro Yan,Lourenço Santos,Questão 20,Ycaro Yan Lourenço Santos,False,True
+28,61,5373,1681605905,,1681605920,1.000.000,2023-04-16 00:45:05,2023-04-16 00:45:20,10.0,2,28,Ycaro Yan,Lourenço Santos,Questão 21,Ycaro Yan Lourenço Santos,False,True
+28,62,5403,1681608220,,1681608257,1.000.000,2023-04-16 01:23:40,2023-04-16 01:24:17,10.0,5,28,Ycaro Yan,Lourenço Santos,Questão 22,Ycaro Yan Lourenço Santos,False,True
+28,63,5422,1681609073,,1681609077,1.000.000,2023-04-16 01:37:53,2023-04-16 01:37:57,10.0,5,28,Ycaro Yan,Lourenço Santos,Questão 23,Ycaro Yan Lourenço Santos,False,True
+28,64,5427,1681609456,,1681609469,1.000.000,2023-04-16 01:44:16,2023-04-16 01:44:29,10.0,2,28,Ycaro Yan,Lourenço Santos,Questão 24,Ycaro Yan Lourenço Santos,False,True
+28,65,5503,1681612814,,1681612830,1.000.000,2023-04-16 02:40:14,2023-04-16 02:40:30,10.0,23,28,Ycaro Yan,Lourenço Santos,Questão 25,Ycaro Yan Lourenço Santos,False,True
+28,66,5514,1681613753,,1681613769,1.000.000,2023-04-16 02:55:53,2023-04-16 02:56:09,10.0,9,28,Ycaro Yan,Lourenço Santos,Questão 26,Ycaro Yan Lourenço Santos,False,True
+28,67,5584,1681617752,,1681617783,1.000.000,2023-04-16 04:02:32,2023-04-16 04:03:03,10.0,59,28,Ycaro Yan,Lourenço Santos,Questão 27,Ycaro Yan Lourenço Santos,False,True
+29,40,551,1681147058,,1681147249,1.000.000,2023-04-10 17:17:38,2023-04-10 17:20:49,10.0,3,29,Randerson,Sousa de Sá Nunes,Questão 01,Randerson Sousa de Sá Nunes,False,True
+29,41,777,1681147995,,1681148012,1.000.000,2023-04-10 17:33:15,2023-04-10 17:33:32,10.0,9,29,Randerson,Sousa de Sá Nunes,Questão 02,Randerson Sousa de Sá Nunes,False,True
+29,42,964,1681148736,,1681148771,1.000.000,2023-04-10 17:45:36,2023-04-10 17:46:11,10.0,7,29,Randerson,Sousa de Sá Nunes,Questão 03,Randerson Sousa de Sá Nunes,False,True
+29,43,1741,1681241280,,1681241293,1.000.000,2023-04-11 19:28:00,2023-04-11 19:28:13,10.0,15,29,Randerson,Sousa de Sá Nunes,Questão 04,Randerson Sousa de Sá Nunes,False,True
+29,44,2433,1681303571,,1681303583,1.000.000,2023-04-12 12:46:11,2023-04-12 12:46:23,10.0,19,29,Randerson,Sousa de Sá Nunes,Questão 05,Randerson Sousa de Sá Nunes,False,True
+29,45,4092,1681504067,,1681504078,1.000.000,2023-04-14 20:27:47,2023-04-14 20:27:58,10.0,3,29,Randerson,Sousa de Sá Nunes,Questão 06,Randerson Sousa de Sá Nunes,False,True
+29,46,4082,1681504019,,1681504036,1.000.000,2023-04-14 20:26:59,2023-04-14 20:27:16,10.0,2,29,Randerson,Sousa de Sá Nunes,Questão 07,Randerson Sousa de Sá Nunes,False,True
+29,47,4191,1681504613,,1681504645,1.000.000,2023-04-14 20:36:53,2023-04-14 20:37:25,10.0,6,29,Randerson,Sousa de Sá Nunes,Questão 08,Randerson Sousa de Sá Nunes,False,True
+29,48,4259,1681504997,,1681505030,1.000.000,2023-04-14 20:43:17,2023-04-14 20:43:50,10.0,2,29,Randerson,Sousa de Sá Nunes,Questão 09,Randerson Sousa de Sá Nunes,False,True
+29,49,4294,1681505294,,1681505317,1.000.000,2023-04-14 20:48:14,2023-04-14 20:48:37,10.0,1,29,Randerson,Sousa de Sá Nunes,Questão 10,Randerson Sousa de Sá Nunes,False,True
+29,50,4365,1681505649,,1681505659,1.000.000,2023-04-14 20:54:09,2023-04-14 20:54:19,10.0,2,29,Randerson,Sousa de Sá Nunes,Questão 11,Randerson Sousa de Sá Nunes,False,True
+29,51,4392,1681505991,,1681506000,1.000.000,2023-04-14 20:59:51,2023-04-14 21:00:00,10.0,2,29,Randerson,Sousa de Sá Nunes,Questão 12,Randerson Sousa de Sá Nunes,False,True
+29,53,4431,1681506243,,1681506254,1.000.000,2023-04-14 21:04:03,2023-04-14 21:04:14,10.0,1,29,Randerson,Sousa de Sá Nunes,Questão 13,Randerson Sousa de Sá Nunes,False,True
+29,54,4476,1681506523,,1681506541,1.000.000,2023-04-14 21:08:43,2023-04-14 21:09:01,10.0,1,29,Randerson,Sousa de Sá Nunes,Questão 14,Randerson Sousa de Sá Nunes,False,True
+29,55,4525,1681506936,,1681506957,1.000.000,2023-04-14 21:15:36,2023-04-14 21:15:57,10.0,2,29,Randerson,Sousa de Sá Nunes,Questão 15,Randerson Sousa de Sá Nunes,False,True
+29,56,6631,1681751619,,1681751622,1.000.000,2023-04-17 17:13:39,2023-04-17 17:13:42,10.0,3,29,Randerson,Sousa de Sá Nunes,Questão 16,Randerson Sousa de Sá Nunes,False,True
+29,57,6667,1681751860,,1681751877,1.000.000,2023-04-17 17:17:40,2023-04-17 17:17:57,10.0,2,29,Randerson,Sousa de Sá Nunes,Questão 17,Randerson Sousa de Sá Nunes,False,True
+29,58,6757,1681752718,,1681752722,1.000.000,2023-04-17 17:31:58,2023-04-17 17:32:02,10.0,13,29,Randerson,Sousa de Sá Nunes,Questão 18,Randerson Sousa de Sá Nunes,False,True
+29,59,6795,1681753287,,1681753308,1.000.000,2023-04-17 17:41:27,2023-04-17 17:41:48,10.0,3,29,Randerson,Sousa de Sá Nunes,Questão 19,Randerson Sousa de Sá Nunes,False,True
+29,60,6799,1681753482,,1681753492,1.000.000,2023-04-17 17:44:42,2023-04-17 17:44:52,10.0,2,29,Randerson,Sousa de Sá Nunes,Questão 20,Randerson Sousa de Sá Nunes,False,True
+29,61,6825,1681753874,,1681753896,1.000.000,2023-04-17 17:51:14,2023-04-17 17:51:36,10.0,1,29,Randerson,Sousa de Sá Nunes,Questão 21,Randerson Sousa de Sá Nunes,False,True
+29,62,7255,1681860585,,1681860606,1.000.000,2023-04-18 23:29:45,2023-04-18 23:30:06,10.0,3,29,Randerson,Sousa de Sá Nunes,Questão 22,Randerson Sousa de Sá Nunes,False,True
+29,63,7275,1681862010,,1681862022,1.000.000,2023-04-18 23:53:30,2023-04-18 23:53:42,10.0,11,29,Randerson,Sousa de Sá Nunes,Questão 23,Randerson Sousa de Sá Nunes,False,True
+29,64,7321,1681866285,,1681866298,1.000.000,2023-04-19 01:04:45,2023-04-19 01:04:58,10.0,1,29,Randerson,Sousa de Sá Nunes,Questão 24,Randerson Sousa de Sá Nunes,True,False
+29,65,7346,1681867047,,1681867062,1.000.000,2023-04-19 01:17:27,2023-04-19 01:17:42,10.0,5,29,Randerson,Sousa de Sá Nunes,Questão 25,Randerson Sousa de Sá Nunes,True,False
+29,66,7358,1681867613,,1681867627,1.000.000,2023-04-19 01:26:53,2023-04-19 01:27:07,10.0,1,29,Randerson,Sousa de Sá Nunes,Questão 26,Randerson Sousa de Sá Nunes,True,False
+29,67,7366,1681868190,,1681868205,1.000.000,2023-04-19 01:36:30,2023-04-19 01:36:45,10.0,2,29,Randerson,Sousa de Sá Nunes,Questão 27,Randerson Sousa de Sá Nunes,True,False
+29,68,7403,1681872879,,1681872955,1.000.000,2023-04-19 02:54:39,2023-04-19 02:55:55,10.0,10,29,Randerson,Sousa de Sá Nunes,Questão DESAFIO!,Randerson Sousa de Sá Nunes,True,False
+30,40,610,1681147375,,1681147417,1.000.000,2023-04-10 17:22:55,2023-04-10 17:23:37,10.0,4,30,Jonas Davi,Nogueira Sena,Questão 01,Jonas Davi Nogueira Sena,False,True
+30,41,821,1681148148,,1681148222,1.000.000,2023-04-10 17:35:48,2023-04-10 17:37:02,10.0,2,30,Jonas Davi,Nogueira Sena,Questão 02,Jonas Davi Nogueira Sena,False,True
+30,42,1179,1681149552,,1681149675,1.000.000,2023-04-10 17:59:12,2023-04-10 18:01:15,10.0,7,30,Jonas Davi,Nogueira Sena,Questão 03,Jonas Davi Nogueira Sena,False,True
+30,43,3037,1681394181,,1681394206,1.000.000,2023-04-13 13:56:21,2023-04-13 13:56:46,10.0,6,30,Jonas Davi,Nogueira Sena,Questão 04,Jonas Davi Nogueira Sena,False,True
+30,44,3046,1681394471,,1681394489,1.000.000,2023-04-13 14:01:11,2023-04-13 14:01:29,10.0,2,30,Jonas Davi,Nogueira Sena,Questão 05,Jonas Davi Nogueira Sena,False,True
+30,45,3063,1681394906,,1681394937,1.000.000,2023-04-13 14:08:26,2023-04-13 14:08:57,10.0,1,30,Jonas Davi,Nogueira Sena,Questão 06,Jonas Davi Nogueira Sena,False,True
+30,46,3082,1681395432,,1681395463,1.000.000,2023-04-13 14:17:12,2023-04-13 14:17:43,10.0,1,30,Jonas Davi,Nogueira Sena,Questão 07,Jonas Davi Nogueira Sena,False,True
+30,47,3091,1681395943,,1681395985,1.000.000,2023-04-13 14:25:43,2023-04-13 14:26:25,10.0,1,30,Jonas Davi,Nogueira Sena,Questão 08,Jonas Davi Nogueira Sena,False,True
+30,48,3092,1681396288,,1681396319,1.000.000,2023-04-13 14:31:28,2023-04-13 14:31:59,10.0,1,30,Jonas Davi,Nogueira Sena,Questão 09,Jonas Davi Nogueira Sena,False,True
+30,49,3102,1681396691,,1681396712,1.000.000,2023-04-13 14:38:11,2023-04-13 14:38:32,10.0,2,30,Jonas Davi,Nogueira Sena,Questão 10,Jonas Davi Nogueira Sena,False,True
+30,50,3445,1681429751,,1681429772,1.000.000,2023-04-13 23:49:11,2023-04-13 23:49:32,10.0,2,30,Jonas Davi,Nogueira Sena,Questão 11,Jonas Davi Nogueira Sena,False,True
+30,51,3451,1681430076,,1681430112,1.000.000,2023-04-13 23:54:36,2023-04-13 23:55:12,10.0,2,30,Jonas Davi,Nogueira Sena,Questão 12,Jonas Davi Nogueira Sena,False,True
+30,53,3462,1681430442,,1681430470,1.000.000,2023-04-14 00:00:42,2023-04-14 00:01:10,10.0,1,30,Jonas Davi,Nogueira Sena,Questão 13,Jonas Davi Nogueira Sena,False,True
+30,54,3469,1681430779,,1681430834,1.000.000,2023-04-14 00:06:19,2023-04-14 00:07:14,10.0,2,30,Jonas Davi,Nogueira Sena,Questão 14,Jonas Davi Nogueira Sena,False,True
+30,55,3484,1681431398,,1681431422,1.000.000,2023-04-14 00:16:38,2023-04-14 00:17:02,10.0,2,30,Jonas Davi,Nogueira Sena,Questão 15,Jonas Davi Nogueira Sena,False,True
+30,56,3930,1681503049,,1681503056,1.000.000,2023-04-14 20:10:49,2023-04-14 20:10:56,10.0,3,30,Jonas Davi,Nogueira Sena,Questão 16,Jonas Davi Nogueira Sena,False,True
+30,57,3973,1681503437,,1681503460,1.000.000,2023-04-14 20:17:17,2023-04-14 20:17:40,10.0,2,30,Jonas Davi,Nogueira Sena,Questão 17,Jonas Davi Nogueira Sena,False,True
+30,58,4036,1681503741,,1681503759,1.000.000,2023-04-14 20:22:21,2023-04-14 20:22:39,10.0,2,30,Jonas Davi,Nogueira Sena,Questão 18,Jonas Davi Nogueira Sena,False,True
+30,59,4096,1681504111,,1681504136,1.000.000,2023-04-14 20:28:31,2023-04-14 20:28:56,10.0,1,30,Jonas Davi,Nogueira Sena,Questão 19,Jonas Davi Nogueira Sena,False,True
+30,60,4160,1681504405,,1681504423,1.000.000,2023-04-14 20:33:25,2023-04-14 20:33:43,10.0,2,30,Jonas Davi,Nogueira Sena,Questão 20,Jonas Davi Nogueira Sena,False,True
+30,61,4277,1681505117,,1681505137,1.000.000,2023-04-14 20:45:17,2023-04-14 20:45:37,10.0,2,30,Jonas Davi,Nogueira Sena,Questão 21,Jonas Davi Nogueira Sena,False,True
+30,62,4802,1681559816,,1681559832,1.000.000,2023-04-15 11:56:56,2023-04-15 11:57:12,10.0,6,30,Jonas Davi,Nogueira Sena,Questão 22,Jonas Davi Nogueira Sena,False,True
+30,63,4808,1681560470,,1681560522,1.000.000,2023-04-15 12:07:50,2023-04-15 12:08:42,10.0,4,30,Jonas Davi,Nogueira Sena,Questão 23,Jonas Davi Nogueira Sena,False,True
+30,64,4810,1681560783,,1681560799,1.000.000,2023-04-15 12:13:03,2023-04-15 12:13:19,10.0,2,30,Jonas Davi,Nogueira Sena,Questão 24,Jonas Davi Nogueira Sena,False,True
+30,65,4814,1681561239,,1681561257,1.000.000,2023-04-15 12:20:39,2023-04-15 12:20:57,10.0,3,30,Jonas Davi,Nogueira Sena,Questão 25,Jonas Davi Nogueira Sena,False,True
+30,66,4817,1681562171,,1681562198,1.000.000,2023-04-15 12:36:11,2023-04-15 12:36:38,10.0,3,30,Jonas Davi,Nogueira Sena,Questão 26,Jonas Davi Nogueira Sena,False,True
+30,67,4820,1681562609,,1681562628,1.000.000,2023-04-15 12:43:29,2023-04-15 12:43:48,10.0,3,30,Jonas Davi,Nogueira Sena,Questão 27,Jonas Davi Nogueira Sena,False,True
+30,68,4857,1681567110,,1681567134,1.000.000,2023-04-15 13:58:30,2023-04-15 13:58:54,10.0,25,30,Jonas Davi,Nogueira Sena,Questão DESAFIO!,Jonas Davi Nogueira Sena,False,True
+31,40,719,1681147702,,1681147874,1.000.000,2023-04-10 17:28:22,2023-04-10 17:31:14,10.0,2,31,Roberto,Guilhon,Questão 01,Roberto Guilhon,False,True
+31,41,1108,1681149290,,1681149358,1.000.000,2023-04-10 17:54:50,2023-04-10 17:55:58,10.0,10,31,Roberto,Guilhon,Questão 02,Roberto Guilhon,False,True
+31,42,3022,1681393089,,1681393168,1.000.000,2023-04-13 13:38:09,2023-04-13 13:39:28,10.0,2,31,Roberto,Guilhon,Questão 03,Roberto Guilhon,False,True
+31,43,3151,1681400437,,1681400494,1.000.000,2023-04-13 15:40:37,2023-04-13 15:41:34,10.0,11,31,Roberto,Guilhon,Questão 04,Roberto Guilhon,False,True
+31,44,3353,1681423615,,1681423671,1.000.000,2023-04-13 22:06:55,2023-04-13 22:07:51,10.0,4,31,Roberto,Guilhon,Questão 05,Roberto Guilhon,False,True
+31,45,3357,1681424935,,1681436605,1.000.000,2023-04-13 22:28:55,2023-04-14 01:43:25,10.0,4,31,Roberto,Guilhon,Questão 06,Roberto Guilhon,False,True
+31,46,3706,1681439074,,1681439226,1.000.000,2023-04-14 02:24:34,2023-04-14 02:27:06,10.0,15,31,Roberto,Guilhon,Questão 07,Roberto Guilhon,False,True
+31,47,3714,1681440008,,1681440091,1.000.000,2023-04-14 02:40:08,2023-04-14 02:41:31,10.0,4,31,Roberto,Guilhon,Questão 08,Roberto Guilhon,False,True
+31,48,3924,1681503009,,1681503039,1.000.000,2023-04-14 20:10:09,2023-04-14 20:10:39,10.0,2,31,Roberto,Guilhon,Questão 09,Roberto Guilhon,False,True
+31,49,4012,1681503646,,1681503792,1.000.000,2023-04-14 20:20:46,2023-04-14 20:23:12,10.0,1,31,Roberto,Guilhon,Questão 10,Roberto Guilhon,False,True
+31,50,4110,1681504195,,1681504252,1.000.000,2023-04-14 20:29:55,2023-04-14 20:30:52,10.0,1,31,Roberto,Guilhon,Questão 11,Roberto Guilhon,False,True
+31,51,4195,1681504622,,1681505021,1.000.000,2023-04-14 20:37:02,2023-04-14 20:43:41,10.0,1,31,Roberto,Guilhon,Questão 12,Roberto Guilhon,False,True
+31,53,4305,1681505349,,1681505404,1.000.000,2023-04-14 20:49:09,2023-04-14 20:50:04,10.0,1,31,Roberto,Guilhon,Questão 13,Roberto Guilhon,False,True
+31,54,4377,1681505773,,1681505791,1.000.000,2023-04-14 20:56:13,2023-04-14 20:56:31,10.0,2,31,Roberto,Guilhon,Questão 14,Roberto Guilhon,False,True
+31,55,4479,1681506534,,1681506685,1.000.000,2023-04-14 21:08:54,2023-04-14 21:11:25,10.0,3,31,Roberto,Guilhon,Questão 15,Roberto Guilhon,False,True
+31,56,6390,1681741005,,1681741137,1.000.000,2023-04-17 14:16:45,2023-04-17 14:18:57,10.0,5,31,Roberto,Guilhon,Questão 16,Roberto Guilhon,False,True
+31,57,6443,1681749663,,1681749686,1.000.000,2023-04-17 16:41:03,2023-04-17 16:41:26,10.0,8,31,Roberto,Guilhon,Questão 17,Roberto Guilhon,False,True
+31,58,6508,1681750490,,1681750529,1.000.000,2023-04-17 16:54:50,2023-04-17 16:55:29,10.0,4,31,Roberto,Guilhon,Questão 18,Roberto Guilhon,False,True
+31,59,6559,1681751098,,1681751176,1.000.000,2023-04-17 17:04:58,2023-04-17 17:06:16,10.0,1,31,Roberto,Guilhon,Questão 19,Roberto Guilhon,False,True
+31,60,6643,1681751693,,1681751746,1.000.000,2023-04-17 17:14:53,2023-04-17 17:15:46,10.0,1,31,Roberto,Guilhon,Questão 20,Roberto Guilhon,False,True
+31,61,6730,1681752504,,1681752604,1.000.000,2023-04-17 17:28:24,2023-04-17 17:30:04,10.0,2,31,Roberto,Guilhon,Questão 21,Roberto Guilhon,False,True
+31,62,6794,1681753257,,1681753277,1.000.000,2023-04-17 17:40:57,2023-04-17 17:41:17,10.0,2,31,Roberto,Guilhon,Questão 22,Roberto Guilhon,False,True
+31,63,6845,1681754254,,1681754276,1.000.000,2023-04-17 17:57:34,2023-04-17 17:57:56,10.0,4,31,Roberto,Guilhon,Questão 23,Roberto Guilhon,False,True
+31,64,6863,1681754660,,1681754712,1.000.000,2023-04-17 18:04:20,2023-04-17 18:05:12,10.0,2,31,Roberto,Guilhon,Questão 24,Roberto Guilhon,False,True
+31,65,7534,1681916479,,1681916542,1.000.000,2023-04-19 15:01:19,2023-04-19 15:02:22,10.0,20,31,Roberto,Guilhon,Questão 25,Roberto Guilhon,True,False
+31,66,15211,1683204669,,1683204673,1.000.000,2023-05-04 12:51:09,2023-05-04 12:51:13,10.0,12,31,Roberto,Guilhon,Questão 26,Roberto Guilhon,True,False
+31,67,15249,1683208563,,1683208642,1.000.000,2023-05-04 13:56:03,2023-05-04 13:57:22,10.0,7,31,Roberto,Guilhon,Questão 27,Roberto Guilhon,True,False
+34,40,1072,1681149166,,1681149179,1.000.000,2023-04-10 17:52:46,2023-04-10 17:52:59,10.0,21,34,Gabriel,Viana da Costa,Questão 01,Gabriel Viana da Costa,False,True
+34,41,1264,1681167562,,1681167581,1.000.000,2023-04-10 22:59:22,2023-04-10 22:59:41,10.0,20,34,Gabriel,Viana da Costa,Questão 02,Gabriel Viana da Costa,False,True
+34,42,1423,1681177761,,1681177806,1.000.000,2023-04-11 01:49:21,2023-04-11 01:50:06,10.0,52,34,Gabriel,Viana da Costa,Questão 03,Gabriel Viana da Costa,False,True
+34,43,1468,1681180029,,1681180047,1.000.000,2023-04-11 02:27:09,2023-04-11 02:27:27,10.0,21,34,Gabriel,Viana da Costa,Questão 04,Gabriel Viana da Costa,False,True
+34,44,1485,1681181840,,1681181870,1.000.000,2023-04-11 02:57:20,2023-04-11 02:57:50,10.0,11,34,Gabriel,Viana da Costa,Questão 05,Gabriel Viana da Costa,False,True
+34,45,1610,1681222454,,1681222473,1.000.000,2023-04-11 14:14:14,2023-04-11 14:14:33,10.0,12,34,Gabriel,Viana da Costa,Questão 06,Gabriel Viana da Costa,False,True
+34,46,1632,1681227401,,1681227416,1.000.000,2023-04-11 15:36:41,2023-04-11 15:36:56,10.0,12,34,Gabriel,Viana da Costa,Questão 07,Gabriel Viana da Costa,False,True
+34,47,1851,1681253063,,1681253082,1.000.000,2023-04-11 22:44:23,2023-04-11 22:44:42,10.0,3,34,Gabriel,Viana da Costa,Questão 08,Gabriel Viana da Costa,False,True
+34,48,1854,1681253521,,1681253537,1.000.000,2023-04-11 22:52:01,2023-04-11 22:52:17,10.0,2,34,Gabriel,Viana da Costa,Questão 09,Gabriel Viana da Costa,False,True
+34,49,1858,1681254188,,1681254202,1.000.000,2023-04-11 23:03:08,2023-04-11 23:03:22,10.0,2,34,Gabriel,Viana da Costa,Questão 10,Gabriel Viana da Costa,False,True
+34,50,1860,1681254454,,1681254468,1.000.000,2023-04-11 23:07:34,2023-04-11 23:07:48,10.0,1,34,Gabriel,Viana da Costa,Questão 11,Gabriel Viana da Costa,False,True
+34,51,1904,1681259793,,1681259859,1.000.000,2023-04-12 00:36:33,2023-04-12 00:37:39,10.0,6,34,Gabriel,Viana da Costa,Questão 12,Gabriel Viana da Costa,False,True
+34,53,1923,1681260449,,1681260464,1.000.000,2023-04-12 00:47:29,2023-04-12 00:47:44,10.0,5,34,Gabriel,Viana da Costa,Questão 13,Gabriel Viana da Costa,False,True
+34,54,1933,1681260827,,1681260848,1.000.000,2023-04-12 00:53:47,2023-04-12 00:54:08,10.0,1,34,Gabriel,Viana da Costa,Questão 14,Gabriel Viana da Costa,False,True
+34,55,1955,1681261548,,1681261580,1.000.000,2023-04-12 01:05:48,2023-04-12 01:06:20,10.0,2,34,Gabriel,Viana da Costa,Questão 15,Gabriel Viana da Costa,False,True
+34,56,1990,1681262527,,1681262555,1.000.000,2023-04-12 01:22:07,2023-04-12 01:22:35,10.0,7,34,Gabriel,Viana da Costa,Questão 16,Gabriel Viana da Costa,False,True
+34,57,2011,1681262974,,1681262992,1.000.000,2023-04-12 01:29:34,2023-04-12 01:29:52,10.0,1,34,Gabriel,Viana da Costa,Questão 17,Gabriel Viana da Costa,False,True
+34,58,2052,1681264220,,1681264237,1.000.000,2023-04-12 01:50:20,2023-04-12 01:50:37,10.0,3,34,Gabriel,Viana da Costa,Questão 18,Gabriel Viana da Costa,False,True
+34,59,2106,1681265732,,1681265747,1.000.000,2023-04-12 02:15:32,2023-04-12 02:15:47,10.0,8,34,Gabriel,Viana da Costa,Questão 19,Gabriel Viana da Costa,False,True
+34,60,2122,1681266195,,1681266248,1.000.000,2023-04-12 02:23:15,2023-04-12 02:24:08,10.0,2,34,Gabriel,Viana da Costa,Questão 20,Gabriel Viana da Costa,False,True
+34,61,2202,1681267346,,1681267361,1.000.000,2023-04-12 02:42:26,2023-04-12 02:42:41,10.0,7,34,Gabriel,Viana da Costa,Questão 21,Gabriel Viana da Costa,False,True
+34,62,2238,1681268399,,1681268413,1.000.000,2023-04-12 02:59:59,2023-04-12 03:00:13,10.0,4,34,Gabriel,Viana da Costa,Questão 22,Gabriel Viana da Costa,False,True
+34,63,6355,1681738321,,1682731002,1.000.000,2023-04-17 13:32:01,2023-04-29 01:16:42,10.0,10,34,Gabriel,Viana da Costa,Questão 23,Gabriel Viana da Costa,False,True
+34,64,2285,1681269698,,1681269718,1.000.000,2023-04-12 03:21:38,2023-04-12 03:21:58,10.0,1,34,Gabriel,Viana da Costa,Questão 24,Gabriel Viana da Costa,False,True
+34,65,2344,1681296637,,1681296647,1.000.000,2023-04-12 10:50:37,2023-04-12 10:50:47,10.0,3,34,Gabriel,Viana da Costa,Questão 25,Gabriel Viana da Costa,False,True
+34,66,2335,1681295390,,1681295469,1.000.000,2023-04-12 10:29:50,2023-04-12 10:31:09,10.0,1,34,Gabriel,Viana da Costa,Questão 26,Gabriel Viana da Costa,False,True
+34,67,2340,1681296030,,1681296059,1.000.000,2023-04-12 10:40:30,2023-04-12 10:40:59,10.0,3,34,Gabriel,Viana da Costa,Questão 27,Gabriel Viana da Costa,False,True
+34,68,4475,1681506514,,1681949920,1.000.000,2023-04-14 21:08:34,2023-04-20 00:18:40,10.0,31,34,Gabriel,Viana da Costa,Questão DESAFIO!,Gabriel Viana da Costa,False,True
+35,40,287,1681145014,,1681145100,1.000.000,2023-04-10 16:43:34,2023-04-10 16:45:00,10.0,2,35,Francisco Leonel Ferreira dos,Santos,Questão 01,Francisco Leonel Ferreira dos Santos,False,True
+35,41,371,1681145812,,1681145831,1.000.000,2023-04-10 16:56:52,2023-04-10 16:57:11,10.0,2,35,Francisco Leonel Ferreira dos,Santos,Questão 02,Francisco Leonel Ferreira dos Santos,False,True
+35,42,420,1681146228,,1681146245,1.000.000,2023-04-10 17:03:48,2023-04-10 17:04:05,10.0,1,35,Francisco Leonel Ferreira dos,Santos,Questão 03,Francisco Leonel Ferreira dos Santos,False,True
+35,43,452,1681146515,,1681146536,1.000.000,2023-04-10 17:08:35,2023-04-10 17:08:56,10.0,1,35,Francisco Leonel Ferreira dos,Santos,Questão 04,Francisco Leonel Ferreira dos Santos,False,True
+35,44,491,1681146715,,1681146737,1.000.000,2023-04-10 17:11:55,2023-04-10 17:12:17,10.0,1,35,Francisco Leonel Ferreira dos,Santos,Questão 05,Francisco Leonel Ferreira dos Santos,False,True
+35,45,631,1681147438,,1681147457,1.000.000,2023-04-10 17:23:58,2023-04-10 17:24:17,10.0,1,35,Francisco Leonel Ferreira dos,Santos,Questão 06,Francisco Leonel Ferreira dos Santos,False,True
+35,46,760,1681147879,,1681147895,1.000.000,2023-04-10 17:31:19,2023-04-10 17:31:35,10.0,1,35,Francisco Leonel Ferreira dos,Santos,Questão 07,Francisco Leonel Ferreira dos Santos,False,True
+35,47,797,1681148053,,1681148073,1.000.000,2023-04-10 17:34:13,2023-04-10 17:34:33,10.0,1,35,Francisco Leonel Ferreira dos,Santos,Questão 08,Francisco Leonel Ferreira dos Santos,False,True
+35,48,838,1681148222,,1681148241,1.000.000,2023-04-10 17:37:02,2023-04-10 17:37:21,10.0,1,35,Francisco Leonel Ferreira dos,Santos,Questão 09,Francisco Leonel Ferreira dos Santos,False,True
+35,49,939,1681148601,,1681148620,1.000.000,2023-04-10 17:43:21,2023-04-10 17:43:40,10.0,1,35,Francisco Leonel Ferreira dos,Santos,Questão 10,Francisco Leonel Ferreira dos Santos,False,True
+35,50,1001,1681148909,,1681148915,1.000.000,2023-04-10 17:48:29,2023-04-10 17:48:35,10.0,1,35,Francisco Leonel Ferreira dos,Santos,Questão 11,Francisco Leonel Ferreira dos Santos,False,True
+35,51,1114,1681149320,,1681149340,0,2023-04-10 17:55:20,2023-04-10 17:55:40,0.0,1,35,Francisco Leonel Ferreira dos,Santos,Questão 12,Francisco Leonel Ferreira dos Santos,False,True
+35,53,1271,1681169162,,1681170661,1.000.000,2023-04-10 23:26:02,2023-04-10 23:51:01,10.0,1,35,Francisco Leonel Ferreira dos,Santos,Questão 13,Francisco Leonel Ferreira dos Santos,False,True
+35,54,1310,1681171608,,1681171623,1.000.000,2023-04-11 00:06:48,2023-04-11 00:07:03,10.0,2,35,Francisco Leonel Ferreira dos,Santos,Questão 14,Francisco Leonel Ferreira dos Santos,False,True
+35,55,1322,1681172084,,1681172105,1.000.000,2023-04-11 00:14:44,2023-04-11 00:15:05,10.0,5,35,Francisco Leonel Ferreira dos,Santos,Questão 15,Francisco Leonel Ferreira dos Santos,False,True
+35,56,1330,1681172515,,1681172553,1.000.000,2023-04-11 00:21:55,2023-04-11 00:22:33,10.0,3,35,Francisco Leonel Ferreira dos,Santos,Questão 16,Francisco Leonel Ferreira dos Santos,False,True
+35,57,1343,1681172957,,1681172979,1.000.000,2023-04-11 00:29:17,2023-04-11 00:29:39,10.0,7,35,Francisco Leonel Ferreira dos,Santos,Questão 17,Francisco Leonel Ferreira dos Santos,False,True
+35,58,2121,1681266188,,1681266216,1.000.000,2023-04-12 02:23:08,2023-04-12 02:23:36,10.0,10,35,Francisco Leonel Ferreira dos,Santos,Questão 18,Francisco Leonel Ferreira dos Santos,False,True
+35,59,1365,1681173887,,1681173929,1.000.000,2023-04-11 00:44:47,2023-04-11 00:45:29,10.0,3,35,Francisco Leonel Ferreira dos,Santos,Questão 19,Francisco Leonel Ferreira dos Santos,False,True
+35,60,1377,1681175462,,1681175476,1.000.000,2023-04-11 01:11:02,2023-04-11 01:11:16,10.0,7,35,Francisco Leonel Ferreira dos,Santos,Questão 20,Francisco Leonel Ferreira dos Santos,False,True
+35,61,1535,1681212845,,1681212880,1.000.000,2023-04-11 11:34:05,2023-04-11 11:34:40,10.0,1,35,Francisco Leonel Ferreira dos,Santos,Questão 21,Francisco Leonel Ferreira dos Santos,False,True
+35,62,1541,1681213481,"Professor, nesse exercício ele está alegando que saída não está certa, mas na verdade está batendo sim com o resultado da descrição da imagem.",1681263656,0,2023-04-11 11:44:41,2023-04-12 01:40:56,0.0,2,35,Francisco Leonel Ferreira dos,Santos,Questão 22,Francisco Leonel Ferreira dos Santos,False,True
+35,63,1546,1681213893,,1681213937,1.000.000,2023-04-11 11:51:33,2023-04-11 11:52:17,10.0,4,35,Francisco Leonel Ferreira dos,Santos,Questão 23,Francisco Leonel Ferreira dos Santos,False,True
+35,64,1550,1681214173,,1681214185,1.000.000,2023-04-11 11:56:13,2023-04-11 11:56:25,10.0,2,35,Francisco Leonel Ferreira dos,Santos,Questão 24,Francisco Leonel Ferreira dos Santos,False,True
+35,65,1561,1681215059,,1681215087,1.000.000,2023-04-11 12:10:59,2023-04-11 12:11:27,10.0,7,35,Francisco Leonel Ferreira dos,Santos,Questão 25,Francisco Leonel Ferreira dos Santos,False,True
+35,66,1563,1681215368,,1681215391,1.000.000,2023-04-11 12:16:08,2023-04-11 12:16:31,10.0,2,35,Francisco Leonel Ferreira dos,Santos,Questão 26,Francisco Leonel Ferreira dos Santos,False,True
+35,67,1569,1681215916,,1681215935,1.000.000,2023-04-11 12:25:16,2023-04-11 12:25:35,10.0,4,35,Francisco Leonel Ferreira dos,Santos,Questão 27,Francisco Leonel Ferreira dos Santos,False,True
+35,68,2585,1681324644,,1681324795,0,2023-04-12 18:37:24,2023-04-12 18:39:55,0.0,9,35,Francisco Leonel Ferreira dos,Santos,Questão DESAFIO!,Francisco Leonel Ferreira dos Santos,False,True
+36,40,2982,1681389398,,1681827865,1.000.000,2023-04-13 12:36:38,2023-04-18 14:24:25,10.0,5,36,Gabriel,Oliveira,Questão 01,Gabriel Oliveira,False,True
+36,41,408,1681146084,,1681146093,1.000.000,2023-04-10 17:01:24,2023-04-10 17:01:33,10.0,3,36,Gabriel,Oliveira,Questão 02,Gabriel Oliveira,False,True
+36,42,365,1681145789,,1681145814,1.000.000,2023-04-10 16:56:29,2023-04-10 16:56:54,10.0,3,36,Gabriel,Oliveira,Questão 03,Gabriel Oliveira,False,True
+36,43,479,1681146657,,1681146670,1.000.000,2023-04-10 17:10:57,2023-04-10 17:11:10,10.0,2,36,Gabriel,Oliveira,Questão 04,Gabriel Oliveira,False,True
+36,44,544,1681147030,,1681147049,1.000.000,2023-04-10 17:17:10,2023-04-10 17:17:29,10.0,2,36,Gabriel,Oliveira,Questão 05,Gabriel Oliveira,False,True
+36,45,607,1681147338,,1681147354,1.000.000,2023-04-10 17:22:18,2023-04-10 17:22:34,10.0,2,36,Gabriel,Oliveira,Questão 06,Gabriel Oliveira,False,True
+36,46,812,1681148112,,1681148117,1.000.000,2023-04-10 17:35:12,2023-04-10 17:35:17,10.0,9,36,Gabriel,Oliveira,Questão 07,Gabriel Oliveira,False,True
+36,47,913,1681148494,,1681148501,1.000.000,2023-04-10 17:41:34,2023-04-10 17:41:41,10.0,3,36,Gabriel,Oliveira,Questão 08,Gabriel Oliveira,False,True
+36,48,1174,1681149534,,1681149542,1.000.000,2023-04-10 17:58:54,2023-04-10 17:59:02,10.0,6,36,Gabriel,Oliveira,Questão 09,Gabriel Oliveira,False,True
+36,49,1248,1681150368,,1681209289,1.000.000,2023-04-10 18:12:48,2023-04-11 10:34:49,10.0,4,36,Gabriel,Oliveira,Questão 10,Gabriel Oliveira,False,True
+36,50,2070,1681264947,,1681264951,1.000.000,2023-04-12 02:02:27,2023-04-12 02:02:31,10.0,3,36,Gabriel,Oliveira,Questão 11,Gabriel Oliveira,False,True
+36,51,2080,1681265226,,1681265230,1.000.000,2023-04-12 02:07:06,2023-04-12 02:07:10,10.0,2,36,Gabriel,Oliveira,Questão 12,Gabriel Oliveira,False,True
+36,53,2086,1681265355,,1681265359,1.000.000,2023-04-12 02:09:15,2023-04-12 02:09:19,10.0,1,36,Gabriel,Oliveira,Questão 13,Gabriel Oliveira,False,True
+36,54,2107,1681265850,,1681265855,1.000.000,2023-04-12 02:17:30,2023-04-12 02:17:35,10.0,1,36,Gabriel,Oliveira,Questão 14,Gabriel Oliveira,False,True
+36,55,2117,1681266134,,1681266138,1.000.000,2023-04-12 02:22:14,2023-04-12 02:22:18,10.0,1,36,Gabriel,Oliveira,Questão 15,Gabriel Oliveira,False,True
+36,56,2132,1681266413,,1681266416,1.000.000,2023-04-12 02:26:53,2023-04-12 02:26:56,10.0,1,36,Gabriel,Oliveira,Questão 16,Gabriel Oliveira,False,True
+36,57,2171,1681266910,,1681266924,1.000.000,2023-04-12 02:35:10,2023-04-12 02:35:24,10.0,4,36,Gabriel,Oliveira,Questão 17,Gabriel Oliveira,False,True
+36,58,2200,1681267336,,1681267339,1.000.000,2023-04-12 02:42:16,2023-04-12 02:42:19,10.0,5,36,Gabriel,Oliveira,Questão 18,Gabriel Oliveira,False,True
+36,59,2222,1681267730,,1681267733,1.000.000,2023-04-12 02:48:50,2023-04-12 02:48:53,10.0,3,36,Gabriel,Oliveira,Questão 19,Gabriel Oliveira,False,True
+36,60,2224,1681267866,,1681267869,1.000.000,2023-04-12 02:51:06,2023-04-12 02:51:09,10.0,1,36,Gabriel,Oliveira,Questão 20,Gabriel Oliveira,False,True
+36,61,2227,1681268073,,1681268076,1.000.000,2023-04-12 02:54:33,2023-04-12 02:54:36,10.0,1,36,Gabriel,Oliveira,Questão 21,Gabriel Oliveira,False,True
+36,62,2239,1681268428,,1681268445,1.000.000,2023-04-12 03:00:28,2023-04-12 03:00:45,10.0,1,36,Gabriel,Oliveira,Questão 22,Gabriel Oliveira,False,True
+36,63,2777,1681347749,,1681347775,1.000.000,2023-04-13 01:02:29,2023-04-13 01:02:55,10.0,9,36,Gabriel,Oliveira,Questão 23,Gabriel Oliveira,False,True
+36,64,2266,1681269212,,1681269216,1.000.000,2023-04-12 03:13:32,2023-04-12 03:13:36,10.0,2,36,Gabriel,Oliveira,Questão 24,Gabriel Oliveira,False,True
+36,65,2276,1681269465,,1681269468,0,2023-04-12 03:17:45,2023-04-12 03:17:48,0.0,5,36,Gabriel,Oliveira,Questão 25,Gabriel Oliveira,False,True
+36,66,2295,1681270153,,1681270188,1.000.000,2023-04-12 03:29:13,2023-04-12 03:29:48,10.0,1,36,Gabriel,Oliveira,Questão 26,Gabriel Oliveira,False,True
+36,67,2316,1681270955,,1681270959,1.000.000,2023-04-12 03:42:35,2023-04-12 03:42:39,10.0,3,36,Gabriel,Oliveira,Questão 27,Gabriel Oliveira,False,True
+36,68,7591,1681953442,,1681953485,1.000.000,2023-04-20 01:17:22,2023-04-20 01:18:05,10.0,28,36,Gabriel,Oliveira,Questão DESAFIO!,Gabriel Oliveira,True,False
+37,40,415,1681146198,,1681146249,1.000.000,2023-04-10 17:03:18,2023-04-10 17:04:09,10.0,7,37,Samuel Ryan,Fonseca Anunciação,Questão 01,Samuel Ryan Fonseca Anunciação,False,True
+37,41,514,1681146833,,1681146839,1.000.000,2023-04-10 17:13:53,2023-04-10 17:13:59,10.0,6,37,Samuel Ryan,Fonseca Anunciação,Questão 02,Samuel Ryan Fonseca Anunciação,False,True
+37,42,741,1681147805,,1681147874,1.000.000,2023-04-10 17:30:05,2023-04-10 17:31:14,10.0,5,37,Samuel Ryan,Fonseca Anunciação,Questão 03,Samuel Ryan Fonseca Anunciação,False,True
+37,43,1030,1681149006,,1681149022,1.000.000,2023-04-10 17:50:06,2023-04-10 17:50:22,10.0,11,37,Samuel Ryan,Fonseca Anunciação,Questão 04,Samuel Ryan Fonseca Anunciação,False,True
+37,44,1722,1681240851,,1681240874,1.000.000,2023-04-11 19:20:51,2023-04-11 19:21:14,10.0,19,37,Samuel Ryan,Fonseca Anunciação,Questão 05,Samuel Ryan Fonseca Anunciação,False,True
+37,45,1825,1681242923,,1681242953,1.000.000,2023-04-11 19:55:23,2023-04-11 19:55:53,10.0,14,37,Samuel Ryan,Fonseca Anunciação,Questão 06,Samuel Ryan Fonseca Anunciação,False,True
+37,46,3165,1681417037,,1681417058,1.000.000,2023-04-13 20:17:17,2023-04-13 20:17:38,10.0,4,37,Samuel Ryan,Fonseca Anunciação,Questão 07,Samuel Ryan Fonseca Anunciação,False,True
+37,47,3181,1681417623,,1681417638,1.000.000,2023-04-13 20:27:03,2023-04-13 20:27:18,10.0,4,37,Samuel Ryan,Fonseca Anunciação,Questão 08,Samuel Ryan Fonseca Anunciação,False,True
+37,48,3201,1681418019,,1681418041,1.000.000,2023-04-13 20:33:39,2023-04-13 20:34:01,10.0,2,37,Samuel Ryan,Fonseca Anunciação,Questão 09,Samuel Ryan Fonseca Anunciação,False,True
+37,49,3216,1681418375,,1681418397,1.000.000,2023-04-13 20:39:35,2023-04-13 20:39:57,10.0,1,37,Samuel Ryan,Fonseca Anunciação,Questão 10,Samuel Ryan Fonseca Anunciação,False,True
+37,50,3248,1681419067,,1681419083,1.000.000,2023-04-13 20:51:07,2023-04-13 20:51:23,10.0,2,37,Samuel Ryan,Fonseca Anunciação,Questão 11,Samuel Ryan Fonseca Anunciação,False,True
+37,51,3271,1681419511,,1681419515,1.000.000,2023-04-13 20:58:31,2023-04-13 20:58:35,10.0,4,37,Samuel Ryan,Fonseca Anunciação,Questão 12,Samuel Ryan Fonseca Anunciação,False,True
+37,53,3291,1681419990,,1681420047,1.000.000,2023-04-13 21:06:30,2023-04-13 21:07:27,10.0,3,37,Samuel Ryan,Fonseca Anunciação,Questão 13,Samuel Ryan Fonseca Anunciação,False,True
+37,54,3308,1681420521,,1681420546,1.000.000,2023-04-13 21:15:21,2023-04-13 21:15:46,10.0,3,37,Samuel Ryan,Fonseca Anunciação,Questão 14,Samuel Ryan Fonseca Anunciação,False,True
+37,55,3957,1681503273,,1681503292,1.000.000,2023-04-14 20:14:33,2023-04-14 20:14:52,10.0,3,37,Samuel Ryan,Fonseca Anunciação,Questão 15,Samuel Ryan Fonseca Anunciação,False,True
+37,56,4042,1681503773,,1681503803,1.000.000,2023-04-14 20:22:53,2023-04-14 20:23:23,10.0,3,37,Samuel Ryan,Fonseca Anunciação,Questão 16,Samuel Ryan Fonseca Anunciação,False,True
+37,57,4105,1681504168,,1681504198,1.000.000,2023-04-14 20:29:28,2023-04-14 20:29:58,10.0,2,37,Samuel Ryan,Fonseca Anunciação,Questão 17,Samuel Ryan Fonseca Anunciação,False,True
+37,58,4258,1681504989,,1681505000,1.000.000,2023-04-14 20:43:09,2023-04-14 20:43:20,10.0,8,37,Samuel Ryan,Fonseca Anunciação,Questão 18,Samuel Ryan Fonseca Anunciação,False,True
+37,59,4343,1681505539,,1681505607,1.000.000,2023-04-14 20:52:19,2023-04-14 20:53:27,10.0,3,37,Samuel Ryan,Fonseca Anunciação,Questão 19,Samuel Ryan Fonseca Anunciação,False,True
+37,60,4460,1681506437,,1681506448,1.000.000,2023-04-14 21:07:17,2023-04-14 21:07:28,10.0,4,37,Samuel Ryan,Fonseca Anunciação,Questão 20,Samuel Ryan Fonseca Anunciação,False,True
+37,61,4906,1681572581,,1681572599,1.000.000,2023-04-15 15:29:41,2023-04-15 15:29:59,10.0,6,37,Samuel Ryan,Fonseca Anunciação,Questão 21,Samuel Ryan Fonseca Anunciação,False,True
+37,62,4917,1681573207,,1681573225,1.000.000,2023-04-15 15:40:07,2023-04-15 15:40:25,10.0,4,37,Samuel Ryan,Fonseca Anunciação,Questão 22,Samuel Ryan Fonseca Anunciação,False,True
+37,63,4924,1681573762,,1681573781,1.000.000,2023-04-15 15:49:22,2023-04-15 15:49:41,10.0,3,37,Samuel Ryan,Fonseca Anunciação,Questão 23,Samuel Ryan Fonseca Anunciação,False,True
+37,64,4931,1681574059,,1681574108,1.000.000,2023-04-15 15:54:19,2023-04-15 15:55:08,10.0,1,37,Samuel Ryan,Fonseca Anunciação,Questão 24,Samuel Ryan Fonseca Anunciação,False,True
+37,65,4943,1681574676,,1681574697,1.000.000,2023-04-15 16:04:36,2023-04-15 16:04:57,10.0,2,37,Samuel Ryan,Fonseca Anunciação,Questão 25,Samuel Ryan Fonseca Anunciação,False,True
+37,66,4946,1681575073,,1681575093,1.000.000,2023-04-15 16:11:13,2023-04-15 16:11:33,10.0,2,37,Samuel Ryan,Fonseca Anunciação,Questão 26,Samuel Ryan Fonseca Anunciação,False,True
+37,67,4947,1681575421,,1681575466,1.000.000,2023-04-15 16:17:01,2023-04-15 16:17:46,10.0,1,37,Samuel Ryan,Fonseca Anunciação,Questão 27,Samuel Ryan Fonseca Anunciação,False,True
+37,68,6686,1681752105,,1681752144,1.000.000,2023-04-17 17:21:45,2023-04-17 17:22:24,10.0,15,37,Samuel Ryan,Fonseca Anunciação,Questão DESAFIO!,Samuel Ryan Fonseca Anunciação,False,True
+38,40,842,1681148233,,1681148262,1.000.000,2023-04-10 17:37:13,2023-04-10 17:37:42,10.0,4,38,Hipócrates,Augusto,Questão 01,Hipócrates Augusto,False,True
+38,41,961,1681148715,,1681148778,1.000.000,2023-04-10 17:45:15,2023-04-10 17:46:18,10.0,3,38,Hipócrates,Augusto,Questão 02,Hipócrates Augusto,False,True
+38,42,1232,1681149839,,1681149884,1.000.000,2023-04-10 18:03:59,2023-04-10 18:04:44,10.0,5,38,Hipócrates,Augusto,Questão 03,Hipócrates Augusto,False,True
+38,43,1308,1681171564,,1681171651,1.000.000,2023-04-11 00:06:04,2023-04-11 00:07:31,10.0,1,38,Hipócrates,Augusto,Questão 04,Hipócrates Augusto,False,True
+38,44,3501,1681431827,,1681431872,1.000.000,2023-04-14 00:23:47,2023-04-14 00:24:32,10.0,1,38,Hipócrates,Augusto,Questão 05,Hipócrates Augusto,False,True
+38,45,3610,1681435223,,1681435238,1.000.000,2023-04-14 01:20:23,2023-04-14 01:20:38,10.0,3,38,Hipócrates,Augusto,Questão 06,Hipócrates Augusto,False,True
+38,46,3646,1681436192,,1681436202,1.000.000,2023-04-14 01:36:32,2023-04-14 01:36:42,10.0,3,38,Hipócrates,Augusto,Questão 07,Hipócrates Augusto,False,True
+38,47,3665,1681436820,,1681436910,1.000.000,2023-04-14 01:47:00,2023-04-14 01:48:30,10.0,2,38,Hipócrates,Augusto,Questão 08,Hipócrates Augusto,False,True
+38,48,3686,1681437939,,1681437961,1.000.000,2023-04-14 02:05:39,2023-04-14 02:06:01,10.0,1,38,Hipócrates,Augusto,Questão 09,Hipócrates Augusto,False,True
+38,49,3704,1681438977,,1681438998,1.000.000,2023-04-14 02:22:57,2023-04-14 02:23:18,10.0,2,38,Hipócrates,Augusto,Questão 10,Hipócrates Augusto,False,True
+38,50,3715,1681440181,,1681440207,1.000.000,2023-04-14 02:43:01,2023-04-14 02:43:27,10.0,3,38,Hipócrates,Augusto,Questão 11,Hipócrates Augusto,False,True
+38,51,3718,1681440741,,1681440753,0,2023-04-14 02:52:21,2023-04-14 02:52:33,0.0,4,38,Hipócrates,Augusto,Questão 12,Hipócrates Augusto,False,True
+38,53,3724,1681441262,,1681441278,1.000.000,2023-04-14 03:01:02,2023-04-14 03:01:18,10.0,2,38,Hipócrates,Augusto,Questão 13,Hipócrates Augusto,False,True
+38,54,3725,1681441584,,1681441597,1.000.000,2023-04-14 03:06:24,2023-04-14 03:06:37,10.0,1,38,Hipócrates,Augusto,Questão 14,Hipócrates Augusto,False,True
+38,55,4126,1681504285,,1681504325,1.000.000,2023-04-14 20:31:25,2023-04-14 20:32:05,10.0,3,38,Hipócrates,Augusto,Questão 15,Hipócrates Augusto,False,True
+38,56,4286,1681505187,,1681505195,1.000.000,2023-04-14 20:46:27,2023-04-14 20:46:35,10.0,3,38,Hipócrates,Augusto,Questão 16,Hipócrates Augusto,False,True
+38,57,4368,1681505680,,1681505705,1.000.000,2023-04-14 20:54:40,2023-04-14 20:55:05,10.0,4,38,Hipócrates,Augusto,Questão 17,Hipócrates Augusto,False,True
+38,58,4432,1681506248,,1681506262,1.000.000,2023-04-14 21:04:08,2023-04-14 21:04:22,10.0,2,38,Hipócrates,Augusto,Questão 18,Hipócrates Augusto,False,True
+38,59,4591,1681516796,,1681516852,1.000.000,2023-04-14 23:59:56,2023-04-15 00:00:52,10.0,3,38,Hipócrates,Augusto,Questão 19,Hipócrates Augusto,False,True
+38,60,4606,1681518523,,1681518626,1.000.000,2023-04-15 00:28:43,2023-04-15 00:30:26,10.0,15,38,Hipócrates,Augusto,Questão 20,Hipócrates Augusto,False,True
+38,61,4611,1681519788,,1681519803,1.000.000,2023-04-15 00:49:48,2023-04-15 00:50:03,10.0,2,38,Hipócrates,Augusto,Questão 21,Hipócrates Augusto,False,True
+38,62,4615,1681520598,,1681520677,1.000.000,2023-04-15 01:03:18,2023-04-15 01:04:37,10.0,1,38,Hipócrates,Augusto,Questão 22,Hipócrates Augusto,False,True
+38,63,4650,1681523911,,1681523935,1.000.000,2023-04-15 01:58:31,2023-04-15 01:58:55,10.0,5,38,Hipócrates,Augusto,Questão 23,Hipócrates Augusto,False,True
+38,64,13847,1682885421,,1682885434,1.000.000,2023-04-30 20:10:21,2023-04-30 20:10:34,10.0,7,38,Hipócrates,Augusto,Questão 24,Hipócrates Augusto,True,False
+38,65,4677,1681525669,,1681525680,1.000.000,2023-04-15 02:27:49,2023-04-15 02:28:00,10.0,1,38,Hipócrates,Augusto,Questão 25,Hipócrates Augusto,False,True
+38,66,4682,1681526380,,1681526394,1.000.000,2023-04-15 02:39:40,2023-04-15 02:39:54,10.0,4,38,Hipócrates,Augusto,Questão 26,Hipócrates Augusto,False,True
+38,67,4684,1681526832,,1681526846,1.000.000,2023-04-15 02:47:12,2023-04-15 02:47:26,10.0,4,38,Hipócrates,Augusto,Questão 27,Hipócrates Augusto,False,True
+38,68,6634,1681751624,,1681751641,1.000.000,2023-04-17 17:13:44,2023-04-17 17:14:01,10.0,11,38,Hipócrates,Augusto,Questão DESAFIO!,Hipócrates Augusto,False,True
+39,40,1241,1681149977,,1681150008,1.000.000,2023-04-10 18:06:17,2023-04-10 18:06:48,10.0,5,39,Heráclito Thiago,Castro Santos,Questão 01,Heráclito Thiago Castro Santos,False,True
+39,41,3318,1681420765,,1681420836,1.000.000,2023-04-13 21:19:25,2023-04-13 21:20:36,10.0,4,39,Heráclito Thiago,Castro Santos,Questão 02,Heráclito Thiago Castro Santos,False,True
+39,42,3328,1681421273,,1681421298,1.000.000,2023-04-13 21:27:53,2023-04-13 21:28:18,10.0,3,39,Heráclito Thiago,Castro Santos,Questão 03,Heráclito Thiago Castro Santos,False,True
+39,43,3332,1681421541,,1681421563,1.000.000,2023-04-13 21:32:21,2023-04-13 21:32:43,10.0,4,39,Heráclito Thiago,Castro Santos,Questão 04,Heráclito Thiago Castro Santos,False,True
+39,44,3335,1681421790,,1681421795,1.000.000,2023-04-13 21:36:30,2023-04-13 21:36:35,10.0,3,39,Heráclito Thiago,Castro Santos,Questão 05,Heráclito Thiago Castro Santos,False,True
+39,45,3338,1681422219,,1681422243,1.000.000,2023-04-13 21:43:39,2023-04-13 21:44:03,10.0,3,39,Heráclito Thiago,Castro Santos,Questão 06,Heráclito Thiago Castro Santos,False,True
+39,46,3339,1681422441,,1681422462,1.000.000,2023-04-13 21:47:21,2023-04-13 21:47:42,10.0,1,39,Heráclito Thiago,Castro Santos,Questão 07,Heráclito Thiago Castro Santos,False,True
+39,47,3342,1681422728,,1681422733,1.000.000,2023-04-13 21:52:08,2023-04-13 21:52:13,10.0,3,39,Heráclito Thiago,Castro Santos,Questão 08,Heráclito Thiago Castro Santos,False,True
+39,48,3344,1681422987,,1681423014,1.000.000,2023-04-13 21:56:27,2023-04-13 21:56:54,10.0,2,39,Heráclito Thiago,Castro Santos,Questão 09,Heráclito Thiago Castro Santos,False,True
+39,49,3351,1681423362,,1681423385,1.000.000,2023-04-13 22:02:42,2023-04-13 22:03:05,10.0,4,39,Heráclito Thiago,Castro Santos,Questão 10,Heráclito Thiago Castro Santos,False,True
+39,50,3365,1681425637,,1681425659,1.000.000,2023-04-13 22:40:37,2023-04-13 22:40:59,10.0,5,39,Heráclito Thiago,Castro Santos,Questão 11,Heráclito Thiago Castro Santos,False,True
+39,51,3369,1681425944,,1681425967,1.000.000,2023-04-13 22:45:44,2023-04-13 22:46:07,10.0,2,39,Heráclito Thiago,Castro Santos,Questão 12,Heráclito Thiago Castro Santos,False,True
+39,53,3372,1681426151,,1681426171,1.000.000,2023-04-13 22:49:11,2023-04-13 22:49:31,10.0,2,39,Heráclito Thiago,Castro Santos,Questão 13,Heráclito Thiago Castro Santos,False,True
+39,54,3379,1681426545,,1681426569,1.000.000,2023-04-13 22:55:45,2023-04-13 22:56:09,10.0,3,39,Heráclito Thiago,Castro Santos,Questão 14,Heráclito Thiago Castro Santos,False,True
+39,55,3380,1681426867,,1681426902,1.000.000,2023-04-13 23:01:07,2023-04-13 23:01:42,10.0,1,39,Heráclito Thiago,Castro Santos,Questão 15,Heráclito Thiago Castro Santos,False,True
+39,56,3383,1681427232,,1681427272,1.000.000,2023-04-13 23:07:12,2023-04-13 23:07:52,10.0,2,39,Heráclito Thiago,Castro Santos,Questão 16,Heráclito Thiago Castro Santos,False,True
+39,57,3389,1681427560,,1681427592,1.000.000,2023-04-13 23:12:40,2023-04-13 23:13:12,10.0,2,39,Heráclito Thiago,Castro Santos,Questão 17,Heráclito Thiago Castro Santos,False,True
+39,58,3397,1681427895,,1681427917,1.000.000,2023-04-13 23:18:15,2023-04-13 23:18:37,10.0,2,39,Heráclito Thiago,Castro Santos,Questão 18,Heráclito Thiago Castro Santos,False,True
+39,59,3415,1681428618,,1681428628,1.000.000,2023-04-13 23:30:18,2023-04-13 23:30:28,10.0,4,39,Heráclito Thiago,Castro Santos,Questão 19,Heráclito Thiago Castro Santos,False,True
+39,60,3423,1681428925,,1681428984,1.000.000,2023-04-13 23:35:25,2023-04-13 23:36:24,10.0,2,39,Heráclito Thiago,Castro Santos,Questão 20,Heráclito Thiago Castro Santos,False,True
+39,61,3477,1681431150,,1681431184,1.000.000,2023-04-14 00:12:30,2023-04-14 00:13:04,10.0,2,39,Heráclito Thiago,Castro Santos,Questão 21,Heráclito Thiago Castro Santos,False,True
+39,62,3499,1681431814,,1681431834,1.000.000,2023-04-14 00:23:34,2023-04-14 00:23:54,10.0,5,39,Heráclito Thiago,Castro Santos,Questão 22,Heráclito Thiago Castro Santos,False,True
+39,63,3510,1681432340,,1681432345,1.000.000,2023-04-14 00:32:20,2023-04-14 00:32:25,10.0,4,39,Heráclito Thiago,Castro Santos,Questão 23,Heráclito Thiago Castro Santos,False,True
+39,64,3521,1681432604,,1681432610,1.000.000,2023-04-14 00:36:44,2023-04-14 00:36:50,10.0,2,39,Heráclito Thiago,Castro Santos,Questão 24,Heráclito Thiago Castro Santos,False,True
+39,65,3530,1681433215,,1681433239,1.000.000,2023-04-14 00:46:55,2023-04-14 00:47:19,10.0,2,39,Heráclito Thiago,Castro Santos,Questão 25,Heráclito Thiago Castro Santos,False,True
+39,66,3542,1681433624,,1681433667,1.000.000,2023-04-14 00:53:44,2023-04-14 00:54:27,10.0,2,39,Heráclito Thiago,Castro Santos,Questão 26,Heráclito Thiago Castro Santos,False,True
+39,67,3555,1681434064,,1681434224,1.000.000,2023-04-14 01:01:04,2023-04-14 01:03:44,10.0,1,39,Heráclito Thiago,Castro Santos,Questão 27,Heráclito Thiago Castro Santos,False,True
+39,68,3638,1681435840,,1681435855,1.000.000,2023-04-14 01:30:40,2023-04-14 01:30:55,10.0,13,39,Heráclito Thiago,Castro Santos,Questão DESAFIO!,Heráclito Thiago Castro Santos,False,True
+40,40,746,1681147835,,1681147840,1.000.000,2023-04-10 17:30:35,2023-04-10 17:30:40,10.0,3,40,DURVAL,VELOSO BARBOSA FILHO,Questão 01,DURVAL VELOSO BARBOSA FILHO,False,True
+40,41,1139,1681149409,,1681503646,1.000.000,2023-04-10 17:56:49,2023-04-14 20:20:46,10.0,8,40,DURVAL,VELOSO BARBOSA FILHO,Questão 02,DURVAL VELOSO BARBOSA FILHO,False,True
+40,42,4248,1681504954,,1681505000,1.000.000,2023-04-14 20:42:34,2023-04-14 20:43:20,10.0,1,40,DURVAL,VELOSO BARBOSA FILHO,Questão 03,DURVAL VELOSO BARBOSA FILHO,False,True
+40,43,4362,1681505620,,1681505638,1.000.000,2023-04-14 20:53:40,2023-04-14 20:53:58,10.0,7,40,DURVAL,VELOSO BARBOSA FILHO,Questão 04,DURVAL VELOSO BARBOSA FILHO,False,True
+40,44,4489,1681506660,,1681506716,1.000.000,2023-04-14 21:11:00,2023-04-14 21:11:56,10.0,9,40,DURVAL,VELOSO BARBOSA FILHO,Questão 05,DURVAL VELOSO BARBOSA FILHO,False,True
+40,45,5362,1681605494,,1681605528,1.000.000,2023-04-16 00:38:14,2023-04-16 00:38:48,10.0,14,40,DURVAL,VELOSO BARBOSA FILHO,Questão 06,DURVAL VELOSO BARBOSA FILHO,False,True
+40,46,5390,1681606816,,1681606955,1.000.000,2023-04-16 01:00:16,2023-04-16 01:02:35,10.0,7,40,DURVAL,VELOSO BARBOSA FILHO,Questão 07,DURVAL VELOSO BARBOSA FILHO,False,True
+40,47,5405,1681608321,,1681608345,0,2023-04-16 01:25:21,2023-04-16 01:25:45,0.0,4,40,DURVAL,VELOSO BARBOSA FILHO,Questão 08,DURVAL VELOSO BARBOSA FILHO,False,True
+40,48,5635,1681651034,,1681651055,1.000.000,2023-04-16 13:17:14,2023-04-16 13:17:35,10.0,11,40,DURVAL,VELOSO BARBOSA FILHO,Questão 09,DURVAL VELOSO BARBOSA FILHO,False,True
+40,49,21430,1684527772,,1684527799,1.000.000,2023-05-19 20:22:52,2023-05-19 20:23:19,10.0,10,40,DURVAL,VELOSO BARBOSA FILHO,Questão 10,DURVAL VELOSO BARBOSA FILHO,True,False
+40,50,5649,1681653710,,1681653764,1.000.000,2023-04-16 14:01:50,2023-04-16 14:02:44,10.0,3,40,DURVAL,VELOSO BARBOSA FILHO,Questão 11,DURVAL VELOSO BARBOSA FILHO,False,True
+40,51,5825,1681668680,,1681668704,1.000.000,2023-04-16 18:11:20,2023-04-16 18:11:44,10.0,7,40,DURVAL,VELOSO BARBOSA FILHO,Questão 12,DURVAL VELOSO BARBOSA FILHO,False,True
+40,53,5849,1681669758,,1681669792,1.000.000,2023-04-16 18:29:18,2023-04-16 18:29:52,10.0,5,40,DURVAL,VELOSO BARBOSA FILHO,Questão 13,DURVAL VELOSO BARBOSA FILHO,False,True
+40,54,5874,1681670686,,1681670693,1.000.000,2023-04-16 18:44:46,2023-04-16 18:44:53,10.0,5,40,DURVAL,VELOSO BARBOSA FILHO,Questão 14,DURVAL VELOSO BARBOSA FILHO,False,True
+40,55,6513,1681750569,,1681750650,0,2023-04-17 16:56:09,2023-04-17 16:57:30,0.0,31,40,DURVAL,VELOSO BARBOSA FILHO,Questão 15,DURVAL VELOSO BARBOSA FILHO,False,True
+40,56,5978,1681676795,,1681676814,0,2023-04-16 20:26:35,2023-04-16 20:26:54,0.0,14,40,DURVAL,VELOSO BARBOSA FILHO,Questão 16,DURVAL VELOSO BARBOSA FILHO,False,True
+40,57,5986,1681678151,,1681678167,0,2023-04-16 20:49:11,2023-04-16 20:49:27,0.0,5,40,DURVAL,VELOSO BARBOSA FILHO,Questão 17,DURVAL VELOSO BARBOSA FILHO,False,True
+40,58,6399,1681741763,,1681741781,0,2023-04-17 14:29:23,2023-04-17 14:29:41,0.0,15,40,DURVAL,VELOSO BARBOSA FILHO,Questão 18,DURVAL VELOSO BARBOSA FILHO,False,True
+40,59,6506,1681750462,,1681751851,1.000.000,2023-04-17 16:54:22,2023-04-17 17:17:31,10.0,22,40,DURVAL,VELOSO BARBOSA FILHO,Questão 19,DURVAL VELOSO BARBOSA FILHO,False,True
+40,60,6637,1681751638,,1681751926,1.000.000,2023-04-17 17:13:58,2023-04-17 17:18:46,10.0,7,40,DURVAL,VELOSO BARBOSA FILHO,Questão 20,DURVAL VELOSO BARBOSA FILHO,False,True
+40,61,6792,1681753212,,1681753311,1.000.000,2023-04-17 17:40:12,2023-04-17 17:41:51,10.0,3,40,DURVAL,VELOSO BARBOSA FILHO,Questão 21,DURVAL VELOSO BARBOSA FILHO,False,True
+40,62,6872,1681754935,,1681754965,1.000.000,2023-04-17 18:08:55,2023-04-17 18:09:25,10.0,5,40,DURVAL,VELOSO BARBOSA FILHO,Questão 22,DURVAL VELOSO BARBOSA FILHO,False,True
+40,63,6980,1681771975,,1681772015,0,2023-04-17 22:52:55,2023-04-17 22:53:35,0.0,32,40,DURVAL,VELOSO BARBOSA FILHO,Questão 23,DURVAL VELOSO BARBOSA FILHO,False,True
+40,64,7000,1681773835,,1681773858,1.000.000,2023-04-17 23:23:55,2023-04-17 23:24:18,10.0,21,40,DURVAL,VELOSO BARBOSA FILHO,Questão 24,DURVAL VELOSO BARBOSA FILHO,False,True
+40,65,7014,1681775932,,1681775966,1.000.000,2023-04-17 23:58:52,2023-04-17 23:59:26,10.0,8,40,DURVAL,VELOSO BARBOSA FILHO,Questão 25,DURVAL VELOSO BARBOSA FILHO,False,True
+40,66,7035,1681777903,,1681777921,1.000.000,2023-04-18 00:31:43,2023-04-18 00:32:01,10.0,17,40,DURVAL,VELOSO BARBOSA FILHO,Questão 26,DURVAL VELOSO BARBOSA FILHO,False,True
+40,67,16409,1683547813,,1683547849,0,2023-05-08 12:10:13,2023-05-08 12:10:49,0.0,13,40,DURVAL,VELOSO BARBOSA FILHO,Questão 27,DURVAL VELOSO BARBOSA FILHO,True,False
+40,68,7550,1681927796,,1681927814,1.000.000,2023-04-19 18:09:56,2023-04-19 18:10:14,10.0,20,40,DURVAL,VELOSO BARBOSA FILHO,Questão DESAFIO!,DURVAL VELOSO BARBOSA FILHO,True,False
+41,40,466,1681146604,,1681146680,0,2023-04-10 17:10:04,2023-04-10 17:11:20,0.0,8,41,Antonio,Wills,Questão 01,Antonio Wills,False,True
+41,41,580,1681147251,,1681147291,1.000.000,2023-04-10 17:20:51,2023-04-10 17:21:31,10.0,3,41,Antonio,Wills,Questão 02,Antonio Wills,False,True
+41,42,714,1681147693,,1681147739,1.000.000,2023-04-10 17:28:13,2023-04-10 17:28:59,10.0,1,41,Antonio,Wills,Questão 03,Antonio Wills,False,True
+41,43,1037,1681149022,,1681671457,1.000.000,2023-04-10 17:50:22,2023-04-16 18:57:37,10.0,7,41,Antonio,Wills,Questão 04,Antonio Wills,False,True
+41,44,1523,1681210323,,1681210328,0,2023-04-11 10:52:03,2023-04-11 10:52:08,0.0,3,41,Antonio,Wills,Questão 05,Antonio Wills,False,True
+41,45,1534,1681212006,,1681212033,1.000.000,2023-04-11 11:20:06,2023-04-11 11:20:33,10.0,2,41,Antonio,Wills,Questão 06,Antonio Wills,False,True
+41,46,1539,1681213106,,1681213177,1.000.000,2023-04-11 11:38:26,2023-04-11 11:39:37,10.0,4,41,Antonio,Wills,Questão 07,Antonio Wills,False,True
+41,47,1615,1681225533,,1681225666,1.000.000,2023-04-11 15:05:33,2023-04-11 15:07:46,10.0,1,41,Antonio,Wills,Questão 08,Antonio Wills,False,True
+41,48,1617,1681226220,,1681226255,1.000.000,2023-04-11 15:17:00,2023-04-11 15:17:35,10.0,2,41,Antonio,Wills,Questão 09,Antonio Wills,False,True
+41,49,1624,1681226802,,1681226826,1.000.000,2023-04-11 15:26:42,2023-04-11 15:27:06,10.0,2,41,Antonio,Wills,Questão 10,Antonio Wills,False,True
+41,50,2337,1681295762,,1681295785,1.000.000,2023-04-12 10:36:02,2023-04-12 10:36:25,10.0,2,41,Antonio,Wills,Questão 11,Antonio Wills,False,True
+41,51,2343,1681296416,,1681296437,1.000.000,2023-04-12 10:46:56,2023-04-12 10:47:17,10.0,2,41,Antonio,Wills,Questão 12,Antonio Wills,False,True
+41,53,2347,1681297354,,1681297386,1.000.000,2023-04-12 11:02:34,2023-04-12 11:03:06,10.0,2,41,Antonio,Wills,Questão 13,Antonio Wills,False,True
+41,54,2350,1681298082,,1681298108,1.000.000,2023-04-12 11:14:42,2023-04-12 11:15:08,10.0,1,41,Antonio,Wills,Questão 14,Antonio Wills,False,True
+41,55,2352,1681298818,,1681298931,1.000.000,2023-04-12 11:26:58,2023-04-12 11:28:51,10.0,2,41,Antonio,Wills,Questão 15,Antonio Wills,False,True
+41,56,2363,1681299632,,1681299722,0,2023-04-12 11:40:32,2023-04-12 11:42:02,0.0,2,41,Antonio,Wills,Questão 16,Antonio Wills,False,True
+41,57,2924,1681382352,,1681382400,1.000.000,2023-04-13 10:39:12,2023-04-13 10:40:00,10.0,4,41,Antonio,Wills,Questão 17,Antonio Wills,False,True
+41,58,2980,1681389345,,1681389354,1.000.000,2023-04-13 12:35:45,2023-04-13 12:35:54,10.0,35,41,Antonio,Wills,Questão 18,Antonio Wills,False,True
+41,59,2983,1681389491,,1681389499,1.000.000,2023-04-13 12:38:11,2023-04-13 12:38:19,10.0,2,41,Antonio,Wills,Questão 19,Antonio Wills,False,True
+41,60,2992,1681390160,,1681390165,1.000.000,2023-04-13 12:49:20,2023-04-13 12:49:25,10.0,3,41,Antonio,Wills,Questão 20,Antonio Wills,False,True
+41,61,3005,1681390780,,1681390801,1.000.000,2023-04-13 12:59:40,2023-04-13 13:00:01,10.0,1,41,Antonio,Wills,Questão 21,Antonio Wills,False,True
+41,62,3008,1681391583,,1681391637,1.000.000,2023-04-13 13:13:03,2023-04-13 13:13:57,10.0,1,41,Antonio,Wills,Questão 22,Antonio Wills,False,True
+41,63,3019,1681392627,,1681392701,1.000.000,2023-04-13 13:30:27,2023-04-13 13:31:41,10.0,4,41,Antonio,Wills,Questão 23,Antonio Wills,False,True
+41,64,3025,1681393469,,1681393491,1.000.000,2023-04-13 13:44:29,2023-04-13 13:44:51,10.0,1,41,Antonio,Wills,Questão 24,Antonio Wills,False,True
+41,65,3033,1681394094,,1681394145,1.000.000,2023-04-13 13:54:54,2023-04-13 13:55:45,10.0,2,41,Antonio,Wills,Questão 25,Antonio Wills,False,True
+41,66,3077,1681395350,,1681395366,1.000.000,2023-04-13 14:15:50,2023-04-13 14:16:06,10.0,5,41,Antonio,Wills,Questão 26,Antonio Wills,False,True
+41,67,3466,1681430660,,1681430696,1.000.000,2023-04-14 00:04:20,2023-04-14 00:04:56,10.0,2,41,Antonio,Wills,Questão 27,Antonio Wills,False,True
+41,68,5860,1681669875,,1681669888,1.000.000,2023-04-16 18:31:15,2023-04-16 18:31:28,10.0,18,41,Antonio,Wills,Questão DESAFIO!,Antonio Wills,False,True
+42,40,3375,1681426358,,1681426403,1.000.000,2023-04-13 22:52:38,2023-04-13 22:53:23,10.0,5,42,Victor,Emanuel,Questão 01,Victor Emanuel,False,True
+42,41,3937,1681503110,,1681503132,1.000.000,2023-04-14 20:11:50,2023-04-14 20:12:12,10.0,5,42,Victor,Emanuel,Questão 02,Victor Emanuel,False,True
+42,42,4187,1681504576,,1681504591,1.000.000,2023-04-14 20:36:16,2023-04-14 20:36:31,10.0,16,42,Victor,Emanuel,Questão 03,Victor Emanuel,False,True
+42,43,4269,1681505062,,1681505103,1.000.000,2023-04-14 20:44:22,2023-04-14 20:45:03,10.0,5,42,Victor,Emanuel,Questão 04,Victor Emanuel,False,True
+42,44,6725,1681752472,,1681752483,1.000.000,2023-04-17 17:27:52,2023-04-17 17:28:03,10.0,7,42,Victor,Emanuel,Questão 05,Victor Emanuel,False,True
+42,45,4477,1681506528,,1681506541,1.000.000,2023-04-14 21:08:48,2023-04-14 21:09:01,10.0,5,42,Victor,Emanuel,Questão 06,Victor Emanuel,False,True
+42,46,6143,1681694781,,1681694812,1.000.000,2023-04-17 01:26:21,2023-04-17 01:26:52,10.0,7,42,Victor,Emanuel,Questão 07,Victor Emanuel,False,True
+42,47,6429,1681749272,,1681749289,1.000.000,2023-04-17 16:34:32,2023-04-17 16:34:49,10.0,11,42,Victor,Emanuel,Questão 08,Victor Emanuel,False,True
+42,48,6181,1681697905,,1681697917,1.000.000,2023-04-17 02:18:25,2023-04-17 02:18:37,10.0,4,42,Victor,Emanuel,Questão 09,Victor Emanuel,False,True
+42,49,6430,1681749324,,1681749341,1.000.000,2023-04-17 16:35:24,2023-04-17 16:35:41,10.0,3,42,Victor,Emanuel,Questão 10,Victor Emanuel,False,True
+42,50,6187,1681698908,,1681698922,1.000.000,2023-04-17 02:35:08,2023-04-17 02:35:22,10.0,1,42,Victor,Emanuel,Questão 11,Victor Emanuel,False,True
+42,51,6194,1681699592,,1681699609,1.000.000,2023-04-17 02:46:32,2023-04-17 02:46:49,10.0,4,42,Victor,Emanuel,Questão 12,Victor Emanuel,False,True
+42,53,6195,1681700014,,1681700025,1.000.000,2023-04-17 02:53:34,2023-04-17 02:53:45,10.0,1,42,Victor,Emanuel,Questão 13,Victor Emanuel,False,True
+42,54,6431,1681749409,,1681749412,1.000.000,2023-04-17 16:36:49,2023-04-17 16:36:52,10.0,3,42,Victor,Emanuel,Questão 14,Victor Emanuel,False,True
+42,55,6697,1681752226,,1681752239,1.000.000,2023-04-17 17:23:46,2023-04-17 17:23:59,10.0,4,42,Victor,Emanuel,Questão 15,Victor Emanuel,False,True
+42,56,6437,1681749510,,1681749532,1.000.000,2023-04-17 16:38:30,2023-04-17 16:38:52,10.0,6,42,Victor,Emanuel,Questão 16,Victor Emanuel,False,True
+42,57,6220,1681702633,,1681702644,1.000.000,2023-04-17 03:37:13,2023-04-17 03:37:24,10.0,3,42,Victor,Emanuel,Questão 17,Victor Emanuel,False,True
+42,58,6442,1681749646,,1681749743,1.000.000,2023-04-17 16:40:46,2023-04-17 16:42:23,10.0,3,42,Victor,Emanuel,Questão 18,Victor Emanuel,False,True
+42,59,6685,1681752096,,1681752109,1.000.000,2023-04-17 17:21:36,2023-04-17 17:21:49,10.0,2,42,Victor,Emanuel,Questão 19,Victor Emanuel,False,True
+42,60,6235,1681704391,,1681736746,1.000.000,2023-04-17 04:06:31,2023-04-17 13:05:46,10.0,5,42,Victor,Emanuel,Questão 20,Victor Emanuel,False,True
+42,61,6660,1681751836,,1681751869,1.000.000,2023-04-17 17:17:16,2023-04-17 17:17:49,10.0,4,42,Victor,Emanuel,Questão 21,Victor Emanuel,False,True
+42,62,6771,1681752904,,1681752942,1.000.000,2023-04-17 17:35:04,2023-04-17 17:35:42,10.0,3,42,Victor,Emanuel,Questão 22,Victor Emanuel,False,True
+42,63,6651,1681751778,,1681751790,1.000.000,2023-04-17 17:16:18,2023-04-17 17:16:30,10.0,7,42,Victor,Emanuel,Questão 23,Victor Emanuel,False,True
+42,64,6647,1681751745,,1681751757,1.000.000,2023-04-17 17:15:45,2023-04-17 17:15:57,10.0,5,42,Victor,Emanuel,Questão 24,Victor Emanuel,False,True
+42,65,6733,1681752522,,1681752526,1.000.000,2023-04-17 17:28:42,2023-04-17 17:28:46,10.0,17,42,Victor,Emanuel,Questão 25,Victor Emanuel,False,True
+42,66,6398,1681741550,,1681741561,1.000.000,2023-04-17 14:25:50,2023-04-17 14:26:01,10.0,1,42,Victor,Emanuel,Questão 26,Victor Emanuel,False,True
+42,67,6401,1681742130,,1681742141,1.000.000,2023-04-17 14:35:30,2023-04-17 14:35:41,10.0,2,42,Victor,Emanuel,Questão 27,Victor Emanuel,False,True
+43,40,625,1681147425,,1681149098,0,2023-04-10 17:23:45,2023-04-10 17:51:38,0.0,5,43,Danielly ,Santos,Questão 01,Danielly  Santos,False,True
+43,41,835,1681148214,,1681149085,0,2023-04-10 17:36:54,2023-04-10 17:51:25,0.0,6,43,Danielly ,Santos,Questão 02,Danielly  Santos,False,True
+43,42,915,1681148500,,1681148603,1.000.000,2023-04-10 17:41:40,2023-04-10 17:43:23,10.0,4,43,Danielly ,Santos,Questão 03,Danielly  Santos,False,True
+43,43,1035,1681149020,,1681149065,1.000.000,2023-04-10 17:50:20,2023-04-10 17:51:05,10.0,1,43,Danielly ,Santos,Questão 04,Danielly  Santos,False,True
+43,44,1849,1681252870,,1681258180,0,2023-04-11 22:41:10,2023-04-12 00:09:40,0.0,7,43,Danielly ,Santos,Questão 05,Danielly  Santos,False,True
+43,45,1900,1681259497,,1681259518,0,2023-04-12 00:31:37,2023-04-12 00:31:58,0.0,3,43,Danielly ,Santos,Questão 06,Danielly  Santos,False,True
+43,46,1943,1681261074,,1681261093,0,2023-04-12 00:57:54,2023-04-12 00:58:13,0.0,3,43,Danielly ,Santos,Questão 07,Danielly  Santos,False,True
+43,47,3198,1681417992,,1681418011,1.000.000,2023-04-13 20:33:12,2023-04-13 20:33:31,10.0,5,43,Danielly ,Santos,Questão 08,Danielly  Santos,False,True
+43,48,3212,1681418358,,1681418392,0,2023-04-13 20:39:18,2023-04-13 20:39:52,0.0,2,43,Danielly ,Santos,Questão 09,Danielly  Santos,False,True
+43,49,3246,1681419037,,1681419042,0,2023-04-13 20:50:37,2023-04-13 20:50:42,0.0,2,43,Danielly ,Santos,Questão 10,Danielly  Santos,False,True
+43,50,3264,1681419301,,1681419343,1.000.000,2023-04-13 20:55:01,2023-04-13 20:55:43,10.0,2,43,Danielly ,Santos,Questão 11,Danielly  Santos,False,True
+43,51,3279,1681419654,,1681419678,0,2023-04-13 21:00:54,2023-04-13 21:01:18,0.0,3,43,Danielly ,Santos,Questão 12,Danielly  Santos,False,True
+43,53,3310,1681420632,,1681420655,0,2023-04-13 21:17:12,2023-04-13 21:17:35,0.0,1,43,Danielly ,Santos,Questão 13,Danielly  Santos,False,True
+43,54,3320,1681420909,,1681420939,0,2023-04-13 21:21:49,2023-04-13 21:22:19,0.0,2,43,Danielly ,Santos,Questão 14,Danielly  Santos,False,True
+43,55,6002,1681680423,,1681680450,1.000.000,2023-04-16 21:27:03,2023-04-16 21:27:30,10.0,5,43,Danielly ,Santos,Questão 15,Danielly  Santos,False,True
+43,56,6011,1681680829,,1681680857,0,2023-04-16 21:33:49,2023-04-16 21:34:17,0.0,2,43,Danielly ,Santos,Questão 16,Danielly  Santos,False,True
+43,57,6014,1681681357,,1681681413,0,2023-04-16 21:42:37,2023-04-16 21:43:33,0.0,3,43,Danielly ,Santos,Questão 17,Danielly  Santos,False,True
+43,58,6023,1681682090,,1681682126,1.000.000,2023-04-16 21:54:50,2023-04-16 21:55:26,10.0,9,43,Danielly ,Santos,Questão 18,Danielly  Santos,False,True
+43,59,6042,1681683439,,1681683457,0,2023-04-16 22:17:19,2023-04-16 22:17:37,0.0,14,43,Danielly ,Santos,Questão 19,Danielly  Santos,False,True
+43,60,6044,1681684098,,1681684119,1.000.000,2023-04-16 22:28:18,2023-04-16 22:28:39,10.0,2,43,Danielly ,Santos,Questão 20,Danielly  Santos,False,True
+43,61,6048,1681685665,,1681685686,0,2023-04-16 22:54:25,2023-04-16 22:54:46,0.0,4,43,Danielly ,Santos,Questão 21,Danielly  Santos,False,True
+43,62,6071,1681686905,,1681686924,1.000.000,2023-04-16 23:15:05,2023-04-16 23:15:24,10.0,12,43,Danielly ,Santos,Questão 22,Danielly  Santos,False,True
+43,63,6076,1681687371,,1681687397,1.000.000,2023-04-16 23:22:51,2023-04-16 23:23:17,10.0,4,43,Danielly ,Santos,Questão 23,Danielly  Santos,False,True
+43,64,6078,1681687705,,1681687739,1.000.000,2023-04-16 23:28:25,2023-04-16 23:28:59,10.0,2,43,Danielly ,Santos,Questão 24,Danielly  Santos,False,True
+43,65,6083,1681688817,,1681688858,1.000.000,2023-04-16 23:46:57,2023-04-16 23:47:38,10.0,5,43,Danielly ,Santos,Questão 25,Danielly  Santos,False,True
+43,66,6087,1681690307,,1681690361,1.000.000,2023-04-17 00:11:47,2023-04-17 00:12:41,10.0,4,43,Danielly ,Santos,Questão 26,Danielly  Santos,False,True
+43,67,6098,1681691532,,1681691587,1.000.000,2023-04-17 00:32:12,2023-04-17 00:33:07,10.0,6,43,Danielly ,Santos,Questão 27,Danielly  Santos,False,True
+43,68,6163,1681695893,,1681695925,0,2023-04-17 01:44:53,2023-04-17 01:45:25,0.0,37,43,Danielly ,Santos,Questão DESAFIO!,Danielly  Santos,False,True
+44,40,362,1681145783,,1681145801,1.000.000,2023-04-10 16:56:23,2023-04-10 16:56:41,10.0,6,44,Lara Emanuelly,Da Silva Santos,Questão 01,Lara Emanuelly Da Silva Santos,False,True
+44,41,547,1681147046,,1681147089,1.000.000,2023-04-10 17:17:26,2023-04-10 17:18:09,10.0,3,44,Lara Emanuelly,Da Silva Santos,Questão 02,Lara Emanuelly Da Silva Santos,False,True
+44,42,954,1681148678,"Enviado por Administrador Usuário
+",1681148757,1.000.000,2023-04-10 17:44:38,2023-04-10 17:45:57,10.0,9,44,Lara Emanuelly,Da Silva Santos,Questão 03,Lara Emanuelly Da Silva Santos,False,True
+44,43,5103,1681589748,,1681589769,1.000.000,2023-04-15 20:15:48,2023-04-15 20:16:09,10.0,9,44,Lara Emanuelly,Da Silva Santos,Questão 04,Lara Emanuelly Da Silva Santos,False,True
+44,44,5066,1681587932,,1681587976,1.000.000,2023-04-15 19:45:32,2023-04-15 19:46:16,10.0,4,44,Lara Emanuelly,Da Silva Santos,Questão 05,Lara Emanuelly Da Silva Santos,False,True
+44,45,5099,1681589227,,1681589305,1.000.000,2023-04-15 20:07:07,2023-04-15 20:08:25,10.0,9,44,Lara Emanuelly,Da Silva Santos,Questão 06,Lara Emanuelly Da Silva Santos,False,True
+44,46,5101,1681589636,,1681589679,1.000.000,2023-04-15 20:13:56,2023-04-15 20:14:39,10.0,2,44,Lara Emanuelly,Da Silva Santos,Questão 07,Lara Emanuelly Da Silva Santos,False,True
+44,47,5105,1681590007,,1681590044,1.000.000,2023-04-15 20:20:07,2023-04-15 20:20:44,10.0,3,44,Lara Emanuelly,Da Silva Santos,Questão 08,Lara Emanuelly Da Silva Santos,False,True
+44,48,5106,1681590311,,1681590362,1.000.000,2023-04-15 20:25:11,2023-04-15 20:26:02,10.0,1,44,Lara Emanuelly,Da Silva Santos,Questão 09,Lara Emanuelly Da Silva Santos,False,True
+44,49,5188,1681596048,,1681596052,0,2023-04-15 22:00:48,2023-04-15 22:00:52,0.0,38,44,Lara Emanuelly,Da Silva Santos,Questão 10,Lara Emanuelly Da Silva Santos,False,True
+44,50,5169,1681594373,,1681594378,1.000.000,2023-04-15 21:32:53,2023-04-15 21:32:58,10.0,3,44,Lara Emanuelly,Da Silva Santos,Questão 11,Lara Emanuelly Da Silva Santos,False,True
+44,51,5183,1681595599,,1681595625,1.000.000,2023-04-15 21:53:19,2023-04-15 21:53:45,10.0,1,44,Lara Emanuelly,Da Silva Santos,Questão 12,Lara Emanuelly Da Silva Santos,False,True
+44,53,5186,1681596007,,1681596012,1.000.000,2023-04-15 22:00:07,2023-04-15 22:00:12,10.0,2,44,Lara Emanuelly,Da Silva Santos,Questão 13,Lara Emanuelly Da Silva Santos,False,True
+44,54,5447,1681610438,,1681610478,0,2023-04-16 02:00:38,2023-04-16 02:01:18,0.0,3,44,Lara Emanuelly,Da Silva Santos,Questão 14,Lara Emanuelly Da Silva Santos,False,True
+44,55,5212,1681599373,,1681599393,0,2023-04-15 22:56:13,2023-04-15 22:56:33,0.0,5,44,Lara Emanuelly,Da Silva Santos,Questão 15,Lara Emanuelly Da Silva Santos,False,True
+44,56,5227,1681600201,,1681600236,1.000.000,2023-04-15 23:10:01,2023-04-15 23:10:36,10.0,8,44,Lara Emanuelly,Da Silva Santos,Questão 16,Lara Emanuelly Da Silva Santos,False,True
+44,57,5232,1681600832,,1681600963,1.000.000,2023-04-15 23:20:32,2023-04-15 23:22:43,10.0,2,44,Lara Emanuelly,Da Silva Santos,Questão 17,Lara Emanuelly Da Silva Santos,False,True
+44,58,5251,1681601745,,1681601777,1.000.000,2023-04-15 23:35:45,2023-04-15 23:36:17,10.0,5,44,Lara Emanuelly,Da Silva Santos,Questão 18,Lara Emanuelly Da Silva Santos,False,True
+44,59,5265,1681602368,,1681602391,1.000.000,2023-04-15 23:46:08,2023-04-15 23:46:31,10.0,2,44,Lara Emanuelly,Da Silva Santos,Questão 19,Lara Emanuelly Da Silva Santos,False,True
+44,60,5266,1681602909,,1681602931,1.000.000,2023-04-15 23:55:09,2023-04-15 23:55:31,10.0,1,44,Lara Emanuelly,Da Silva Santos,Questão 20,Lara Emanuelly Da Silva Santos,False,True
+44,61,5281,1681603594,,1681603657,1.000.000,2023-04-16 00:06:34,2023-04-16 00:07:37,10.0,3,44,Lara Emanuelly,Da Silva Santos,Questão 21,Lara Emanuelly Da Silva Santos,False,True
+44,62,5336,1681604958,,1681604982,1.000.000,2023-04-16 00:29:18,2023-04-16 00:29:42,10.0,1,44,Lara Emanuelly,Da Silva Santos,Questão 22,Lara Emanuelly Da Silva Santos,False,True
+44,63,5387,1681606510,,1681606532,1.000.000,2023-04-16 00:55:10,2023-04-16 00:55:32,10.0,2,44,Lara Emanuelly,Da Silva Santos,Questão 23,Lara Emanuelly Da Silva Santos,False,True
+44,64,5391,1681606885,,1681607000,1.000.000,2023-04-16 01:01:25,2023-04-16 01:03:20,10.0,1,44,Lara Emanuelly,Da Silva Santos,Questão 24,Lara Emanuelly Da Silva Santos,False,True
+44,65,5396,1681607647,,1681607666,1.000.000,2023-04-16 01:14:07,2023-04-16 01:14:26,10.0,2,44,Lara Emanuelly,Da Silva Santos,Questão 25,Lara Emanuelly Da Silva Santos,False,True
+44,66,5412,1681608757,,1681608775,1.000.000,2023-04-16 01:32:37,2023-04-16 01:32:55,10.0,1,44,Lara Emanuelly,Da Silva Santos,Questão 26,Lara Emanuelly Da Silva Santos,False,True
+44,67,5426,1681609447,,1681609476,1.000.000,2023-04-16 01:44:07,2023-04-16 01:44:36,10.0,1,44,Lara Emanuelly,Da Silva Santos,Questão 27,Lara Emanuelly Da Silva Santos,False,True
+44,68,5436,1681610125,,1681610142,1.000.000,2023-04-16 01:55:25,2023-04-16 01:55:42,10.0,5,44,Lara Emanuelly,Da Silva Santos,Questão DESAFIO!,Lara Emanuelly Da Silva Santos,False,True
+45,40,463,1681146588,,1681146605,1.000.000,2023-04-10 17:09:48,2023-04-10 17:10:05,10.0,14,45,Gustavo,Neves,Questão 01,Gustavo Neves,False,True
+45,41,523,1681146887,,1681146905,1.000.000,2023-04-10 17:14:47,2023-04-10 17:15:05,10.0,3,45,Gustavo,Neves,Questão 02,Gustavo Neves,False,True
+45,42,567,1681147181,,1681147201,1.000.000,2023-04-10 17:19:41,2023-04-10 17:20:01,10.0,4,45,Gustavo,Neves,Questão 03,Gustavo Neves,False,True
+45,43,628,1681147430,,1681147447,1.000.000,2023-04-10 17:23:50,2023-04-10 17:24:07,10.0,2,45,Gustavo,Neves,Questão 04,Gustavo Neves,False,True
+45,44,923,1681148534,,1681148583,1.000.000,2023-04-10 17:42:14,2023-04-10 17:43:03,10.0,13,45,Gustavo,Neves,Questão 05,Gustavo Neves,False,True
+45,45,1134,1681149391,,1681149414,1.000.000,2023-04-10 17:56:31,2023-04-10 17:56:54,10.0,4,45,Gustavo,Neves,Questão 06,Gustavo Neves,False,True
+45,46,1202,1681149622,,1681149641,1.000.000,2023-04-10 18:00:22,2023-04-10 18:00:41,10.0,3,45,Gustavo,Neves,Questão 07,Gustavo Neves,False,True
+45,47,4037,1681503748,,1681503768,1.000.000,2023-04-14 20:22:28,2023-04-14 20:22:48,10.0,9,45,Gustavo,Neves,Questão 08,Gustavo Neves,False,True
+45,48,4088,1681504054,,1681504071,1.000.000,2023-04-14 20:27:34,2023-04-14 20:27:51,10.0,3,45,Gustavo,Neves,Questão 09,Gustavo Neves,False,True
+45,49,4166,1681504429,,1681504447,1.000.000,2023-04-14 20:33:49,2023-04-14 20:34:07,10.0,3,45,Gustavo,Neves,Questão 10,Gustavo Neves,False,True
+45,50,4197,1681504630,,1681504650,1.000.000,2023-04-14 20:37:10,2023-04-14 20:37:30,10.0,2,45,Gustavo,Neves,Questão 11,Gustavo Neves,False,True
+45,51,4314,1681505388,,1681505397,1.000.000,2023-04-14 20:49:48,2023-04-14 20:49:57,10.0,7,45,Gustavo,Neves,Questão 12,Gustavo Neves,False,True
+45,53,4308,1681505356,,1681505372,1.000.000,2023-04-14 20:49:16,2023-04-14 20:49:32,10.0,2,45,Gustavo,Neves,Questão 13,Gustavo Neves,False,True
+45,54,4359,1681505611,,1681505627,1.000.000,2023-04-14 20:53:31,2023-04-14 20:53:47,10.0,3,45,Gustavo,Neves,Questão 14,Gustavo Neves,False,True
+45,55,4404,1681506074,,1681506091,1.000.000,2023-04-14 21:01:14,2023-04-14 21:01:31,10.0,5,45,Gustavo,Neves,Questão 15,Gustavo Neves,False,True
+45,56,4493,1681506723,,1681506737,0,2023-04-14 21:12:03,2023-04-14 21:12:17,0.0,9,45,Gustavo,Neves,Questão 16,Gustavo Neves,False,True
+45,57,6466,1681750052,,1681750082,1.000.000,2023-04-17 16:47:32,2023-04-17 16:48:02,10.0,4,45,Gustavo,Neves,Questão 17,Gustavo Neves,False,True
+45,58,6510,1681750532,,1681750549,1.000.000,2023-04-17 16:55:32,2023-04-17 16:55:49,10.0,3,45,Gustavo,Neves,Questão 18,Gustavo Neves,False,True
+45,59,6552,1681751054,,1681751065,1.000.000,2023-04-17 17:04:14,2023-04-17 17:04:25,10.0,6,45,Gustavo,Neves,Questão 19,Gustavo Neves,False,True
+45,60,6583,1681751304,,1681751318,1.000.000,2023-04-17 17:08:24,2023-04-17 17:08:38,10.0,3,45,Gustavo,Neves,Questão 20,Gustavo Neves,False,True
+45,61,6669,1681751878,,1681751892,1.000.000,2023-04-17 17:17:58,2023-04-17 17:18:12,10.0,4,45,Gustavo,Neves,Questão 21,Gustavo Neves,False,True
+45,62,6737,1681752552,,1681752575,0,2023-04-17 17:29:12,2023-04-17 17:29:35,0.0,9,45,Gustavo,Neves,Questão 22,Gustavo Neves,False,True
+46,40,679,1681147589,,1681147597,1.000.000,2023-04-10 17:26:29,2023-04-10 17:26:37,10.0,4,46,Loyse,Cardoso,Questão 01,Loyse Cardoso,False,True
+46,41,864,1681148318,,1681148371,1.000.000,2023-04-10 17:38:38,2023-04-10 17:39:31,10.0,2,46,Loyse,Cardoso,Questão 02,Loyse Cardoso,False,True
+46,42,1190,1681149593,,1681149684,1.000.000,2023-04-10 17:59:53,2023-04-10 18:01:24,10.0,2,46,Loyse,Cardoso,Questão 03,Loyse Cardoso,False,True
+46,43,3914,1681502911,,1681502949,1.000.000,2023-04-14 20:08:31,2023-04-14 20:09:09,10.0,39,46,Loyse,Cardoso,Questão 04,Loyse Cardoso,False,True
+46,44,2651,1681339372,,1681339490,1.000.000,2023-04-12 22:42:52,2023-04-12 22:44:50,10.0,4,46,Loyse,Cardoso,Questão 05,Loyse Cardoso,False,True
+46,45,2655,1681340016,,1681340040,1.000.000,2023-04-12 22:53:36,2023-04-12 22:54:00,10.0,2,46,Loyse,Cardoso,Questão 06,Loyse Cardoso,False,True
+46,46,2695,1681341555,,1681341874,1.000.000,2023-04-12 23:19:15,2023-04-12 23:24:34,10.0,9,46,Loyse,Cardoso,Questão 07,Loyse Cardoso,False,True
+46,47,2703,1681342474,,1681342501,1.000.000,2023-04-12 23:34:34,2023-04-12 23:35:01,10.0,1,46,Loyse,Cardoso,Questão 08,Loyse Cardoso,False,True
+46,48,2720,1681343535,,1681343569,1.000.000,2023-04-12 23:52:15,2023-04-12 23:52:49,10.0,2,46,Loyse,Cardoso,Questão 09,Loyse Cardoso,False,True
+46,49,2737,1681345041,,1681345063,1.000.000,2023-04-13 00:17:21,2023-04-13 00:17:43,10.0,1,46,Loyse,Cardoso,Questão 10,Loyse Cardoso,False,True
+46,50,2750,1681346648,,1681346675,1.000.000,2023-04-13 00:44:08,2023-04-13 00:44:35,10.0,3,46,Loyse,Cardoso,Questão 11,Loyse Cardoso,False,True
+46,51,2767,1681347402,,1681347449,1.000.000,2023-04-13 00:56:42,2023-04-13 00:57:29,10.0,6,46,Loyse,Cardoso,Questão 12,Loyse Cardoso,False,True
+46,53,2779,1681347789,,1681347807,1.000.000,2023-04-13 01:03:09,2023-04-13 01:03:27,10.0,3,46,Loyse,Cardoso,Questão 13,Loyse Cardoso,False,True
+46,54,2792,1681348344,,1681348400,1.000.000,2023-04-13 01:12:24,2023-04-13 01:13:20,10.0,4,46,Loyse,Cardoso,Questão 14,Loyse Cardoso,False,True
+46,55,3153,1681403802,,1681403822,1.000.000,2023-04-13 16:36:42,2023-04-13 16:37:02,10.0,20,46,Loyse,Cardoso,Questão 15,Loyse Cardoso,False,True
+46,56,3234,1681418704,,1681418732,1.000.000,2023-04-13 20:45:04,2023-04-13 20:45:32,10.0,4,46,Loyse,Cardoso,Questão 16,Loyse Cardoso,False,True
+46,57,3277,1681419629,,1681419649,1.000.000,2023-04-13 21:00:29,2023-04-13 21:00:49,10.0,6,46,Loyse,Cardoso,Questão 17,Loyse Cardoso,False,True
+46,58,3455,1681430193,,1681430226,1.000.000,2023-04-13 23:56:33,2023-04-13 23:57:06,10.0,19,46,Loyse,Cardoso,Questão 18,Loyse Cardoso,False,True
+46,59,3594,1681435040,,1681435059,1.000.000,2023-04-14 01:17:20,2023-04-14 01:17:39,10.0,18,46,Loyse,Cardoso,Questão 19,Loyse Cardoso,False,True
+46,60,3655,1681436520,,1681475402,1.000.000,2023-04-14 01:42:00,2023-04-14 12:30:02,10.0,3,46,Loyse,Cardoso,Questão 20,Loyse Cardoso,False,True
+46,61,3758,1681476305,,1681476330,1.000.000,2023-04-14 12:45:05,2023-04-14 12:45:30,10.0,4,46,Loyse,Cardoso,Questão 21,Loyse Cardoso,False,True
+46,62,3939,1681503121,,1681503229,1.000.000,2023-04-14 20:12:01,2023-04-14 20:13:49,10.0,29,46,Loyse,Cardoso,Questão 22,Loyse Cardoso,False,True
+46,63,4146,1681504348,,1681504420,1.000.000,2023-04-14 20:32:28,2023-04-14 20:33:40,10.0,5,46,Loyse,Cardoso,Questão 23,Loyse Cardoso,False,True
+46,64,4251,1681504969,,1681504991,1.000.000,2023-04-14 20:42:49,2023-04-14 20:43:11,10.0,6,46,Loyse,Cardoso,Questão 24,Loyse Cardoso,False,True
+46,65,4449,1681506352,,1681506370,1.000.000,2023-04-14 21:05:52,2023-04-14 21:06:10,10.0,7,46,Loyse,Cardoso,Questão 25,Loyse Cardoso,False,True
+46,66,4568,1681514089,,1681514123,1.000.000,2023-04-14 23:14:49,2023-04-14 23:15:23,10.0,30,46,Loyse,Cardoso,Questão 26,Loyse Cardoso,False,True
+46,67,4580,1681515037,,1681515122,1.000.000,2023-04-14 23:30:37,2023-04-14 23:32:02,10.0,10,46,Loyse,Cardoso,Questão 27,Loyse Cardoso,False,True
+47,40,751,1681147848,,1681147865,1.000.000,2023-04-10 17:30:48,2023-04-10 17:31:05,10.0,6,47,Saymon,Italo,Questão 01,Saymon Italo,False,True
+47,41,906,1681148462,,1681148503,1.000.000,2023-04-10 17:41:02,2023-04-10 17:41:43,10.0,4,47,Saymon,Italo,Questão 02,Saymon Italo,False,True
+47,42,1245,1681150076,,1681150106,1.000.000,2023-04-10 18:07:56,2023-04-10 18:08:26,10.0,5,47,Saymon,Italo,Questão 03,Saymon Italo,False,True
+47,43,3910,1681502864,,1681502869,1.000.000,2023-04-14 20:07:44,2023-04-14 20:07:49,10.0,14,47,Saymon,Italo,Questão 04,Saymon Italo,False,True
+47,44,4038,1681503752,,1681503768,1.000.000,2023-04-14 20:22:32,2023-04-14 20:22:48,10.0,8,47,Saymon,Italo,Questão 05,Saymon Italo,False,True
+47,45,4237,1681504896,,1681504939,1.000.000,2023-04-14 20:41:36,2023-04-14 20:42:19,10.0,2,47,Saymon,Italo,Questão 06,Saymon Italo,False,True
+47,46,4334,1681505503,,1681505569,1.000.000,2023-04-14 20:51:43,2023-04-14 20:52:49,10.0,3,47,Saymon,Italo,Questão 07,Saymon Italo,False,True
+47,47,4428,1681506222,,1681506246,1.000.000,2023-04-14 21:03:42,2023-04-14 21:04:06,10.0,2,47,Saymon,Italo,Questão 08,Saymon Italo,False,True
+47,48,4497,1681506742,,1681506761,1.000.000,2023-04-14 21:12:22,2023-04-14 21:12:41,10.0,3,47,Saymon,Italo,Questão 09,Saymon Italo,False,True
+47,49,4830,1681563906,,1681564157,1.000.000,2023-04-15 13:05:06,2023-04-15 13:09:17,10.0,3,47,Saymon,Italo,Questão 10,Saymon Italo,False,True
+47,50,4889,1681571537,,1681571597,1.000.000,2023-04-15 15:12:17,2023-04-15 15:13:17,10.0,5,47,Saymon,Italo,Questão 11,Saymon Italo,False,True
+47,51,4907,1681572593,,1681647170,1.000.000,2023-04-15 15:29:53,2023-04-16 12:12:50,10.0,1,47,Saymon,Italo,Questão 12,Saymon Italo,False,True
+47,53,5618,1681647569,,1681647591,1.000.000,2023-04-16 12:19:29,2023-04-16 12:19:51,10.0,3,47,Saymon,Italo,Questão 13,Saymon Italo,False,True
+47,54,5619,1681647957,,1681648029,1.000.000,2023-04-16 12:25:57,2023-04-16 12:27:09,10.0,1,47,Saymon,Italo,Questão 14,Saymon Italo,False,True
+47,55,6428,1681749239,,1681749266,1.000.000,2023-04-17 16:33:59,2023-04-17 16:34:26,10.0,4,47,Saymon,Italo,Questão 15,Saymon Italo,False,True
+47,56,6280,1681730610,,1681730650,1.000.000,2023-04-17 11:23:30,2023-04-17 11:24:10,10.0,9,47,Saymon,Italo,Questão 16,Saymon Italo,False,True
+47,57,6290,1681731509,,1681731672,1.000.000,2023-04-17 11:38:29,2023-04-17 11:41:12,10.0,2,47,Saymon,Italo,Questão 17,Saymon Italo,False,True
+47,58,6292,1681732294,,1681732369,1.000.000,2023-04-17 11:51:34,2023-04-17 11:52:49,10.0,1,47,Saymon,Italo,Questão 18,Saymon Italo,False,True
+47,59,6300,1681733701,,1681733793,1.000.000,2023-04-17 12:15:01,2023-04-17 12:16:33,10.0,3,47,Saymon,Italo,Questão 19,Saymon Italo,False,True
+47,60,6306,1681736279,,1681736321,1.000.000,2023-04-17 12:57:59,2023-04-17 12:58:41,10.0,1,47,Saymon,Italo,Questão 20,Saymon Italo,False,True
+47,61,6323,1681737216,,1681737270,1.000.000,2023-04-17 13:13:36,2023-04-17 13:14:30,10.0,2,47,Saymon,Italo,Questão 21,Saymon Italo,False,True
+47,62,6459,1681749992,,1681750015,1.000.000,2023-04-17 16:46:32,2023-04-17 16:46:55,10.0,8,47,Saymon,Italo,Questão 22,Saymon Italo,False,True
+47,63,6587,1681751334,,1681751370,1.000.000,2023-04-17 17:08:54,2023-04-17 17:09:30,10.0,2,47,Saymon,Italo,Questão 23,Saymon Italo,False,True
+47,64,6707,1681752325,,1681752354,1.000.000,2023-04-17 17:25:25,2023-04-17 17:25:54,10.0,3,47,Saymon,Italo,Questão 24,Saymon Italo,False,True
+47,65,6854,1681754368,,1681754391,1.000.000,2023-04-17 17:59:28,2023-04-17 17:59:51,10.0,4,47,Saymon,Italo,Questão 25,Saymon Italo,False,True
+47,66,7085,1681816599,,1681816656,1.000.000,2023-04-18 11:16:39,2023-04-18 11:17:36,10.0,12,47,Saymon,Italo,Questão 26,Saymon Italo,False,True
+47,67,7572,1681950407,,1681950448,1.000.000,2023-04-20 00:26:47,2023-04-20 00:27:28,10.0,6,47,Saymon,Italo,Questão 27,Saymon Italo,True,False
+48,40,498,1681146759,,1681146797,1.000.000,2023-04-10 17:12:39,2023-04-10 17:13:17,10.0,1,48,Guilherme,Oliveira de Menezes,Questão 01,Guilherme Oliveira de Menezes,False,True
+48,41,673,1681147574,,1681147775,1.000.000,2023-04-10 17:26:14,2023-04-10 17:29:35,10.0,1,48,Guilherme,Oliveira de Menezes,Questão 02,Guilherme Oliveira de Menezes,False,True
+48,42,933,1681148571,,1681148597,1.000.000,2023-04-10 17:42:51,2023-04-10 17:43:17,10.0,4,48,Guilherme,Oliveira de Menezes,Questão 03,Guilherme Oliveira de Menezes,False,True
+48,43,1128,1681149369,,1681149436,1.000.000,2023-04-10 17:56:09,2023-04-10 17:57:16,10.0,6,48,Guilherme,Oliveira de Menezes,Questão 04,Guilherme Oliveira de Menezes,False,True
+48,44,1750,1681241452,,1681241456,1.000.000,2023-04-11 19:30:52,2023-04-11 19:30:56,10.0,2,48,Guilherme,Oliveira de Menezes,Questão 05,Guilherme Oliveira de Menezes,False,True
+48,45,1824,1681242922,,1681242979,1.000.000,2023-04-11 19:55:22,2023-04-11 19:56:19,10.0,14,48,Guilherme,Oliveira de Menezes,Questão 06,Guilherme Oliveira de Menezes,False,True
+48,46,1912,1681260037,,1681260056,1.000.000,2023-04-12 00:40:37,2023-04-12 00:40:56,10.0,6,48,Guilherme,Oliveira de Menezes,Questão 07,Guilherme Oliveira de Menezes,False,True
+48,47,1928,1681260609,,1681260628,1.000.000,2023-04-12 00:50:09,2023-04-12 00:50:28,10.0,3,48,Guilherme,Oliveira de Menezes,Questão 08,Guilherme Oliveira de Menezes,False,True
+48,48,1948,1681261262,,1681261267,1.000.000,2023-04-12 01:01:02,2023-04-12 01:01:07,10.0,2,48,Guilherme,Oliveira de Menezes,Questão 09,Guilherme Oliveira de Menezes,False,True
+48,49,1952,1681261524,,1681261540,1.000.000,2023-04-12 01:05:24,2023-04-12 01:05:40,10.0,2,48,Guilherme,Oliveira de Menezes,Questão 10,Guilherme Oliveira de Menezes,False,True
+48,50,1963,1681261957,,1681261973,1.000.000,2023-04-12 01:12:37,2023-04-12 01:12:53,10.0,1,48,Guilherme,Oliveira de Menezes,Questão 11,Guilherme Oliveira de Menezes,False,True
+48,51,1979,1681262351,,1681262369,1.000.000,2023-04-12 01:19:11,2023-04-12 01:19:29,10.0,2,48,Guilherme,Oliveira de Menezes,Questão 12,Guilherme Oliveira de Menezes,False,True
+48,53,2006,1681262848,,1681262865,1.000.000,2023-04-12 01:27:28,2023-04-12 01:27:45,10.0,2,48,Guilherme,Oliveira de Menezes,Questão 13,Guilherme Oliveira de Menezes,False,True
+48,54,2024,1681263221,,1681263225,1.000.000,2023-04-12 01:33:41,2023-04-12 01:33:45,10.0,2,48,Guilherme,Oliveira de Menezes,Questão 14,Guilherme Oliveira de Menezes,False,True
+48,55,2041,1681263674,,1681263678,1.000.000,2023-04-12 01:41:14,2023-04-12 01:41:18,10.0,4,48,Guilherme,Oliveira de Menezes,Questão 15,Guilherme Oliveira de Menezes,False,True
+48,56,2057,1681264337,,1681264366,1.000.000,2023-04-12 01:52:17,2023-04-12 01:52:46,10.0,2,48,Guilherme,Oliveira de Menezes,Questão 16,Guilherme Oliveira de Menezes,False,True
+48,57,2071,1681264964,,1681264981,1.000.000,2023-04-12 02:02:44,2023-04-12 02:03:01,10.0,2,48,Guilherme,Oliveira de Menezes,Questão 17,Guilherme Oliveira de Menezes,False,True
+48,58,2096,1681265564,,1681265582,1.000.000,2023-04-12 02:12:44,2023-04-12 02:13:02,10.0,6,48,Guilherme,Oliveira de Menezes,Questão 18,Guilherme Oliveira de Menezes,False,True
+48,59,2157,1681266759,,1681266778,1.000.000,2023-04-12 02:32:39,2023-04-12 02:32:58,10.0,3,48,Guilherme,Oliveira de Menezes,Questão 19,Guilherme Oliveira de Menezes,False,True
+48,60,2180,1681267093,,1681267219,1.000.000,2023-04-12 02:38:13,2023-04-12 02:40:19,10.0,1,48,Guilherme,Oliveira de Menezes,Questão 20,Guilherme Oliveira de Menezes,False,True
+48,61,2219,1681267630,,1681267645,1.000.000,2023-04-12 02:47:10,2023-04-12 02:47:25,10.0,2,48,Guilherme,Oliveira de Menezes,Questão 21,Guilherme Oliveira de Menezes,False,True
+48,62,2232,1681268176,,1681268192,1.000.000,2023-04-12 02:56:16,2023-04-12 02:56:32,10.0,2,48,Guilherme,Oliveira de Menezes,Questão 22,Guilherme Oliveira de Menezes,False,True
+48,63,2259,1681268976,,1681268980,1.000.000,2023-04-12 03:09:36,2023-04-12 03:09:40,10.0,5,48,Guilherme,Oliveira de Menezes,Questão 23,Guilherme Oliveira de Menezes,False,True
+48,64,2277,1681269472,,1681269476,1.000.000,2023-04-12 03:17:52,2023-04-12 03:17:56,10.0,2,48,Guilherme,Oliveira de Menezes,Questão 24,Guilherme Oliveira de Menezes,False,True
+48,65,2292,1681269991,,1681269998,1.000.000,2023-04-12 03:26:31,2023-04-12 03:26:38,10.0,3,48,Guilherme,Oliveira de Menezes,Questão 25,Guilherme Oliveira de Menezes,False,True
+48,66,2303,1681270329,,1681270353,1.000.000,2023-04-12 03:32:09,2023-04-12 03:32:33,10.0,2,48,Guilherme,Oliveira de Menezes,Questão 26,Guilherme Oliveira de Menezes,False,True
+48,67,2314,1681270913,,1681270928,1.000.000,2023-04-12 03:41:53,2023-04-12 03:42:08,10.0,7,48,Guilherme,Oliveira de Menezes,Questão 27,Guilherme Oliveira de Menezes,False,True
+48,68,6666,1681751857,,1681751874,1.000.000,2023-04-17 17:17:37,2023-04-17 17:17:54,10.0,7,48,Guilherme,Oliveira de Menezes,Questão DESAFIO!,Guilherme Oliveira de Menezes,False,True
+49,40,699,1681147653,,1681147690,1.000.000,2023-04-10 17:27:33,2023-04-10 17:28:10,10.0,7,49,Juan,Pablo,Questão 01,Juan Pablo,False,True
+49,41,1007,1681148929,,1681148954,1.000.000,2023-04-10 17:48:49,2023-04-10 17:49:14,10.0,4,49,Juan,Pablo,Questão 02,Juan Pablo,False,True
+49,42,2872,1681353351,,1681353374,1.000.000,2023-04-13 02:35:51,2023-04-13 02:36:14,10.0,24,49,Juan,Pablo,Questão 03,Juan Pablo,False,True
+49,43,2886,1681355242,,1681355680,1.000.000,2023-04-13 03:07:22,2023-04-13 03:14:40,10.0,3,49,Juan,Pablo,Questão 04,Juan Pablo,False,True
+49,44,2890,1681356041,,1681356103,1.000.000,2023-04-13 03:20:41,2023-04-13 03:21:43,10.0,2,49,Juan,Pablo,Questão 05,Juan Pablo,False,True
+49,45,2893,1681356836,,1681356942,1.000.000,2023-04-13 03:33:56,2023-04-13 03:35:42,10.0,2,49,Juan,Pablo,Questão 06,Juan Pablo,False,True
+49,46,2899,1681357649,,1681357707,1.000.000,2023-04-13 03:47:29,2023-04-13 03:48:27,10.0,1,49,Juan,Pablo,Questão 07,Juan Pablo,False,True
+49,47,2966,1681386574,,1681386603,1.000.000,2023-04-13 11:49:34,2023-04-13 11:50:03,10.0,2,49,Juan,Pablo,Questão 08,Juan Pablo,False,True
+49,48,2977,1681388514,,1681388549,1.000.000,2023-04-13 12:21:54,2023-04-13 12:22:29,10.0,3,49,Juan,Pablo,Questão 09,Juan Pablo,False,True
+49,49,2979,1681389186,,1681389280,1.000.000,2023-04-13 12:33:06,2023-04-13 12:34:40,10.0,2,49,Juan,Pablo,Questão 10,Juan Pablo,False,True
+49,50,2987,1681389765,,1681389784,1.000.000,2023-04-13 12:42:45,2023-04-13 12:43:04,10.0,3,49,Juan,Pablo,Questão 11,Juan Pablo,False,True
+49,51,3001,1681390650,,1681390664,1.000.000,2023-04-13 12:57:30,2023-04-13 12:57:44,10.0,5,49,Juan,Pablo,Questão 12,Juan Pablo,False,True
+49,53,3026,1681393554,,1681393591,1.000.000,2023-04-13 13:45:54,2023-04-13 13:46:31,10.0,1,49,Juan,Pablo,Questão 13,Juan Pablo,False,True
+49,54,3179,1681417595,,1681417671,1.000.000,2023-04-13 20:26:35,2023-04-13 20:27:51,10.0,1,49,Juan,Pablo,Questão 14,Juan Pablo,False,True
+49,55,3259,1681419188,,1681419208,1.000.000,2023-04-13 20:53:08,2023-04-13 20:53:28,10.0,11,49,Juan,Pablo,Questão 15,Juan Pablo,False,True
+49,56,3312,1681420684,,1681420696,1.000.000,2023-04-13 21:18:04,2023-04-13 21:18:16,10.0,3,49,Juan,Pablo,Questão 16,Juan Pablo,False,True
+49,57,4135,1681504316,,1681504319,1.000.000,2023-04-14 20:31:56,2023-04-14 20:31:59,10.0,7,49,Juan,Pablo,Questão 17,Juan Pablo,False,True
+49,58,4274,1681505094,,1681505106,1.000.000,2023-04-14 20:44:54,2023-04-14 20:45:06,10.0,11,49,Juan,Pablo,Questão 18,Juan Pablo,False,True
+49,59,4427,1681506220,,1681506244,1.000.000,2023-04-14 21:03:40,2023-04-14 21:04:04,10.0,6,49,Juan,Pablo,Questão 19,Juan Pablo,False,True
+49,60,4511,1681506848,,1681506863,1.000.000,2023-04-14 21:14:08,2023-04-14 21:14:23,10.0,2,49,Juan,Pablo,Questão 20,Juan Pablo,False,True
+49,61,4996,1681581774,,1681581843,1.000.000,2023-04-15 18:02:54,2023-04-15 18:04:03,10.0,2,49,Juan,Pablo,Questão 21,Juan Pablo,False,True
+49,62,5029,1681584472,,1681584502,1.000.000,2023-04-15 18:47:52,2023-04-15 18:48:22,10.0,13,49,Juan,Pablo,Questão 22,Juan Pablo,False,True
+49,63,5112,1681591734,,1681591765,1.000.000,2023-04-15 20:48:54,2023-04-15 20:49:25,10.0,1,49,Juan,Pablo,Questão 23,Juan Pablo,False,True
+49,64,5301,1681604356,,1681604392,1.000.000,2023-04-16 00:19:16,2023-04-16 00:19:52,10.0,4,49,Juan,Pablo,Questão 24,Juan Pablo,False,True
+49,65,5366,1681605573,,1681605673,1.000.000,2023-04-16 00:39:33,2023-04-16 00:41:13,10.0,6,49,Juan,Pablo,Questão 25,Juan Pablo,False,True
+49,66,5414,1681608821,,1681608892,1.000.000,2023-04-16 01:33:41,2023-04-16 01:34:52,10.0,5,49,Juan,Pablo,Questão 26,Juan Pablo,False,True
+49,67,5462,1681611399,,1681611437,1.000.000,2023-04-16 02:16:39,2023-04-16 02:17:17,10.0,3,49,Juan,Pablo,Questão 27,Juan Pablo,False,True
+49,68,6364,1681738623,,1681738646,1.000.000,2023-04-17 13:37:03,2023-04-17 13:37:26,10.0,45,49,Juan,Pablo,Questão DESAFIO!,Juan Pablo,False,True
+50,40,294,1681145141,,1681145146,1.000.000,2023-04-10 16:45:41,2023-04-10 16:45:46,10.0,12,50,Evelly Victory,Vieira Pinto,Questão 01,Evelly Victory Vieira Pinto,False,True
+50,41,533,1681146958,,1681146962,1.000.000,2023-04-10 17:15:58,2023-04-10 17:16:02,10.0,3,50,Evelly Victory,Vieira Pinto,Questão 02,Evelly Victory Vieira Pinto,False,True
+50,42,316,1681145423,,1681145438,1.000.000,2023-04-10 16:50:23,2023-04-10 16:50:38,10.0,3,50,Evelly Victory,Vieira Pinto,Questão 03,Evelly Victory Vieira Pinto,False,True
+50,43,345,1681145624,,1681145628,1.000.000,2023-04-10 16:53:44,2023-04-10 16:53:48,10.0,2,50,Evelly Victory,Vieira Pinto,Questão 04,Evelly Victory Vieira Pinto,False,True
+50,44,419,1681146217,,1681146231,1.000.000,2023-04-10 17:03:37,2023-04-10 17:03:51,10.0,7,50,Evelly Victory,Vieira Pinto,Questão 05,Evelly Victory Vieira Pinto,False,True
+50,45,472,1681146631,,1681146643,1.000.000,2023-04-10 17:10:31,2023-04-10 17:10:43,10.0,4,50,Evelly Victory,Vieira Pinto,Questão 06,Evelly Victory Vieira Pinto,False,True
+50,46,556,1681147103,,1681147117,1.000.000,2023-04-10 17:18:23,2023-04-10 17:18:37,10.0,5,50,Evelly Victory,Vieira Pinto,Questão 07,Evelly Victory Vieira Pinto,False,True
+50,47,683,1681147606,,1681147633,1.000.000,2023-04-10 17:26:46,2023-04-10 17:27:13,10.0,6,50,Evelly Victory,Vieira Pinto,Questão 08,Evelly Victory Vieira Pinto,False,True
+50,48,740,1681147803,,1681147820,1.000.000,2023-04-10 17:30:03,2023-04-10 17:30:20,10.0,1,50,Evelly Victory,Vieira Pinto,Questão 09,Evelly Victory Vieira Pinto,False,True
+50,49,888,1681148405,,1681148420,1.000.000,2023-04-10 17:40:05,2023-04-10 17:40:20,10.0,9,50,Evelly Victory,Vieira Pinto,Questão 10,Evelly Victory Vieira Pinto,False,True
+50,50,950,1681148646,,1681148664,1.000.000,2023-04-10 17:44:06,2023-04-10 17:44:24,10.0,2,50,Evelly Victory,Vieira Pinto,Questão 11,Evelly Victory Vieira Pinto,False,True
+50,51,1023,1681148987,,1681149004,1.000.000,2023-04-10 17:49:47,2023-04-10 17:50:04,10.0,2,50,Evelly Victory,Vieira Pinto,Questão 12,Evelly Victory Vieira Pinto,False,True
+50,53,1068,1681149156,,1681149170,1.000.000,2023-04-10 17:52:36,2023-04-10 17:52:50,10.0,1,50,Evelly Victory,Vieira Pinto,Questão 13,Evelly Victory Vieira Pinto,False,True
+50,54,1130,1681149379,,1681149395,1.000.000,2023-04-10 17:56:19,2023-04-10 17:56:35,10.0,2,50,Evelly Victory,Vieira Pinto,Questão 14,Evelly Victory Vieira Pinto,False,True
+50,55,1592,1681219414,,1681219442,1.000.000,2023-04-11 13:23:34,2023-04-11 13:24:02,10.0,1,50,Evelly Victory,Vieira Pinto,Questão 15,Evelly Victory Vieira Pinto,False,True
+50,56,1593,1681219749,,1681219792,1.000.000,2023-04-11 13:29:09,2023-04-11 13:29:52,10.0,1,50,Evelly Victory,Vieira Pinto,Questão 16,Evelly Victory Vieira Pinto,False,True
+50,57,1594,1681220013,,1681220043,1.000.000,2023-04-11 13:33:33,2023-04-11 13:34:03,10.0,1,50,Evelly Victory,Vieira Pinto,Questão 17,Evelly Victory Vieira Pinto,False,True
+50,58,1597,1681220353,,1681220358,1.000.000,2023-04-11 13:39:13,2023-04-11 13:39:18,10.0,3,50,Evelly Victory,Vieira Pinto,Questão 18,Evelly Victory Vieira Pinto,False,True
+50,59,1598,1681220614,,1681220632,1.000.000,2023-04-11 13:43:34,2023-04-11 13:43:52,10.0,1,50,Evelly Victory,Vieira Pinto,Questão 19,Evelly Victory Vieira Pinto,False,True
+50,60,1601,1681220975,,1681220991,1.000.000,2023-04-11 13:49:35,2023-04-11 13:49:51,10.0,3,50,Evelly Victory,Vieira Pinto,Questão 20,Evelly Victory Vieira Pinto,False,True
+50,61,2420,1681303356,,1681303381,1.000.000,2023-04-12 12:42:36,2023-04-12 12:43:01,10.0,3,50,Evelly Victory,Vieira Pinto,Questão 21,Evelly Victory Vieira Pinto,False,True
+50,62,2437,1681303810,,1681303829,1.000.000,2023-04-12 12:50:10,2023-04-12 12:50:29,10.0,1,50,Evelly Victory,Vieira Pinto,Questão 22,Evelly Victory Vieira Pinto,False,True
+50,63,2453,1681304202,,1681304218,1.000.000,2023-04-12 12:56:42,2023-04-12 12:56:58,10.0,3,50,Evelly Victory,Vieira Pinto,Questão 23,Evelly Victory Vieira Pinto,False,True
+50,64,2457,1681304415,,1681304435,1.000.000,2023-04-12 13:00:15,2023-04-12 13:00:35,10.0,1,50,Evelly Victory,Vieira Pinto,Questão 24,Evelly Victory Vieira Pinto,False,True
+50,65,2491,1681305479,,1681305483,1.000.000,2023-04-12 13:17:59,2023-04-12 13:18:03,10.0,10,50,Evelly Victory,Vieira Pinto,Questão 25,Evelly Victory Vieira Pinto,False,True
+50,66,3938,1681503116,,1681503126,1.000.000,2023-04-14 20:11:56,2023-04-14 20:12:06,10.0,14,50,Evelly Victory,Vieira Pinto,Questão 26,Evelly Victory Vieira Pinto,False,True
+50,67,4005,1681503620,,1681503643,1.000.000,2023-04-14 20:20:20,2023-04-14 20:20:43,10.0,4,50,Evelly Victory,Vieira Pinto,Questão 27,Evelly Victory Vieira Pinto,False,True
+50,68,4142,1681504330,,1681504335,1.000.000,2023-04-14 20:32:10,2023-04-14 20:32:15,10.0,7,50,Evelly Victory,Vieira Pinto,Questão DESAFIO!,Evelly Victory Vieira Pinto,False,True
+51,40,264,1681144633,,1681144660,1.000.000,2023-04-10 16:37:13,2023-04-10 16:37:40,10.0,3,51,Lucas,Eduardo,Questão 01,Lucas Eduardo,False,True
+51,41,279,1681144897,,1681178401,1.000.000,2023-04-10 16:41:37,2023-04-11 02:00:01,10.0,2,51,Lucas,Eduardo,Questão 02,Lucas Eduardo,False,True
+51,42,306,1681145359,,1681145457,0,2023-04-10 16:49:19,2023-04-10 16:50:57,0.0,9,51,Lucas,Eduardo,Questão 03,Lucas Eduardo,False,True
+51,43,2035,1681263561,,1681264344,1.000.000,2023-04-12 01:39:21,2023-04-12 01:52:24,10.0,4,51,Lucas,Eduardo,Questão 04,Lucas Eduardo,False,True
+51,44,403,1681146021,,1681146042,1.000.000,2023-04-10 17:00:21,2023-04-10 17:00:42,10.0,1,51,Lucas,Eduardo,Questão 05,Lucas Eduardo,False,True
+51,45,424,1681146267,,1681146282,1.000.000,2023-04-10 17:04:27,2023-04-10 17:04:42,10.0,2,51,Lucas,Eduardo,Questão 06,Lucas Eduardo,False,True
+51,46,443,1681146420,,1681146439,1.000.000,2023-04-10 17:07:00,2023-04-10 17:07:19,10.0,2,51,Lucas,Eduardo,Questão 07,Lucas Eduardo,False,True
+51,47,475,1681146645,,1681146664,1.000.000,2023-04-10 17:10:45,2023-04-10 17:11:04,10.0,2,51,Lucas,Eduardo,Questão 08,Lucas Eduardo,False,True
+51,48,499,1681146763,,1681146767,1.000.000,2023-04-10 17:12:43,2023-04-10 17:12:47,10.0,2,51,Lucas,Eduardo,Questão 09,Lucas Eduardo,False,True
+51,49,535,1681146978,,1681146982,1.000.000,2023-04-10 17:16:18,2023-04-10 17:16:22,10.0,2,51,Lucas,Eduardo,Questão 10,Lucas Eduardo,False,True
+51,50,548,1681147048,,1681147066,1.000.000,2023-04-10 17:17:28,2023-04-10 17:17:46,10.0,1,51,Lucas,Eduardo,Questão 11,Lucas Eduardo,False,True
+51,51,670,1681147563,,1681147567,1.000.000,2023-04-10 17:26:03,2023-04-10 17:26:07,10.0,3,51,Lucas,Eduardo,Questão 12,Lucas Eduardo,False,True
+51,53,643,1681147493,,1681147511,1.000.000,2023-04-10 17:24:53,2023-04-10 17:25:11,10.0,2,51,Lucas,Eduardo,Questão 13,Lucas Eduardo,False,True
+51,54,722,1681147720,,1681147793,1.000.000,2023-04-10 17:28:40,2023-04-10 17:29:53,10.0,1,51,Lucas,Eduardo,Questão 14,Lucas Eduardo,False,True
+51,55,788,1681148031,,1681148046,1.000.000,2023-04-10 17:33:51,2023-04-10 17:34:06,10.0,2,51,Lucas,Eduardo,Questão 15,Lucas Eduardo,False,True
+51,56,830,1681148179,,1681148205,1.000.000,2023-04-10 17:36:19,2023-04-10 17:36:45,10.0,1,51,Lucas,Eduardo,Questão 16,Lucas Eduardo,False,True
+51,57,974,1681148799,,1681148830,1.000.000,2023-04-10 17:46:39,2023-04-10 17:47:10,10.0,2,51,Lucas,Eduardo,Questão 17,Lucas Eduardo,False,True
+51,58,2113,1681266073,,1681266078,1.000.000,2023-04-12 02:21:13,2023-04-12 02:21:18,10.0,4,51,Lucas,Eduardo,Questão 18,Lucas Eduardo,False,True
+51,59,1103,1681149271,,1681149283,1.000.000,2023-04-10 17:54:31,2023-04-10 17:54:43,10.0,2,51,Lucas,Eduardo,Questão 19,Lucas Eduardo,False,True
+51,60,1151,1681149451,,1681149493,1.000.000,2023-04-10 17:57:31,2023-04-10 17:58:13,10.0,2,51,Lucas,Eduardo,Questão 20,Lucas Eduardo,False,True
+51,61,1224,1681149766,,1681149778,1.000.000,2023-04-10 18:02:46,2023-04-10 18:02:58,10.0,1,51,Lucas,Eduardo,Questão 21,Lucas Eduardo,False,True
+51,62,1422,1681177750,,1681177754,1.000.000,2023-04-11 01:49:10,2023-04-11 01:49:14,10.0,2,51,Lucas,Eduardo,Questão 22,Lucas Eduardo,False,True
+51,63,1429,1681178256,,1681738146,1.000.000,2023-04-11 01:57:36,2023-04-17 13:29:06,10.0,4,51,Lucas,Eduardo,Questão 23,Lucas Eduardo,False,True
+51,64,1439,1681178778,,1681178792,1.000.000,2023-04-11 02:06:18,2023-04-11 02:06:32,10.0,1,51,Lucas,Eduardo,Questão 24,Lucas Eduardo,False,True
+51,65,1461,1681179602,,1681179621,1.000.000,2023-04-11 02:20:02,2023-04-11 02:20:21,10.0,2,51,Lucas,Eduardo,Questão 25,Lucas Eduardo,False,True
+51,66,1467,1681179864,,1681179880,1.000.000,2023-04-11 02:24:24,2023-04-11 02:24:40,10.0,1,51,Lucas,Eduardo,Questão 26,Lucas Eduardo,False,True
+51,67,1474,1681180186,,1681180200,1.000.000,2023-04-11 02:29:46,2023-04-11 02:30:00,10.0,4,51,Lucas,Eduardo,Questão 27,Lucas Eduardo,False,True
+51,68,4140,1681504328,,1681738166,1.000.000,2023-04-14 20:32:08,2023-04-17 13:29:26,10.0,5,51,Lucas,Eduardo,Questão DESAFIO!,Lucas Eduardo,False,True
+52,40,373,1681145824,,1681145829,1.000.000,2023-04-10 16:57:04,2023-04-10 16:57:09,10.0,4,52,Willian,Furtado,Questão 01,Willian Furtado,False,True
+52,41,493,1681146742,,1681146768,1.000.000,2023-04-10 17:12:22,2023-04-10 17:12:48,10.0,2,52,Willian,Furtado,Questão 02,Willian Furtado,False,True
+52,42,585,1681147259,,1681147280,1.000.000,2023-04-10 17:20:59,2023-04-10 17:21:20,10.0,3,52,Willian,Furtado,Questão 03,Willian Furtado,False,True
+52,43,1016,1681148955,,1681148973,1.000.000,2023-04-10 17:49:15,2023-04-10 17:49:33,10.0,6,52,Willian,Furtado,Questão 04,Willian Furtado,False,True
+52,44,1267,1681167940,,1681167966,1.000.000,2023-04-10 23:05:40,2023-04-10 23:06:06,10.0,6,52,Willian,Furtado,Questão 05,Willian Furtado,False,True
+52,45,1277,1681169288,,1681169311,1.000.000,2023-04-10 23:28:08,2023-04-10 23:28:31,10.0,5,52,Willian,Furtado,Questão 06,Willian Furtado,False,True
+52,46,1278,1681169578,,1681169630,1.000.000,2023-04-10 23:32:58,2023-04-10 23:33:50,10.0,1,52,Willian,Furtado,Questão 07,Willian Furtado,False,True
+52,47,1280,1681170010,,1681170130,1.000.000,2023-04-10 23:40:10,2023-04-10 23:42:10,10.0,1,52,Willian,Furtado,Questão 08,Willian Furtado,False,True
+52,48,1529,1681211447,,1681211464,1.000.000,2023-04-11 11:10:47,2023-04-11 11:11:04,10.0,2,52,Willian,Furtado,Questão 09,Willian Furtado,False,True
+52,49,1533,1681211860,,1681211865,1.000.000,2023-04-11 11:17:40,2023-04-11 11:17:45,10.0,3,52,Willian,Furtado,Questão 10,Willian Furtado,False,True
+52,50,2548,1681317724,,1681317755,1.000.000,2023-04-12 16:42:04,2023-04-12 16:42:35,10.0,1,52,Willian,Furtado,Questão 11,Willian Furtado,False,True
+52,51,2553,1681318549,,1681318568,1.000.000,2023-04-12 16:55:49,2023-04-12 16:56:08,10.0,5,52,Willian,Furtado,Questão 12,Willian Furtado,False,True
+52,53,2555,1681318759,,1681318787,1.000.000,2023-04-12 16:59:19,2023-04-12 16:59:47,10.0,1,52,Willian,Furtado,Questão 13,Willian Furtado,False,True
+52,54,2570,1681324031,,1681324078,1.000.000,2023-04-12 18:27:11,2023-04-12 18:27:58,10.0,1,52,Willian,Furtado,Questão 14,Willian Furtado,False,True
+52,55,2581,1681324473,,1681324477,1.000.000,2023-04-12 18:34:33,2023-04-12 18:34:37,10.0,3,52,Willian,Furtado,Questão 15,Willian Furtado,False,True
+52,56,2588,1681324752,,1681324808,1.000.000,2023-04-12 18:39:12,2023-04-12 18:40:08,10.0,3,52,Willian,Furtado,Questão 16,Willian Furtado,False,True
+52,57,2612,1681325674,,1681325681,1.000.000,2023-04-12 18:54:34,2023-04-12 18:54:41,10.0,9,52,Willian,Furtado,Questão 17,Willian Furtado,False,True
+52,58,2621,1681326014,,1681326039,1.000.000,2023-04-12 19:00:14,2023-04-12 19:00:39,10.0,3,52,Willian,Furtado,Questão 18,Willian Furtado,False,True
+52,59,2721,1681343604,,1681343608,1.000.000,2023-04-12 23:53:24,2023-04-12 23:53:28,10.0,2,52,Willian,Furtado,Questão 19,Willian Furtado,False,True
+52,60,2729,1681343888,,1681350540,1.000.000,2023-04-12 23:58:08,2023-04-13 01:49:00,10.0,2,52,Willian,Furtado,Questão 20,Willian Furtado,False,True
+52,61,2843,1681350960,,1681350963,1.000.000,2023-04-13 01:56:00,2023-04-13 01:56:03,10.0,4,52,Willian,Furtado,Questão 21,Willian Furtado,False,True
+52,62,3616,1681435316,,1681435335,1.000.000,2023-04-14 01:21:56,2023-04-14 01:22:15,10.0,7,52,Willian,Furtado,Questão 22,Willian Furtado,False,True
+52,63,3639,1681435924,,1681435947,1.000.000,2023-04-14 01:32:04,2023-04-14 01:32:27,10.0,6,52,Willian,Furtado,Questão 23,Willian Furtado,False,True
+52,64,3649,1681436259,,1681436273,1.000.000,2023-04-14 01:37:39,2023-04-14 01:37:53,10.0,2,52,Willian,Furtado,Questão 24,Willian Furtado,False,True
+52,65,3895,1681501324,,1681501736,1.000.000,2023-04-14 19:42:04,2023-04-14 19:48:56,10.0,7,52,Willian,Furtado,Questão 25,Willian Furtado,False,True
+52,66,3982,1681503501,,1681503545,1.000.000,2023-04-14 20:18:21,2023-04-14 20:19:05,10.0,6,52,Willian,Furtado,Questão 26,Willian Furtado,False,True
+52,67,5260,1681602056,,1681602071,1.000.000,2023-04-15 23:40:56,2023-04-15 23:41:11,10.0,14,52,Willian,Furtado,Questão 27,Willian Furtado,False,True
+52,68,5326,1681604852,,1681604867,1.000.000,2023-04-16 00:27:32,2023-04-16 00:27:47,10.0,3,52,Willian,Furtado,Questão DESAFIO!,Willian Furtado,False,True
+53,40,822,1681148150,,1681148230,1.000.000,2023-04-10 17:35:50,2023-04-10 17:37:10,10.0,10,53,Gustavo,Marinho Santos,Questão 01,Gustavo Marinho Santos,False,True
+53,41,1109,1681149293,,1681149418,1.000.000,2023-04-10 17:54:53,2023-04-10 17:56:58,10.0,10,53,Gustavo,Marinho Santos,Questão 02,Gustavo Marinho Santos,False,True
+53,42,3127,1681398547,,1681398572,1.000.000,2023-04-13 15:09:07,2023-04-13 15:09:32,10.0,8,53,Gustavo,Marinho Santos,Questão 03,Gustavo Marinho Santos,False,True
+54,40,320,1681145449,,1681145474,1.000.000,2023-04-10 16:50:49,2023-04-10 16:51:14,10.0,1,54,Isaac Levi ,Oliveira Chaves,Questão 01,Isaac Levi  Oliveira Chaves,False,True
+54,41,367,1681145803,,1681145822,1.000.000,2023-04-10 16:56:43,2023-04-10 16:57:02,10.0,2,54,Isaac Levi ,Oliveira Chaves,Questão 02,Isaac Levi  Oliveira Chaves,False,True
+54,42,412,1681146132,,1681146148,1.000.000,2023-04-10 17:02:12,2023-04-10 17:02:28,10.0,3,54,Isaac Levi ,Oliveira Chaves,Questão 03,Isaac Levi  Oliveira Chaves,False,True
+54,43,484,1681146688,,1681146708,1.000.000,2023-04-10 17:11:28,2023-04-10 17:11:48,10.0,4,54,Isaac Levi ,Oliveira Chaves,Questão 04,Isaac Levi  Oliveira Chaves,False,True
+54,44,529,1681146926,,1681146946,1.000.000,2023-04-10 17:15:26,2023-04-10 17:15:46,10.0,1,54,Isaac Levi ,Oliveira Chaves,Questão 05,Isaac Levi  Oliveira Chaves,False,True
+54,45,591,1681147290,,1681147304,1.000.000,2023-04-10 17:21:30,2023-04-10 17:21:44,10.0,3,54,Isaac Levi ,Oliveira Chaves,Questão 06,Isaac Levi  Oliveira Chaves,False,True
+54,46,720,1681147716,,1681147734,1.000.000,2023-04-10 17:28:36,2023-04-10 17:28:54,10.0,4,54,Isaac Levi ,Oliveira Chaves,Questão 07,Isaac Levi  Oliveira Chaves,False,True
+54,47,1282,1681170134,,1681170155,1.000.000,2023-04-10 23:42:14,2023-04-10 23:42:35,10.0,1,54,Isaac Levi ,Oliveira Chaves,Questão 08,Isaac Levi  Oliveira Chaves,False,True
+54,48,1285,1681170378,,1681170396,1.000.000,2023-04-10 23:46:18,2023-04-10 23:46:36,10.0,1,54,Isaac Levi ,Oliveira Chaves,Questão 09,Isaac Levi  Oliveira Chaves,False,True
+54,49,1290,1681170620,,1681170637,1.000.000,2023-04-10 23:50:20,2023-04-10 23:50:37,10.0,1,54,Isaac Levi ,Oliveira Chaves,Questão 10,Isaac Levi  Oliveira Chaves,False,True
+54,50,1305,1681171082,,1681171098,1.000.000,2023-04-10 23:58:02,2023-04-10 23:58:18,10.0,3,54,Isaac Levi ,Oliveira Chaves,Questão 11,Isaac Levi  Oliveira Chaves,False,True
+54,51,1311,1681171716,,1681171742,1.000.000,2023-04-11 00:08:36,2023-04-11 00:09:02,10.0,1,54,Isaac Levi ,Oliveira Chaves,Questão 12,Isaac Levi  Oliveira Chaves,False,True
+54,53,1856,1681253797,,1681253816,1.000.000,2023-04-11 22:56:37,2023-04-11 22:56:56,10.0,2,54,Isaac Levi ,Oliveira Chaves,Questão 13,Isaac Levi  Oliveira Chaves,False,True
+54,54,1861,1681254458,,1681254490,1.000.000,2023-04-11 23:07:38,2023-04-11 23:08:10,10.0,2,54,Isaac Levi ,Oliveira Chaves,Questão 14,Isaac Levi  Oliveira Chaves,False,True
+54,55,1863,1681254775,,1681254793,1.000.000,2023-04-11 23:12:55,2023-04-11 23:13:13,10.0,2,54,Isaac Levi ,Oliveira Chaves,Questão 15,Isaac Levi  Oliveira Chaves,False,True
+54,56,1869,1681255274,,1681255301,1.000.000,2023-04-11 23:21:14,2023-04-11 23:21:41,10.0,2,54,Isaac Levi ,Oliveira Chaves,Questão 16,Isaac Levi  Oliveira Chaves,False,True
+54,57,1872,1681256027,,1681256049,1.000.000,2023-04-11 23:33:47,2023-04-11 23:34:09,10.0,2,54,Isaac Levi ,Oliveira Chaves,Questão 17,Isaac Levi  Oliveira Chaves,False,True
+54,58,2158,1681266761,,1681266787,1.000.000,2023-04-12 02:32:41,2023-04-12 02:33:07,10.0,18,54,Isaac Levi ,Oliveira Chaves,Questão 18,Isaac Levi  Oliveira Chaves,False,True
+54,59,2887,1681355691,,1681355704,1.000.000,2023-04-13 03:14:51,2023-04-13 03:15:04,10.0,4,54,Isaac Levi ,Oliveira Chaves,Questão 19,Isaac Levi  Oliveira Chaves,False,True
+54,60,2888,1681355859,,1681355872,1.000.000,2023-04-13 03:17:39,2023-04-13 03:17:52,10.0,1,54,Isaac Levi ,Oliveira Chaves,Questão 20,Isaac Levi  Oliveira Chaves,False,True
+54,61,2892,1681356763,,1681356781,1.000.000,2023-04-13 03:32:43,2023-04-13 03:33:01,10.0,1,54,Isaac Levi ,Oliveira Chaves,Questão 21,Isaac Levi  Oliveira Chaves,False,True
+54,62,2895,1681357187,,1681357203,1.000.000,2023-04-13 03:39:47,2023-04-13 03:40:03,10.0,2,54,Isaac Levi ,Oliveira Chaves,Questão 22,Isaac Levi  Oliveira Chaves,False,True
+54,63,2910,1681358074,,1681358085,1.000.000,2023-04-13 03:54:34,2023-04-13 03:54:45,10.0,11,54,Isaac Levi ,Oliveira Chaves,Questão 23,Isaac Levi  Oliveira Chaves,False,True
+54,64,2912,1681358254,,1681358265,1.000.000,2023-04-13 03:57:34,2023-04-13 03:57:45,10.0,2,54,Isaac Levi ,Oliveira Chaves,Questão 24,Isaac Levi  Oliveira Chaves,False,True
+54,65,2915,1681358504,,1681358523,1.000.000,2023-04-13 04:01:44,2023-04-13 04:02:03,10.0,2,54,Isaac Levi ,Oliveira Chaves,Questão 25,Isaac Levi  Oliveira Chaves,False,True
+54,66,2918,1681359126,,1681359136,1.000.000,2023-04-13 04:12:06,2023-04-13 04:12:16,10.0,3,54,Isaac Levi ,Oliveira Chaves,Questão 26,Isaac Levi  Oliveira Chaves,False,True
+54,67,2923,1681359657,,1681359671,1.000.000,2023-04-13 04:20:57,2023-04-13 04:21:11,10.0,5,54,Isaac Levi ,Oliveira Chaves,Questão 27,Isaac Levi  Oliveira Chaves,False,True
+55,40,4011,1681503637,,1681503650,1.000.000,2023-04-14 20:20:37,2023-04-14 20:20:50,10.0,5,55,Felipe ,Macedo,Questão 01,Felipe  Macedo,False,True
+55,41,4035,1681503736,,1681503753,1.000.000,2023-04-14 20:22:16,2023-04-14 20:22:33,10.0,3,55,Felipe ,Macedo,Questão 02,Felipe  Macedo,False,True
+55,42,4060,1681503876,,1681503958,1.000.000,2023-04-14 20:24:36,2023-04-14 20:25:58,10.0,4,55,Felipe ,Macedo,Questão 03,Felipe  Macedo,False,True
+55,43,4079,1681503999,,1681504039,1.000.000,2023-04-14 20:26:39,2023-04-14 20:27:19,10.0,3,55,Felipe ,Macedo,Questão 04,Felipe  Macedo,False,True
+55,44,4169,1681504454,,1681504481,0,2023-04-14 20:34:14,2023-04-14 20:34:41,0.0,4,55,Felipe ,Macedo,Questão 05,Felipe  Macedo,False,True
+55,45,4261,1681504997,,1681505062,0,2023-04-14 20:43:17,2023-04-14 20:44:22,0.0,3,55,Felipe ,Macedo,Questão 06,Felipe  Macedo,False,True
+55,46,4311,1681505385,,1681505423,0,2023-04-14 20:49:45,2023-04-14 20:50:23,0.0,1,55,Felipe ,Macedo,Questão 07,Felipe  Macedo,False,True
+55,47,4378,1681505780,,1681505814,0,2023-04-14 20:56:20,2023-04-14 20:56:54,0.0,2,55,Felipe ,Macedo,Questão 08,Felipe  Macedo,False,True
+55,48,4421,1681506184,,1681506201,0,2023-04-14 21:03:04,2023-04-14 21:03:21,0.0,3,55,Felipe ,Macedo,Questão 09,Felipe  Macedo,False,True
+55,49,4518,1681506900,,1681693062,0,2023-04-14 21:15:00,2023-04-17 00:57:42,0.0,3,55,Felipe ,Macedo,Questão 10,Felipe  Macedo,False,True
+55,50,6170,1681696819,,1681696894,1.000.000,2023-04-17 02:00:19,2023-04-17 02:01:34,10.0,4,55,Felipe ,Macedo,Questão 11,Felipe  Macedo,False,True
+55,51,6175,1681697452,,1681697487,1.000.000,2023-04-17 02:10:52,2023-04-17 02:11:27,10.0,5,55,Felipe ,Macedo,Questão 12,Felipe  Macedo,False,True
+55,53,6183,1681698121,,1681698164,0,2023-04-17 02:22:01,2023-04-17 02:22:44,0.0,1,55,Felipe ,Macedo,Questão 13,Felipe  Macedo,False,True
+55,54,6186,1681698768,,1681698771,1.000.000,2023-04-17 02:32:48,2023-04-17 02:32:51,10.0,2,55,Felipe ,Macedo,Questão 14,Felipe  Macedo,False,True
+55,55,6190,1681699211,,1682395383,0,2023-04-17 02:40:11,2023-04-25 04:03:03,0.0,4,55,Felipe ,Macedo,Questão 15,Felipe  Macedo,False,True
+55,56,6199,1681700285,,1681700547,1.000.000,2023-04-17 02:58:05,2023-04-17 03:02:27,10.0,4,55,Felipe ,Macedo,Questão 16,Felipe  Macedo,False,True
+55,57,6218,1681702457,,1681702525,1.000.000,2023-04-17 03:34:17,2023-04-17 03:35:25,10.0,9,55,Felipe ,Macedo,Questão 17,Felipe  Macedo,False,True
+55,58,9606,1682395660,,1682395665,0,2023-04-25 04:07:40,2023-04-25 04:07:45,0.0,5,55,Felipe ,Macedo,Questão 18,Felipe  Macedo,True,False
+55,59,6227,1681703693,,1682395531,0,2023-04-17 03:54:53,2023-04-25 04:05:31,0.0,2,55,Felipe ,Macedo,Questão 19,Felipe  Macedo,False,True
+55,60,6277,1681730487,,1681730547,0,2023-04-17 11:21:27,2023-04-17 11:22:27,0.0,2,55,Felipe ,Macedo,Questão 20,Felipe  Macedo,False,True
+55,61,6285,1681731267,,1681731284,1.000.000,2023-04-17 11:34:27,2023-04-17 11:34:44,10.0,5,55,Felipe ,Macedo,Questão 21,Felipe  Macedo,False,True
+55,62,6451,1681749868,,1681749911,1.000.000,2023-04-17 16:44:28,2023-04-17 16:45:11,10.0,4,55,Felipe ,Macedo,Questão 22,Felipe  Macedo,False,True
+55,63,6803,1681753527,,1681753539,1.000.000,2023-04-17 17:45:27,2023-04-17 17:45:39,10.0,10,55,Felipe ,Macedo,Questão 23,Felipe  Macedo,False,True
+55,64,6579,1681751274,,1681751347,1.000.000,2023-04-17 17:07:54,2023-04-17 17:09:07,10.0,5,55,Felipe ,Macedo,Questão 24,Felipe  Macedo,False,True
+55,65,6758,1681752725,,1681752763,0,2023-04-17 17:32:05,2023-04-17 17:32:43,0.0,17,55,Felipe ,Macedo,Questão 25,Felipe  Macedo,False,True
+55,66,7090,1681816879,,1681816883,1.000.000,2023-04-18 11:21:19,2023-04-18 11:21:23,10.0,13,55,Felipe ,Macedo,Questão 26,Felipe  Macedo,False,True
+55,67,7099,1681817501,,1681817516,0,2023-04-18 11:31:41,2023-04-18 11:31:56,0.0,6,55,Felipe ,Macedo,Questão 27,Felipe  Macedo,False,True
+56,40,2584,1681324596,,1681324616,1.000.000,2023-04-12 18:36:36,2023-04-12 18:36:56,10.0,5,56,Alisson,Vaz Silva,Questão 01,Alisson Vaz Silva,False,True
+56,41,702,1681147660,,1681147685,1.000.000,2023-04-10 17:27:40,2023-04-10 17:28:05,10.0,8,56,Alisson,Vaz Silva,Questão 02,Alisson Vaz Silva,False,True
+56,42,871,1681148332,,1681148383,1.000.000,2023-04-10 17:38:52,2023-04-10 17:39:43,10.0,5,56,Alisson,Vaz Silva,Questão 03,Alisson Vaz Silva,False,True
+56,43,998,1681148907,,1681149007,1.000.000,2023-04-10 17:48:27,2023-04-10 17:50:07,10.0,3,56,Alisson,Vaz Silva,Questão 04,Alisson Vaz Silva,False,True
+56,44,1235,1681149871,,1681149890,0,2023-04-10 18:04:31,2023-04-10 18:04:50,0.0,7,56,Alisson,Vaz Silva,Questão 05,Alisson Vaz Silva,False,True
+56,45,1591,1681218995,,1681219026,0,2023-04-11 13:16:35,2023-04-11 13:17:06,0.0,5,56,Alisson,Vaz Silva,Questão 06,Alisson Vaz Silva,False,True
+56,46,1603,1681221795,,1681221856,1.000.000,2023-04-11 14:03:15,2023-04-11 14:04:16,10.0,1,56,Alisson,Vaz Silva,Questão 07,Alisson Vaz Silva,False,True
+56,47,2472,1681305026,,1681305050,1.000.000,2023-04-12 13:10:26,2023-04-12 13:10:50,10.0,1,56,Alisson,Vaz Silva,Questão 08,Alisson Vaz Silva,False,True
+56,48,2490,1681305459,,1681305499,1.000.000,2023-04-12 13:17:39,2023-04-12 13:18:19,10.0,1,56,Alisson,Vaz Silva,Questão 09,Alisson Vaz Silva,False,True
+56,49,27381,1686832001,,1686832009,1.000.000,2023-06-15 12:26:41,2023-06-15 12:26:49,10.0,4,56,Alisson,Vaz Silva,Questão 10,Alisson Vaz Silva,True,False
+56,50,2509,1681306597,,1681306617,1.000.000,2023-04-12 13:36:37,2023-04-12 13:36:57,10.0,1,56,Alisson,Vaz Silva,Questão 11,Alisson Vaz Silva,False,True
+56,51,2512,1681307197,,1681307224,1.000.000,2023-04-12 13:46:37,2023-04-12 13:47:04,10.0,3,56,Alisson,Vaz Silva,Questão 12,Alisson Vaz Silva,False,True
+56,53,2516,1681307779,,1681307801,1.000.000,2023-04-12 13:56:19,2023-04-12 13:56:41,10.0,2,56,Alisson,Vaz Silva,Questão 13,Alisson Vaz Silva,False,True
+56,54,27382,1686832255,,1686832260,1.000.000,2023-06-15 12:30:55,2023-06-15 12:31:00,10.0,5,56,Alisson,Vaz Silva,Questão 14,Alisson Vaz Silva,True,False
+56,55,27384,1686832373,,1686832404,1.000.000,2023-06-15 12:32:53,2023-06-15 12:33:24,10.0,12,56,Alisson,Vaz Silva,Questão 15,Alisson Vaz Silva,True,False
+56,56,2634,1681327460,,1681327504,1.000.000,2023-04-12 19:24:20,2023-04-12 19:25:04,10.0,4,56,Alisson,Vaz Silva,Questão 16,Alisson Vaz Silva,False,True
+56,57,3215,1681418371,,1681418380,1.000.000,2023-04-13 20:39:31,2023-04-13 20:39:40,10.0,1,56,Alisson,Vaz Silva,Questão 17,Alisson Vaz Silva,False,True
+56,58,3243,1681418871,,1681418944,1.000.000,2023-04-13 20:47:51,2023-04-13 20:49:04,10.0,2,56,Alisson,Vaz Silva,Questão 18,Alisson Vaz Silva,False,True
+56,59,3286,1681419927,,1681419933,1.000.000,2023-04-13 21:05:27,2023-04-13 21:05:33,10.0,1,56,Alisson,Vaz Silva,Questão 19,Alisson Vaz Silva,False,True
+56,60,3727,1681473592,,1681473701,1.000.000,2023-04-14 11:59:52,2023-04-14 12:01:41,10.0,2,56,Alisson,Vaz Silva,Questão 20,Alisson Vaz Silva,False,True
+56,61,27386,1686832962,,1686832967,1.000.000,2023-06-15 12:42:42,2023-06-15 12:42:47,10.0,13,56,Alisson,Vaz Silva,Questão 21,Alisson Vaz Silva,True,False
+56,62,4071,1681503974,,1681503996,1.000.000,2023-04-14 20:26:14,2023-04-14 20:26:36,10.0,2,56,Alisson,Vaz Silva,Questão 22,Alisson Vaz Silva,False,True
+56,63,4205,1681504696,,1681504721,1.000.000,2023-04-14 20:38:16,2023-04-14 20:38:41,10.0,4,56,Alisson,Vaz Silva,Questão 23,Alisson Vaz Silva,False,True
+56,64,4289,1681505250,,1681505273,1.000.000,2023-04-14 20:47:30,2023-04-14 20:47:53,10.0,1,56,Alisson,Vaz Silva,Questão 24,Alisson Vaz Silva,False,True
+56,65,4424,1681506217,,1681506250,0,2023-04-14 21:03:37,2023-04-14 21:04:10,0.0,1,56,Alisson,Vaz Silva,Questão 25,Alisson Vaz Silva,False,True
+56,66,4494,1681506725,,1681506744,1.000.000,2023-04-14 21:12:05,2023-04-14 21:12:24,10.0,1,56,Alisson,Vaz Silva,Questão 26,Alisson Vaz Silva,False,True
+56,67,5905,1681671963,,1681671979,1.000.000,2023-04-16 19:06:03,2023-04-16 19:06:19,10.0,10,56,Alisson,Vaz Silva,Questão 27,Alisson Vaz Silva,False,True
+56,68,6692,1681752183,,1681752202,1.000.000,2023-04-17 17:23:03,2023-04-17 17:23:22,10.0,17,56,Alisson,Vaz Silva,Questão DESAFIO!,Alisson Vaz Silva,False,True
+57,40,805,1681148091,,1681148132,1.000.000,2023-04-10 17:34:51,2023-04-10 17:35:32,10.0,9,57,Luis Eduardo,Martins Formiga,Questão 01,Luis Eduardo Martins Formiga,False,True
+57,41,1071,1681149161,,1681149177,1.000.000,2023-04-10 17:52:41,2023-04-10 17:52:57,10.0,7,57,Luis Eduardo,Martins Formiga,Questão 02,Luis Eduardo Martins Formiga,False,True
+57,42,2085,1681265303,,1681265325,1.000.000,2023-04-12 02:08:23,2023-04-12 02:08:45,10.0,28,57,Luis Eduardo,Martins Formiga,Questão 03,Luis Eduardo Martins Formiga,False,True
+57,43,2244,1681268654,,1681268694,1.000.000,2023-04-12 03:04:14,2023-04-12 03:04:54,10.0,31,57,Luis Eduardo,Martins Formiga,Questão 04,Luis Eduardo Martins Formiga,False,True
+57,44,2677,1681340732,,1681340752,1.000.000,2023-04-12 23:05:32,2023-04-12 23:05:52,10.0,33,57,Luis Eduardo,Martins Formiga,Questão 05,Luis Eduardo Martins Formiga,False,True
+57,45,2681,1681340921,,1681340944,1.000.000,2023-04-12 23:08:41,2023-04-12 23:09:04,10.0,18,57,Luis Eduardo,Martins Formiga,Questão 06,Luis Eduardo Martins Formiga,False,True
+57,46,2790,1681348256,,1681348261,1.000.000,2023-04-13 01:10:56,2023-04-13 01:11:01,10.0,2,57,Luis Eduardo,Martins Formiga,Questão 07,Luis Eduardo Martins Formiga,False,True
+57,47,2820,1681349766,,1681349789,1.000.000,2023-04-13 01:36:06,2023-04-13 01:36:29,10.0,1,57,Luis Eduardo,Martins Formiga,Questão 08,Luis Eduardo Martins Formiga,False,True
+57,48,2836,1681350480,,1681350518,1.000.000,2023-04-13 01:48:00,2023-04-13 01:48:38,10.0,2,57,Luis Eduardo,Martins Formiga,Questão 09,Luis Eduardo Martins Formiga,False,True
+57,49,2866,1681351962,,1681351983,1.000.000,2023-04-13 02:12:42,2023-04-13 02:13:03,10.0,1,57,Luis Eduardo,Martins Formiga,Questão 10,Luis Eduardo Martins Formiga,False,True
+57,50,2867,1681352486,,1681352508,1.000.000,2023-04-13 02:21:26,2023-04-13 02:21:48,10.0,1,57,Luis Eduardo,Martins Formiga,Questão 11,Luis Eduardo Martins Formiga,False,True
+57,51,3941,1681503147,,1681503174,1.000.000,2023-04-14 20:12:27,2023-04-14 20:12:54,10.0,2,57,Luis Eduardo,Martins Formiga,Questão 12,Luis Eduardo Martins Formiga,False,True
+57,53,3997,1681503563,,1681503627,1.000.000,2023-04-14 20:19:23,2023-04-14 20:20:27,10.0,2,57,Luis Eduardo,Martins Formiga,Questão 13,Luis Eduardo Martins Formiga,False,True
+57,54,4066,1681503931,,1681503938,1.000.000,2023-04-14 20:25:31,2023-04-14 20:25:38,10.0,2,57,Luis Eduardo,Martins Formiga,Questão 14,Luis Eduardo Martins Formiga,False,True
+57,55,4262,1681505000,,1681505013,1.000.000,2023-04-14 20:43:20,2023-04-14 20:43:33,10.0,9,57,Luis Eduardo,Martins Formiga,Questão 15,Luis Eduardo Martins Formiga,False,True
+57,56,4367,1681505669,,1681505694,1.000.000,2023-04-14 20:54:29,2023-04-14 20:54:54,10.0,2,57,Luis Eduardo,Martins Formiga,Questão 16,Luis Eduardo Martins Formiga,False,True
+57,57,4439,1681506299,,1681506314,1.000.000,2023-04-14 21:04:59,2023-04-14 21:05:14,10.0,2,57,Luis Eduardo,Martins Formiga,Questão 17,Luis Eduardo Martins Formiga,False,True
+57,58,4944,1681574905,,1681574950,1.000.000,2023-04-15 16:08:25,2023-04-15 16:09:10,10.0,13,57,Luis Eduardo,Martins Formiga,Questão 18,Luis Eduardo Martins Formiga,False,True
+57,59,4950,1681576715,,1681576734,1.000.000,2023-04-15 16:38:35,2023-04-15 16:38:54,10.0,3,57,Luis Eduardo,Martins Formiga,Questão 19,Luis Eduardo Martins Formiga,False,True
+57,60,4955,1681577344,,1681577351,1.000.000,2023-04-15 16:49:04,2023-04-15 16:49:11,10.0,2,57,Luis Eduardo,Martins Formiga,Questão 20,Luis Eduardo Martins Formiga,False,True
+57,61,5122,1681592626,,1681592665,1.000.000,2023-04-15 21:03:46,2023-04-15 21:04:25,10.0,6,57,Luis Eduardo,Martins Formiga,Questão 21,Luis Eduardo Martins Formiga,False,True
+57,62,5168,1681594351,,1681594357,1.000.000,2023-04-15 21:32:31,2023-04-15 21:32:37,10.0,12,57,Luis Eduardo,Martins Formiga,Questão 22,Luis Eduardo Martins Formiga,False,True
+57,63,5645,1681652396,,1681652413,1.000.000,2023-04-16 13:39:56,2023-04-16 13:40:13,10.0,4,57,Luis Eduardo,Martins Formiga,Questão 23,Luis Eduardo Martins Formiga,False,True
+57,64,5646,1681653561,,1681653602,1.000.000,2023-04-16 13:59:21,2023-04-16 14:00:02,10.0,1,57,Luis Eduardo,Martins Formiga,Questão 24,Luis Eduardo Martins Formiga,False,True
+57,65,5660,1681655601,,1681655630,1.000.000,2023-04-16 14:33:21,2023-04-16 14:33:50,10.0,11,57,Luis Eduardo,Martins Formiga,Questão 25,Luis Eduardo Martins Formiga,False,True
+57,66,5663,1681658026,,1681658041,1.000.000,2023-04-16 15:13:46,2023-04-16 15:14:01,10.0,4,57,Luis Eduardo,Martins Formiga,Questão 26,Luis Eduardo Martins Formiga,False,True
+57,67,5668,1681659502,,1681659521,1.000.000,2023-04-16 15:38:22,2023-04-16 15:38:41,10.0,4,57,Luis Eduardo,Martins Formiga,Questão 27,Luis Eduardo Martins Formiga,False,True
+57,68,6762,1681752763,,1681752778,1.000.000,2023-04-17 17:32:43,2023-04-17 17:32:58,10.0,106,57,Luis Eduardo,Martins Formiga,Questão DESAFIO!,Luis Eduardo Martins Formiga,False,True
+58,40,857,1681148294,,1681502860,1.000.000,2023-04-10 17:38:14,2023-04-14 20:07:40,10.0,3,58,Kyan,Lucas,Questão 01,Kyan Lucas,False,True
+58,41,1247,1681150182,,1681150221,1.000.000,2023-04-10 18:09:42,2023-04-10 18:10:21,10.0,4,58,Kyan,Lucas,Questão 02,Kyan Lucas,False,True
+58,42,3990,1681503534,,1681503541,1.000.000,2023-04-14 20:18:54,2023-04-14 20:19:01,10.0,1,58,Kyan,Lucas,Questão 03,Kyan Lucas,False,True
+58,43,4139,1681504326,,1681504330,1.000.000,2023-04-14 20:32:06,2023-04-14 20:32:10,10.0,1,58,Kyan,Lucas,Questão 04,Kyan Lucas,False,True
+58,44,4370,1681505716,,1681505733,1.000.000,2023-04-14 20:55:16,2023-04-14 20:55:33,10.0,6,58,Kyan,Lucas,Questão 05,Kyan Lucas,False,True
+58,45,4470,1681506483,,1681506518,0,2023-04-14 21:08:03,2023-04-14 21:08:38,0.0,1,58,Kyan,Lucas,Questão 06,Kyan Lucas,False,True
+58,46,4974,1681579141,,1681579465,1.000.000,2023-04-15 17:19:01,2023-04-15 17:24:25,10.0,2,58,Kyan,Lucas,Questão 07,Kyan Lucas,False,True
+58,47,4988,1681580251,,1681580300,1.000.000,2023-04-15 17:37:31,2023-04-15 17:38:20,10.0,2,58,Kyan,Lucas,Questão 08,Kyan Lucas,False,True
+58,48,4994,1681581661,,1681581686,1.000.000,2023-04-15 18:01:01,2023-04-15 18:01:26,10.0,2,58,Kyan,Lucas,Questão 09,Kyan Lucas,False,True
+58,49,5005,1681582847,,1681582871,1.000.000,2023-04-15 18:20:47,2023-04-15 18:21:11,10.0,4,58,Kyan,Lucas,Questão 10,Kyan Lucas,False,True
+58,50,5016,1681583527,,1681583652,1.000.000,2023-04-15 18:32:07,2023-04-15 18:34:12,10.0,1,58,Kyan,Lucas,Questão 11,Kyan Lucas,False,True
+58,51,5036,1681585017,,1681585070,1.000.000,2023-04-15 18:56:57,2023-04-15 18:57:50,10.0,1,58,Kyan,Lucas,Questão 12,Kyan Lucas,False,True
+58,53,5040,1681585307,,1681585389,1.000.000,2023-04-15 19:01:47,2023-04-15 19:03:09,10.0,1,58,Kyan,Lucas,Questão 13,Kyan Lucas,False,True
+58,54,5046,1681586087,,1681586108,1.000.000,2023-04-15 19:14:47,2023-04-15 19:15:08,10.0,1,58,Kyan,Lucas,Questão 14,Kyan Lucas,False,True
+58,55,5204,1681598570,,1681598592,0,2023-04-15 22:42:50,2023-04-15 22:43:12,0.0,9,58,Kyan,Lucas,Questão 15,Kyan Lucas,False,True
+58,56,5210,1681599295,,1681599512,1.000.000,2023-04-15 22:54:55,2023-04-15 22:58:32,10.0,1,58,Kyan,Lucas,Questão 16,Kyan Lucas,False,True
+58,57,5226,1681600173,,1681600194,1.000.000,2023-04-15 23:09:33,2023-04-15 23:09:54,10.0,4,58,Kyan,Lucas,Questão 17,Kyan Lucas,False,True
+58,58,5228,1681600470,,1681600510,0,2023-04-15 23:14:30,2023-04-15 23:15:10,0.0,1,58,Kyan,Lucas,Questão 18,Kyan Lucas,False,True
+58,59,5763,1681664606,,1681664631,1.000.000,2023-04-16 17:03:26,2023-04-16 17:03:51,10.0,2,58,Kyan,Lucas,Questão 19,Kyan Lucas,False,True
+58,60,5765,1681664949,,1681665150,1.000.000,2023-04-16 17:09:09,2023-04-16 17:12:30,10.0,1,58,Kyan,Lucas,Questão 20,Kyan Lucas,False,True
+58,61,5776,1681665496,,1681665547,1.000.000,2023-04-16 17:18:16,2023-04-16 17:19:07,10.0,1,58,Kyan,Lucas,Questão 21,Kyan Lucas,False,True
+58,62,5786,1681666182,,1681666331,0,2023-04-16 17:29:42,2023-04-16 17:32:11,0.0,1,58,Kyan,Lucas,Questão 22,Kyan Lucas,False,True
+58,63,6981,1681772703,,1681772746,0,2023-04-17 23:05:03,2023-04-17 23:05:46,0.0,1,58,Kyan,Lucas,Questão 23,Kyan Lucas,False,True
+58,64,6991,1681773357,,1681773380,1.000.000,2023-04-17 23:15:57,2023-04-17 23:16:20,10.0,1,58,Kyan,Lucas,Questão 24,Kyan Lucas,False,True
+58,65,7001,1681773868,,1681773891,0,2023-04-17 23:24:28,2023-04-17 23:24:51,0.0,1,58,Kyan,Lucas,Questão 25,Kyan Lucas,False,True
+58,66,7232,1681857369,,1681857389,0,2023-04-18 22:36:09,2023-04-18 22:36:29,0.0,1,58,Kyan,Lucas,Questão 26,Kyan Lucas,False,True
+58,68,7242,1681858384,,1681858396,1.000.000,2023-04-18 22:53:04,2023-04-18 22:53:16,10.0,1,58,Kyan,Lucas,Questão DESAFIO!,Kyan Lucas,False,True
+60,40,389,1681145950,,1681146047,1.000.000,2023-04-10 16:59:10,2023-04-10 17:00:47,10.0,5,60,Mickaela,de Freitas,Questão 01,Mickaela de Freitas,False,True
+60,41,429,1681146309,,1681146342,1.000.000,2023-04-10 17:05:09,2023-04-10 17:05:42,10.0,2,60,Mickaela,de Freitas,Questão 02,Mickaela de Freitas,False,True
+60,42,532,1681146946,,1681146984,1.000.000,2023-04-10 17:15:46,2023-04-10 17:16:24,10.0,7,60,Mickaela,de Freitas,Questão 03,Mickaela de Freitas,False,True
+60,43,692,1681147623,,1681147648,1.000.000,2023-04-10 17:27:03,2023-04-10 17:27:28,10.0,7,60,Mickaela,de Freitas,Questão 04,Mickaela de Freitas,False,True
+60,44,796,1681148051,,1681148089,1.000.000,2023-04-10 17:34:11,2023-04-10 17:34:49,10.0,4,60,Mickaela,de Freitas,Questão 05,Mickaela de Freitas,False,True
+60,45,941,1681148611,,1681148641,1.000.000,2023-04-10 17:43:31,2023-04-10 17:44:01,10.0,3,60,Mickaela,de Freitas,Questão 06,Mickaela de Freitas,False,True
+60,46,1034,1681149019,,1681149041,1.000.000,2023-04-10 17:50:19,2023-04-10 17:50:41,10.0,2,60,Mickaela,de Freitas,Questão 07,Mickaela de Freitas,False,True
+60,47,1168,1681149513,,1681149536,1.000.000,2023-04-10 17:58:33,2023-04-10 17:58:56,10.0,2,60,Mickaela,de Freitas,Questão 08,Mickaela de Freitas,False,True
+60,48,2413,1681303127,,1681303164,1.000.000,2023-04-12 12:38:47,2023-04-12 12:39:24,10.0,1,60,Mickaela,de Freitas,Questão 09,Mickaela de Freitas,False,True
+60,49,2436,1681303608,,1681303613,1.000.000,2023-04-12 12:46:48,2023-04-12 12:46:53,10.0,2,60,Mickaela,de Freitas,Questão 10,Mickaela de Freitas,False,True
+60,50,2494,1681305541,,1681305582,1.000.000,2023-04-12 13:19:01,2023-04-12 13:19:42,10.0,1,60,Mickaela,de Freitas,Questão 11,Mickaela de Freitas,False,True
+60,51,2514,1681307353,,1681307364,1.000.000,2023-04-12 13:49:13,2023-04-12 13:49:24,10.0,2,60,Mickaela,de Freitas,Questão 12,Mickaela de Freitas,False,True
+60,53,2558,1681319470,,1681319612,1.000.000,2023-04-12 17:11:10,2023-04-12 17:13:32,10.0,1,60,Mickaela,de Freitas,Questão 13,Mickaela de Freitas,False,True
+60,54,3024,1681393432,,1681393471,1.000.000,2023-04-13 13:43:52,2023-04-13 13:44:31,10.0,1,60,Mickaela,de Freitas,Questão 14,Mickaela de Freitas,False,True
+60,55,3051,1681394543,,1681394573,1.000.000,2023-04-13 14:02:23,2023-04-13 14:02:53,10.0,3,60,Mickaela,de Freitas,Questão 15,Mickaela de Freitas,False,True
+60,56,3069,1681395132,,1681395178,1.000.000,2023-04-13 14:12:12,2023-04-13 14:12:58,10.0,3,60,Mickaela,de Freitas,Questão 16,Mickaela de Freitas,False,True
+60,57,3085,1681395602,,1681395653,1.000.000,2023-04-13 14:20:02,2023-04-13 14:20:53,10.0,1,60,Mickaela,de Freitas,Questão 17,Mickaela de Freitas,False,True
+60,58,6370,1681738810,,1681739038,1.000.000,2023-04-17 13:40:10,2023-04-17 13:43:58,10.0,19,60,Mickaela,de Freitas,Questão 18,Mickaela de Freitas,False,True
+60,59,6374,1681739459,,1681739498,1.000.000,2023-04-17 13:50:59,2023-04-17 13:51:38,10.0,1,60,Mickaela,de Freitas,Questão 19,Mickaela de Freitas,False,True
+60,60,6379,1681739887,,1681740001,1.000.000,2023-04-17 13:58:07,2023-04-17 14:00:01,10.0,3,60,Mickaela,de Freitas,Questão 20,Mickaela de Freitas,False,True
+60,61,7103,1681818624,,1681818642,1.000.000,2023-04-18 11:50:24,2023-04-18 11:50:42,10.0,6,60,Mickaela,de Freitas,Questão 21,Mickaela de Freitas,False,True
+60,62,7108,1681819051,,1681819086,1.000.000,2023-04-18 11:57:31,2023-04-18 11:58:06,10.0,2,60,Mickaela,de Freitas,Questão 22,Mickaela de Freitas,False,True
+60,63,7120,1681819596,,1681819600,1.000.000,2023-04-18 12:06:36,2023-04-18 12:06:40,10.0,4,60,Mickaela,de Freitas,Questão 23,Mickaela de Freitas,False,True
+60,64,7125,1681820060,,1681820067,1.000.000,2023-04-18 12:14:20,2023-04-18 12:14:27,10.0,3,60,Mickaela,de Freitas,Questão 24,Mickaela de Freitas,False,True
+60,65,7135,1681820662,,1681820678,1.000.000,2023-04-18 12:24:22,2023-04-18 12:24:38,10.0,4,60,Mickaela,de Freitas,Questão 25,Mickaela de Freitas,False,True
+60,66,7194,1681823552,,1681823599,1.000.000,2023-04-18 13:12:32,2023-04-18 13:13:19,10.0,23,60,Mickaela,de Freitas,Questão 26,Mickaela de Freitas,False,True
+60,67,7212,1681824586,,1681824592,1.000.000,2023-04-18 13:29:46,2023-04-18 13:29:52,10.0,9,60,Mickaela,de Freitas,Questão 27,Mickaela de Freitas,False,True
+60,68,7229,1681827408,,1681827431,1.000.000,2023-04-18 14:16:48,2023-04-18 14:17:11,10.0,6,60,Mickaela,de Freitas,Questão DESAFIO!,Mickaela de Freitas,False,True
+63,40,875,1681148356,,1681148376,1.000.000,2023-04-10 17:39:16,2023-04-10 17:39:36,10.0,18,63,Alexandre,Henrique,Questão 01,Alexandre Henrique,False,True
+63,41,1153,1681149466,,1681149596,1.000.000,2023-04-10 17:57:46,2023-04-10 17:59:56,10.0,13,63,Alexandre,Henrique,Questão 02,Alexandre Henrique,False,True
+63,42,5286,1681603826,,1681604119,1.000.000,2023-04-16 00:10:26,2023-04-16 00:15:19,10.0,27,63,Alexandre,Henrique,Questão 03,Alexandre Henrique,False,True
+63,43,5322,1681604740,,1681604779,1.000.000,2023-04-16 00:25:40,2023-04-16 00:26:19,10.0,8,63,Alexandre,Henrique,Questão 04,Alexandre Henrique,False,True
+63,44,5444,1681610342,,1681610402,1.000.000,2023-04-16 01:59:02,2023-04-16 02:00:02,10.0,6,63,Alexandre,Henrique,Questão 05,Alexandre Henrique,False,True
+63,45,5474,1681611653,,1681611666,1.000.000,2023-04-16 02:20:53,2023-04-16 02:21:06,10.0,7,63,Alexandre,Henrique,Questão 06,Alexandre Henrique,False,True
+63,46,5746,1681663375,,1681663393,1.000.000,2023-04-16 16:42:55,2023-04-16 16:43:13,10.0,5,63,Alexandre,Henrique,Questão 07,Alexandre Henrique,False,True
+63,47,5748,1681663673,,1681663723,1.000.000,2023-04-16 16:47:53,2023-04-16 16:48:43,10.0,1,63,Alexandre,Henrique,Questão 08,Alexandre Henrique,False,True
+63,48,5753,1681664000,,1681664021,1.000.000,2023-04-16 16:53:20,2023-04-16 16:53:41,10.0,2,63,Alexandre,Henrique,Questão 09,Alexandre Henrique,False,True
+63,49,6135,1681694168,,1681694185,1.000.000,2023-04-17 01:16:08,2023-04-17 01:16:25,10.0,11,63,Alexandre,Henrique,Questão 10,Alexandre Henrique,False,True
+63,50,6446,1681749731,,1681749780,1.000.000,2023-04-17 16:42:11,2023-04-17 16:43:00,10.0,2,63,Alexandre,Henrique,Questão 11,Alexandre Henrique,False,True
+63,51,6470,1681750097,,1681750134,1.000.000,2023-04-17 16:48:17,2023-04-17 16:48:54,10.0,1,63,Alexandre,Henrique,Questão 12,Alexandre Henrique,False,True
+63,53,6496,1681750398,,1681750401,1.000.000,2023-04-17 16:53:18,2023-04-17 16:53:21,10.0,2,63,Alexandre,Henrique,Questão 13,Alexandre Henrique,False,True
+63,54,6522,1681750767,,1681750802,1.000.000,2023-04-17 16:59:27,2023-04-17 17:00:02,10.0,2,63,Alexandre,Henrique,Questão 14,Alexandre Henrique,False,True
+63,55,6760,1681752759,,1681752818,1.000.000,2023-04-17 17:32:39,2023-04-17 17:33:38,10.0,8,63,Alexandre,Henrique,Questão 15,Alexandre Henrique,False,True
+63,56,6801,1681753524,,1681753620,1.000.000,2023-04-17 17:45:24,2023-04-17 17:47:00,10.0,1,63,Alexandre,Henrique,Questão 16,Alexandre Henrique,False,True
+63,57,6833,1681754056,,1681754119,1.000.000,2023-04-17 17:54:16,2023-04-17 17:55:19,10.0,2,63,Alexandre,Henrique,Questão 17,Alexandre Henrique,False,True
+63,58,6883,1681761942,,1681761970,1.000.000,2023-04-17 20:05:42,2023-04-17 20:06:10,10.0,8,63,Alexandre,Henrique,Questão 18,Alexandre Henrique,False,True
+63,59,6901,1681762734,,1681762859,1.000.000,2023-04-17 20:18:54,2023-04-17 20:20:59,10.0,6,63,Alexandre,Henrique,Questão 19,Alexandre Henrique,False,True
+63,60,7011,1681775811,,1681775816,1.000.000,2023-04-17 23:56:51,2023-04-17 23:56:56,10.0,4,63,Alexandre,Henrique,Questão 20,Alexandre Henrique,False,True
+63,61,7016,1681776704,,1681776720,1.000.000,2023-04-18 00:11:44,2023-04-18 00:12:00,10.0,2,63,Alexandre,Henrique,Questão 21,Alexandre Henrique,False,True
+63,62,7278,1681862220,,1681862278,1.000.000,2023-04-18 23:57:00,2023-04-18 23:57:58,10.0,7,63,Alexandre,Henrique,Questão 22,Alexandre Henrique,False,True
+63,63,7314,1681865347,,1681865359,1.000.000,2023-04-19 00:49:07,2023-04-19 00:49:19,10.0,14,63,Alexandre,Henrique,Questão 23,Alexandre Henrique,True,False
+63,64,7317,1681865696,,1681865715,1.000.000,2023-04-19 00:54:56,2023-04-19 00:55:15,10.0,2,63,Alexandre,Henrique,Questão 24,Alexandre Henrique,True,False
+63,65,7354,1681867534,,1681867658,1.000.000,2023-04-19 01:25:34,2023-04-19 01:27:38,10.0,8,63,Alexandre,Henrique,Questão 25,Alexandre Henrique,True,False
+63,66,7569,1681948408,,1681948416,1.000.000,2023-04-19 23:53:28,2023-04-19 23:53:36,10.0,9,63,Alexandre,Henrique,Questão 26,Alexandre Henrique,True,False
+63,67,7576,1681950534,,1681950551,1.000.000,2023-04-20 00:28:54,2023-04-20 00:29:11,10.0,3,63,Alexandre,Henrique,Questão 27,Alexandre Henrique,True,False
+63,68,7666,1682033923,,1682033942,1.000.000,2023-04-20 23:38:43,2023-04-20 23:39:02,10.0,3,63,Alexandre,Henrique,Questão DESAFIO!,Alexandre Henrique,True,False
+64,40,843,1681148234,,1681148266,1.000.000,2023-04-10 17:37:14,2023-04-10 17:37:46,10.0,2,64,wilma,silva dos santos,Questão 01,wilma silva dos santos,False,True
+64,41,1222,1681149722,,1681149794,1.000.000,2023-04-10 18:02:02,2023-04-10 18:03:14,10.0,3,64,wilma,silva dos santos,Questão 02,wilma silva dos santos,False,True
+64,42,2615,1681325844,,1681325906,1.000.000,2023-04-12 18:57:24,2023-04-12 18:58:26,10.0,10,64,wilma,silva dos santos,Questão 03,wilma silva dos santos,False,True
+64,43,5914,1681672157,,1681672172,1.000.000,2023-04-16 19:09:17,2023-04-16 19:09:32,10.0,34,64,wilma,silva dos santos,Questão 04,wilma silva dos santos,False,True
+64,44,5932,1681673504,,1681673540,1.000.000,2023-04-16 19:31:44,2023-04-16 19:32:20,10.0,3,64,wilma,silva dos santos,Questão 05,wilma silva dos santos,False,True
+64,45,5948,1681673999,,1681674015,1.000.000,2023-04-16 19:39:59,2023-04-16 19:40:15,10.0,3,64,wilma,silva dos santos,Questão 06,wilma silva dos santos,False,True
+64,46,5970,1681675956,,1681676063,1.000.000,2023-04-16 20:12:36,2023-04-16 20:14:23,10.0,9,64,wilma,silva dos santos,Questão 07,wilma silva dos santos,False,True
+64,47,6028,1681682675,,1681682678,0,2023-04-16 22:04:35,2023-04-16 22:04:38,0.0,15,64,wilma,silva dos santos,Questão 08,wilma silva dos santos,False,True
+64,48,6884,1681762050,,1681762064,1.000.000,2023-04-17 20:07:30,2023-04-17 20:07:44,10.0,2,64,wilma,silva dos santos,Questão 09,wilma silva dos santos,False,True
+64,49,6896,1681762472,,1681762517,1.000.000,2023-04-17 20:14:32,2023-04-17 20:15:17,10.0,2,64,wilma,silva dos santos,Questão 10,wilma silva dos santos,False,True
+64,50,6909,1681763109,,1681763125,1.000.000,2023-04-17 20:25:09,2023-04-17 20:25:25,10.0,7,64,wilma,silva dos santos,Questão 11,wilma silva dos santos,False,True
+64,51,6917,1681763498,,1681763530,1.000.000,2023-04-17 20:31:38,2023-04-17 20:32:10,10.0,2,64,wilma,silva dos santos,Questão 12,wilma silva dos santos,False,True
+64,53,6923,1681763918,,1681763935,1.000.000,2023-04-17 20:38:38,2023-04-17 20:38:55,10.0,3,64,wilma,silva dos santos,Questão 13,wilma silva dos santos,False,True
+64,54,6930,1681764268,,1681764297,1.000.000,2023-04-17 20:44:28,2023-04-17 20:44:57,10.0,1,64,wilma,silva dos santos,Questão 14,wilma silva dos santos,False,True
+64,55,6934,1681764790,,1681764823,1.000.000,2023-04-17 20:53:10,2023-04-17 20:53:43,10.0,1,64,wilma,silva dos santos,Questão 15,wilma silva dos santos,False,True
+64,56,6943,1681765396,,1681765441,1.000.000,2023-04-17 21:03:16,2023-04-17 21:04:01,10.0,3,64,wilma,silva dos santos,Questão 16,wilma silva dos santos,False,True
+64,57,7094,1681817340,,1681817380,1.000.000,2023-04-18 11:29:00,2023-04-18 11:29:40,10.0,7,64,wilma,silva dos santos,Questão 17,wilma silva dos santos,False,True
+64,58,7122,1681819771,,1681819827,1.000.000,2023-04-18 12:09:31,2023-04-18 12:10:27,10.0,9,64,wilma,silva dos santos,Questão 18,wilma silva dos santos,False,True
+64,59,7144,1681821139,,1681821170,1.000.000,2023-04-18 12:32:19,2023-04-18 12:32:50,10.0,5,64,wilma,silva dos santos,Questão 19,wilma silva dos santos,False,True
+64,60,7165,1681822082,,1681822151,1.000.000,2023-04-18 12:48:02,2023-04-18 12:49:11,10.0,10,64,wilma,silva dos santos,Questão 20,wilma silva dos santos,False,True
+64,61,7222,1681826184,,1681826209,1.000.000,2023-04-18 13:56:24,2023-04-18 13:56:49,10.0,5,64,wilma,silva dos santos,Questão 21,wilma silva dos santos,False,True
+64,62,7270,1681861849,,1681861894,1.000.000,2023-04-18 23:50:49,2023-04-18 23:51:34,10.0,4,64,wilma,silva dos santos,Questão 22,wilma silva dos santos,False,True
+64,63,7299,1681864728,,1681864746,1.000.000,2023-04-19 00:38:48,2023-04-19 00:39:06,10.0,5,64,wilma,silva dos santos,Questão 23,wilma silva dos santos,True,False
+64,64,7308,1681865165,,1681865203,1.000.000,2023-04-19 00:46:05,2023-04-19 00:46:43,10.0,1,64,wilma,silva dos santos,Questão 24,wilma silva dos santos,True,False
+64,65,7362,1681867819,,1681867869,1.000.000,2023-04-19 01:30:19,2023-04-19 01:31:09,10.0,14,64,wilma,silva dos santos,Questão 25,wilma silva dos santos,True,False
+64,66,7378,1681869458,,1681869477,1.000.000,2023-04-19 01:57:38,2023-04-19 01:57:57,10.0,11,64,wilma,silva dos santos,Questão 26,wilma silva dos santos,True,False
+64,67,7448,1681900986,,1681901045,1.000.000,2023-04-19 10:43:06,2023-04-19 10:44:05,10.0,6,64,wilma,silva dos santos,Questão 27,wilma silva dos santos,True,False
+64,68,7485,1681909671,,1681909748,1.000.000,2023-04-19 13:07:51,2023-04-19 13:09:08,10.0,30,64,wilma,silva dos santos,Questão DESAFIO!,wilma silva dos santos,True,False
+65,40,1143,1681149429,,1681149472,1.000.000,2023-04-10 17:57:09,2023-04-10 17:57:52,10.0,20,65,Debriane,Silva,Questão 01,Debriane Silva,False,True
+65,41,4058,1681503844,Professor pode dizer onde errei ?Não consigo compilar.,1681503876,1.000.000,2023-04-14 20:24:04,2023-04-14 20:24:36,10.0,73,65,Debriane,Silva,Questão 02,Debriane Silva,False,True
+65,42,4209,1681504716,,1681504749,1.000.000,2023-04-14 20:38:36,2023-04-14 20:39:09,10.0,1,65,Debriane,Silva,Questão 03,Debriane Silva,False,True
+65,43,4300,1681505329,,1681505353,1.000.000,2023-04-14 20:48:49,2023-04-14 20:49:13,10.0,1,65,Debriane,Silva,Questão 04,Debriane Silva,False,True
+65,44,4504,1681506823,,1681506843,1.000.000,2023-04-14 21:13:43,2023-04-14 21:14:03,10.0,15,65,Debriane,Silva,Questão 05,Debriane Silva,False,True
+65,45,4771,1681556161,,1681556221,0,2023-04-15 10:56:01,2023-04-15 10:57:01,0.0,93,65,Debriane,Silva,Questão 06,Debriane Silva,False,True
+65,46,5423,1681609166,,1681609230,0,2023-04-16 01:39:26,2023-04-16 01:40:30,0.0,51,65,Debriane,Silva,Questão 07,Debriane Silva,False,True
+65,47,5606,1681644418,,1681644435,0,2023-04-16 11:26:58,2023-04-16 11:27:15,0.0,33,65,Debriane,Silva,Questão 08,Debriane Silva,False,True
+65,48,5902,1681671897,,1681671921,0,2023-04-16 19:04:57,2023-04-16 19:05:21,0.0,14,65,Debriane,Silva,Questão 09,Debriane Silva,False,True
+65,49,6270,1681726814,,1681726827,0,2023-04-17 10:20:14,2023-04-17 10:20:27,0.0,29,65,Debriane,Silva,Questão 10,Debriane Silva,False,True
+65,50,6321,1681737176,,1681737216,0,2023-04-17 13:12:56,2023-04-17 13:13:36,0.0,11,65,Debriane,Silva,Questão 11,Debriane Silva,False,True
+65,51,6897,1681762486,,1681762516,1.000.000,2023-04-17 20:14:46,2023-04-17 20:15:16,10.0,8,65,Debriane,Silva,Questão 12,Debriane Silva,False,True
+65,53,6919,1681763539,,1681763562,1.000.000,2023-04-17 20:32:19,2023-04-17 20:32:42,10.0,8,65,Debriane,Silva,Questão 13,Debriane Silva,False,True
+65,54,6929,1681764101,,1681764129,1.000.000,2023-04-17 20:41:41,2023-04-17 20:42:09,10.0,3,65,Debriane,Silva,Questão 14,Debriane Silva,False,True
+65,55,6936,1681764937,,1681764971,1.000.000,2023-04-17 20:55:37,2023-04-17 20:56:11,10.0,2,65,Debriane,Silva,Questão 15,Debriane Silva,False,True
+65,56,7061,1681809279,,1681809420,0,2023-04-18 09:14:39,2023-04-18 09:17:00,0.0,17,65,Debriane,Silva,Questão 16,Debriane Silva,False,True
+65,57,7109,1681819098,,1681819122,1.000.000,2023-04-18 11:58:18,2023-04-18 11:58:42,10.0,15,65,Debriane,Silva,Questão 17,Debriane Silva,False,True
+65,58,7145,1681821205,,1681821575,0,2023-04-18 12:33:25,2023-04-18 12:39:35,0.0,21,65,Debriane,Silva,Questão 18,Debriane Silva,False,True
+65,59,7220,1681825596,,1681826297,0,2023-04-18 13:46:36,2023-04-18 13:58:17,0.0,12,65,Debriane,Silva,Questão 19,Debriane Silva,False,True
+65,60,7237,1681858162,,1681858182,0,2023-04-18 22:49:22,2023-04-18 22:49:42,0.0,19,65,Debriane,Silva,Questão 20,Debriane Silva,False,True
+65,61,7293,1681864022,,1681864242,0,2023-04-19 00:27:02,2023-04-19 00:30:42,0.0,14,65,Debriane,Silva,Questão 21,Debriane Silva,True,False
+65,63,7350,1681867228,,1681867293,0,2023-04-19 01:20:28,2023-04-19 01:21:33,0.0,10,65,Debriane,Silva,Questão 23,Debriane Silva,True,False
+65,64,7421,1681893882,,1681893895,0,2023-04-19 08:44:42,2023-04-19 08:44:55,0.0,10,65,Debriane,Silva,Questão 24,Debriane Silva,True,False
+65,65,7447,1681897125,,1681897137,0,2023-04-19 09:38:45,2023-04-19 09:38:57,0.0,26,65,Debriane,Silva,Questão 25,Debriane Silva,True,False
+65,66,7495,1681911361,,1681911374,0,2023-04-19 13:36:01,2023-04-19 13:36:14,0.0,6,65,Debriane,Silva,Questão 26,Debriane Silva,True,False
+65,67,7538,1681917254,,1681917320,0,2023-04-19 15:14:14,2023-04-19 15:15:20,0.0,4,65,Debriane,Silva,Questão 27,Debriane Silva,True,False

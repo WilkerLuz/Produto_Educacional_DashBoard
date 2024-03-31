@@ -1,0 +1,42 @@
+ID,Nome:,Gênero:,Qual sua faixa etária (idade)?,É a primeira vez que você cursa a disciplina de Programação Estruturada?,Você possui alguma experiência na Área de Programação?,Qual o principal motivo para você ter escolhido o curso de Bacharelado em Ciência da Computação?,"Quantas horas por semana, aproximadamente, você pode dedicar aos estudos (excetuando as horas de aula)?"
+aluno 01,aluno 01,Masculino,Entre 18 e 25 anos,Sim,"Sim, já fiz cursos, consigo realizar pequenos projetos, mas nada muito avançado.",Vocação,Mais de doze horas
+aluno 02,aluno 02,Masculino,Menor de 18 anos,Sim,"Não, será o primeiro contato.",Inserção no mercado de trabalho,De uma a três horas
+aluno 03,aluno 03,Masculino,Entre 18 e 25 anos,Não,"Sim, já fiz cursos, consigo realizar pequenos projetos, mas nada muito avançado.",Valorização profissional,De uma a três horas
+aluno 04,aluno 04,Masculino,Acima de 30 anos,Sim,"Não, será o primeiro contato.",Possibilidade de conciliar trabalho e estudo,De quatro a sete horas
+aluno 05,aluno 05,Masculino,Entre 18 e 25 anos,Sim,"Sim, já fiz cursos, consigo realizar pequenos projetos, mas nada muito avançado.",Vocação,De uma a três horas
+aluno 06,aluno 06,Masculino,Entre 18 e 25 anos,Sim,"Sim, já fiz cursos, consigo realizar pequenos projetos, mas nada muito avançado.",Vocação,De quatro a sete horas
+aluno 07,aluno 07,Masculino,Entre 18 e 25 anos,Sim,"Não, será o primeiro contato.",Vocação,Mais de doze horas
+aluno 08,aluno 08,Masculino,Entre 18 e 25 anos,Sim,"Não, será o primeiro contato.",Inserção no mercado de trabalho,Mais de doze horas
+aluno 09,aluno 09,Masculino,Entre 18 e 25 anos,Não,"Sim, já fiz cursos, consigo realizar pequenos projetos, mas nada muito avançado.",Valorização profissional,De uma a três horas
+aluno 10,aluno 10,Feminino,Menor de 18 anos,Sim,"Sim, já fiz cursos, consigo realizar pequenos projetos, mas nada muito avançado.",Valorização profissional,De oito a doze horas
+aluno 11,aluno 11,Feminino,Entre 18 e 25 anos,Sim,"Sim, já tive contato, mas não consigo programar sozinho sem ajuda.",Valorização profissional,De quatro a sete horas
+aluno 12,aluno 12,Masculino,Entre 18 e 25 anos,Sim,"Não, será o primeiro contato.",Inserção no mercado de trabalho,De uma a três horas
+aluno 13,aluno 13,Masculino,Entre 26 e 30 anos,Sim,"Sim, já tive contato, mas não consigo programar sozinho sem ajuda.",Inserção no mercado de trabalho,De uma a três horas
+aluno 14,aluno 14,Masculino,Entre 18 e 25 anos,Sim,"Não, será o primeiro contato.",Inserção no mercado de trabalho,De quatro a sete horas
+aluno 15,aluno 15,Masculino,Entre 18 e 25 anos,Sim,"Não, será o primeiro contato.",Inserção no mercado de trabalho,De oito a doze horas
+aluno 16,aluno 16,Masculino,Entre 18 e 25 anos,Sim,"Sim, já fiz cursos, consigo realizar pequenos projetos, mas nada muito avançado.",Outro,De quatro a sete horas
+aluno 17,aluno 17,Masculino,Entre 18 e 25 anos,Sim,"Não, será o primeiro contato.",Outro,De quatro a sete horas
+aluno 18,aluno 18,Feminino,Entre 18 e 25 anos,Sim,"Não, será o primeiro contato.",Valorização profissional,De uma a três horas
+aluno 19,aluno 19,Masculino,Menor de 18 anos,Sim,"Sim, já tive contato, mas não consigo programar sozinho sem ajuda.",Inserção no mercado de trabalho,Mais de doze horas
+aluno 20,aluno 20,Masculino,Menor de 18 anos,Não,"Sim, muita experiência mas não trabalho na área.",Vocação,De uma a três horas
+aluno 21,aluno 21,Masculino,Entre 18 e 25 anos,Sim,"Sim, já tive contato, mas não consigo programar sozinho sem ajuda.",Vocação,De quatro a sete horas
+aluno 22,aluno 22,Masculino,Entre 18 e 25 anos,Sim,"Não, será o primeiro contato.",Inserção no mercado de trabalho,De uma a três horas
+aluno 23,aluno 23,Feminino,Entre 18 e 25 anos,Sim,"Sim, já tive contato, mas não consigo programar sozinho sem ajuda.",Inserção no mercado de trabalho,De uma a três horas
+aluno 24,aluno 24,Masculino,Entre 18 e 25 anos,Sim,"Sim, já tive contato, mas não consigo programar sozinho sem ajuda.",Vocação,De uma a três horas
+aluno 25,aluno 25,Masculino,Entre 18 e 25 anos,Sim,"Não, será o primeiro contato.",Inserção no mercado de trabalho,De quatro a sete horas
+aluno 26,aluno 26,Masculino,Entre 18 e 25 anos,Sim,"Não, será o primeiro contato.",Influência familiar,Mais de doze horas
+aluno 27,aluno 27,Masculino,Menor de 18 anos,Sim,"Sim, já tive contato, mas não consigo programar sozinho sem ajuda.",Inserção no mercado de trabalho,De quatro a sete horas
+aluno 28,aluno 28,Masculino,Entre 18 e 25 anos,Sim,"Sim, já fiz cursos, consigo realizar pequenos projetos, mas nada muito avançado.",Valorização profissional,De uma a três horas
+aluno 29,aluno 29,Masculino,Acima de 30 anos,Não,"Sim, já tive contato, mas não consigo programar sozinho sem ajuda.",Inserção no mercado de trabalho,De uma a três horas
+aluno 30,aluno 30,Masculino,Entre 18 e 25 anos,Não,"Sim, já tive contato, mas não consigo programar sozinho sem ajuda.",Influência familiar,De uma a três horas
+aluno 31,aluno 31,Feminino,Entre 18 e 25 anos,Não,"Sim, já tive contato, mas não consigo programar sozinho sem ajuda.",Inserção no mercado de trabalho,De uma a três horas
+aluno 32,aluno 32,Masculino,Entre 18 e 25 anos,Não,"Sim, já tive contato, mas não consigo programar sozinho sem ajuda.",Inserção no mercado de trabalho,De quatro a sete horas
+aluno 33,aluno 33,Masculino,Entre 18 e 25 anos,Sim,"Sim, já tive contato, mas não consigo programar sozinho sem ajuda.",Vocação,De quatro a sete horas
+aluno 34,aluno 34,Masculino,Entre 18 e 25 anos,Sim,"Não, será o primeiro contato.",Inserção no mercado de trabalho,De uma a três horas
+aluno 35,aluno 35,Masculino,Entre 18 e 25 anos,Sim,"Não, será o primeiro contato.",Outro,De uma a três horas
+aluno 36,aluno 36,Masculino,Acima de 30 anos,Sim,"Sim, muita experiência mas não trabalho na área.",Vocação,De quatro a sete horas
+aluno 37,aluno 37,Feminino,Menor de 18 anos,Sim,"Sim, já fiz cursos, consigo realizar pequenos projetos, mas nada muito avançado.",Inserção no mercado de trabalho,De uma a três horas
+aluno 38,aluno 38,Feminino,Entre 18 e 25 anos,Não,"Sim, já tive contato, mas não consigo programar sozinho sem ajuda.",Vocação,De quatro a sete horas
+aluno 39,aluno 39,Masculino,Entre 18 e 25 anos,Sim,"Sim, já tive contato, mas não consigo programar sozinho sem ajuda.",Inserção no mercado de trabalho,De uma a três horas
+aluno 40,aluno 40,Masculino,Entre 18 e 25 anos,Sim,"Sim, já tive contato, mas não consigo programar sozinho sem ajuda.",Inserção no mercado de trabalho,De quatro a sete horas
+aluno 41,aluno 41,Masculino,Entre 18 e 25 anos,Sim,"Não, será o primeiro contato.",Inserção no mercado de trabalho,De quatro a sete horas
